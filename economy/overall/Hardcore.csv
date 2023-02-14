@@ -128,7 +128,7 @@
 "vaal rain of arrows",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal rain of arrows""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p50,0,3
 "vaal blade vortex",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal blade vortex""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "vaal spectral throw",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal spectral throw""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p5,0,1
-"vaal ancestral warchief",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal ancestral warchief""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,9
+"vaal ancestral warchief",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal ancestral warchief""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,10
 "vaal detonate dead",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal detonate dead""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "orb of alchemy",currency,"[]",p10,18,0.13
 "araku tiki",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
