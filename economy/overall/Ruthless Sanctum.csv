@@ -579,8 +579,8 @@
 "primal crystallised lifeforce",currency,"[]",p7,100,0.00545
 "orb of alchemy",currency,"[]",p50,30,0.875
 "additional accuracy support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""additional accuracy support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"crescent splinter",fragment,"[]",p10,0,5
 "orb of alchemy",currency,"[]",p15,9,0.75
+"crescent splinter",fragment,"[]",p10,0,5
 "orb of alteration",currency,"[]",p15,0,0.26
 "explorer's scouting report",scouting report,"[]",p50,0,1.5
 "vivid crystallised lifeforce",currency,"[]",totalValidListings,18,4
