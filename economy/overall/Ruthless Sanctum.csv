@@ -449,8 +449,8 @@
 "fracturing shard",currency,"[]",totalQuantity,0,18
 "wild crystallised lifeforce",currency,"[]",p7,50,0.008176923076923078
 "lesser eldritch ember",currency,"[]",p10,0,2.6
-"cartographer's chisel",currency,"[]",totalValidListings,18,4
 "armourer's scrap",currency,"[]",p20,0,0.05
+"cartographer's chisel",currency,"[]",totalValidListings,18,4
 "portal scroll",currency,"[]",p10,30,0.01666666666666667
 "orb of transmutation",currency,"[]",p5,9,0.03433333333333333
 "maim support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""maim support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,0.2875
