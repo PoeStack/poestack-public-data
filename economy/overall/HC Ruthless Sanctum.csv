@@ -10,9 +10,9 @@
 "second wind support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""second wind support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "wyrmsign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "darkness enthroned",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,7
-"added fire damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added fire damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "herald of purity",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""herald of purity""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "lightning penetration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""lightning penetration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,0.996
+"added fire damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added fire damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "cruelty support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cruelty support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "volley support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""volley support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1.15
@@ -406,8 +406,8 @@
 "ground slam",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ground slam""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "infernal legion support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""infernal legion support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "charged traps support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""charged traps support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
-"added fire damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added fire damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
+"added fire damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added fire damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "zealotry",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""zealotry""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "herald of purity",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""herald of purity""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,2.075
 "general's cry",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""general's cry support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
