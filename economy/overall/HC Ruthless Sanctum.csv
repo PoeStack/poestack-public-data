@@ -10,9 +10,9 @@
 "second wind support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""second wind support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "wyrmsign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "darkness enthroned",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,7
+"lightning penetration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""lightning penetration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,0.996
 "herald of purity",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""herald of purity""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "added fire damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added fire damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
-"lightning penetration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""lightning penetration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,0.996
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "cruelty support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cruelty support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "volley support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""volley support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1.15
@@ -81,8 +81,8 @@
 "purity of ice",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""purity of ice""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
 "shiversting",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1
 "cold snap",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cold snap""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
-"cruelty support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cruelty support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "lifetap support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""lifetap support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,2
+"cruelty support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cruelty support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "greater volley support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""greater volley support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "facebreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "cinderswallow urn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,1.6
@@ -233,8 +233,8 @@
 "energy leech support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""energy leech support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "efficacy support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""efficacy support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,2.995
 "plague bearer",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""plague bearer""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
-"added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,6
 "faster projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
+"added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,6
 "maim support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""maim support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "fireball",gem,"[{""key"":""lvl"",""value"":""2-14""},{""key"":""typeLine"",""value"":""fireball""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "hypothermia support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""hypothermia support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
@@ -479,8 +479,8 @@
 "impale support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,6
 "life leech support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""life leech support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "life gain on hit support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""life gain on hit support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
-"second wind support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""second wind support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "prismatic eclipse",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,1
+"second wind support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""second wind support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "efficacy support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""efficacy support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "trap support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""trap support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "geofri's sanctuary",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p5,0,5
