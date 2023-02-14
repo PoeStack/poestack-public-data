@@ -233,8 +233,8 @@
 "energy leech support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""energy leech support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "efficacy support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""efficacy support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,2.995
 "plague bearer",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""plague bearer""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
-"faster projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,6
+"faster projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "maim support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""maim support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "fireball",gem,"[{""key"":""lvl"",""value"":""2-14""},{""key"":""typeLine"",""value"":""fireball""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "hypothermia support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""hypothermia support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
