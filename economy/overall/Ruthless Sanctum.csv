@@ -42,14 +42,14 @@
 "string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p10,0,1.3
 "portal scroll",currency,"[]",p15,0,0.01666666666666667
 "jeweller's orb",currency,"[]",p15,0,0.125
-"orb of alchemy",currency,"[]",totalQuantity,50,1918
+"orb of alchemy",currency,"[]",totalQuantity,50,2082
 "portal scroll",currency,"[]",p50,100,0.02083333333333334
 "grand eldritch ember",currency,"[]",p10,0,2.3
 "the primordial chain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "orb of regret",currency,"[]",totalQuantity,0,18
 "vivid crystallised lifeforce",currency,"[]",totalQuantity,18,1843
 "orb of annulment",currency,"[]",p10,0,9.2
-"orb of alchemy",currency,"[]",totalValidListings,30,4
+"orb of alchemy",currency,"[]",totalValidListings,30,5
 "pinpoint support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""pinpoint support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "imbued catalyst",currency,"[]",p50,0,0.75
 "city square map",map,"[{""key"":""tier"",""value"":""11""}]",p7,0,1.8025
@@ -75,7 +75,7 @@
 "freezing pulse",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""freezing pulse""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,0.45
 "ancestral call support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ancestral call support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "simulacrum splinter",fragment,"[]",totalQuantity,0,337
-"orb of alchemy",currency,"[]",totalQuantity,18,1918
+"orb of alchemy",currency,"[]",totalQuantity,18,2082
 "added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,0.75
 "minion damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""minion damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "primal crystallised lifeforce",currency,"[]",p7,30,0.00545
@@ -139,7 +139,7 @@
 "added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,0.5
 "tainted armourer's scrap",currency,"[]",p5,0,3.55
 "cartographer's chisel",currency,"[]",p15,9,0.25
-"orb of alchemy",currency,"[]",totalValidListings,18,5
+"orb of alchemy",currency,"[]",totalValidListings,18,6
 "orb of transmutation",currency,"[]",p10,0,0.04478260869565218
 "ancestral call support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ancestral call support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "chromatic orb",currency,"[]",p5,30,0.06738095238095237
@@ -194,7 +194,7 @@
 "penance brand",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""penance brand""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.325
 "primal crystallised lifeforce",currency,"[]",p50,100,0.007142857142857143
 "orb of alteration",currency,"[]",p10,0,0.24
-"orb of alchemy",currency,"[]",totalQuantity,0,1918
+"orb of alchemy",currency,"[]",totalQuantity,0,2082
 "orb of transmutation",currency,"[]",p15,100,0.03633333333333334
 "grand eldritch ember",currency,"[]",p5,0,2.15
 "increased critical strikes support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""increased critical strikes support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -227,7 +227,7 @@
 "cursed crypt map",map,"[{""key"":""tier"",""value"":""12""}]",p5,0,2
 "lesser eldritch ember",currency,"[]",p7,0,2.57
 "orb of alchemy",currency,"[]",p7,18,0.75
-"orb of alchemy",currency,"[]",p20,0,1
+"orb of alchemy",currency,"[]",p20,0,0.8666666666666666
 "exalted orb",currency,"[]",p15,0,32.25
 "orb of chance",currency,"[]",p20,0,0.5
 "orb of annulment",currency,"[]",p50,0,10
@@ -291,7 +291,7 @@
 "tainted jeweller's orb",currency,"[]",totalValidListings,0,4
 "shield crush",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""shield crush""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.325
 "black oil",oil,"[]",totalQuantity,0,7
-"orb of alchemy",currency,"[]",totalQuantity,30,1918
+"orb of alchemy",currency,"[]",totalQuantity,30,2082
 "chromatic orb",currency,"[]",totalValidListings,18,4
 "primal crystallised lifeforce",currency,"[]",p10,50,0.005642857142857143
 "orb of transmutation",currency,"[]",p15,18,0.03633333333333334
@@ -311,7 +311,7 @@
 "cartographer's chisel",currency,"[]",p10,18,0.25
 "string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p20,0,1.6
 "astragali",artifacts,"[]",p5,0,1
-"orb of alchemy",currency,"[]",p50,100,0.875
+"orb of alchemy",currency,"[]",p50,100,0.8333333333333333
 "tainted blacksmith's whetstone",currency,"[]",p20,0,1
 "cartographer's chisel",currency,"[]",p5,9,0.25
 "pinpoint support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""pinpoint support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,0.5874999999999999
@@ -373,7 +373,7 @@
 "cartographer's chisel",currency,"[]",totalQuantity,0,243
 "behead support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""behead support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "vaal orb",currency,"[]",p10,0,2.53
-"orb of alchemy",currency,"[]",totalValidListings,100,4
+"orb of alchemy",currency,"[]",totalValidListings,100,5
 "portal scroll",currency,"[]",p7,9,0.01666666666666667
 "tainted armourer's scrap",currency,"[]",totalValidListings,0,3
 "vivid crystallised lifeforce",currency,"[]",p20,18,0.008733233979135618
@@ -432,12 +432,12 @@
 "vivid crystallised lifeforce",currency,"[]",p7,50,0.004166233766233767
 "vivid crystallised lifeforce",currency,"[]",p15,50,0.005662337662337662
 "string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
-"orb of alchemy",currency,"[]",p20,9,0.8
+"orb of alchemy",currency,"[]",p20,9,0.7833333333333333
 "noxious catalyst",currency,"[]",p20,0,0.92
 "chromatic orb",currency,"[]",totalQuantity,18,890
 "cartographer's chisel",currency,"[]",p7,9,0.25
 "wild crystallised lifeforce",currency,"[]",totalValidListings,30,4
-"orb of alchemy",currency,"[]",p50,50,0.875
+"orb of alchemy",currency,"[]",p50,50,0.8333333333333333
 "voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p5,0,1
 "vaal orb",currency,"[]",totalValidListings,0,4
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
@@ -449,8 +449,8 @@
 "fracturing shard",currency,"[]",totalQuantity,0,18
 "wild crystallised lifeforce",currency,"[]",p7,50,0.008176923076923078
 "lesser eldritch ember",currency,"[]",p10,0,2.6
-"armourer's scrap",currency,"[]",p20,0,0.05
 "cartographer's chisel",currency,"[]",totalValidListings,18,4
+"armourer's scrap",currency,"[]",p20,0,0.05
 "portal scroll",currency,"[]",p10,30,0.01666666666666667
 "orb of transmutation",currency,"[]",p5,9,0.03433333333333333
 "maim support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""maim support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,0.2875
@@ -577,13 +577,13 @@
 "armourer's scrap",currency,"[]",totalQuantity,0,1223
 "penance brand",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""penance brand""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
 "primal crystallised lifeforce",currency,"[]",p7,100,0.00545
-"orb of alchemy",currency,"[]",p50,30,0.875
+"orb of alchemy",currency,"[]",p50,30,0.8333333333333333
 "additional accuracy support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""additional accuracy support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"orb of alchemy",currency,"[]",p15,9,0.75
+"orb of alchemy",currency,"[]",p15,9,0.7541666666666667
 "crescent splinter",fragment,"[]",p10,0,5
 "orb of alteration",currency,"[]",p15,0,0.26
-"explorer's scouting report",scouting report,"[]",p50,0,1.5
 "vivid crystallised lifeforce",currency,"[]",totalValidListings,18,4
+"explorer's scouting report",scouting report,"[]",p50,0,1.5
 "behead support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""behead support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "orb of alchemy",currency,"[]",p20,100,0.75
 "portal scroll",currency,"[]",totalValidListings,18,4
@@ -651,13 +651,13 @@
 "primal crystallised lifeforce",currency,"[]",totalQuantity,18,10057
 "ritual vessel",currency,"[]",totalQuantity,0,7
 "chromatic orb",currency,"[]",p7,9,0.06766666666666667
-"orb of alchemy",currency,"[]",totalValidListings,9,7
+"orb of alchemy",currency,"[]",totalValidListings,9,8
 "essence worm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,1
 "cartographer's chisel",currency,"[]",p5,0,0.25
 "wild crystallised lifeforce",currency,"[]",p5,100,0.003582417582417583
 "simulacrum splinter",fragment,"[]",p7,0,0.2495
-"orb of alchemy",currency,"[]",totalQuantity,100,1918
 "portal scroll",currency,"[]",p15,18,0.01666666666666667
+"orb of alchemy",currency,"[]",totalQuantity,100,2082
 "jeweller's orb",currency,"[]",totalValidListings,0,4
 "orb of transmutation",currency,"[]",p7,50,0.03473333333333333
 "primal crystallised lifeforce",currency,"[]",p10,30,0.005642857142857143
@@ -686,10 +686,10 @@
 "exalted orb",currency,"[]",p50,0,37.5
 "orb of transmutation",currency,"[]",p7,0,0.04439130434782609
 "metallic fossil",fossil,"[]",p5,0,1
-"orb of alchemy",currency,"[]",p50,18,1
+"orb of alchemy",currency,"[]",p50,18,0.9166666666666666
 "portal scroll",currency,"[]",p20,100,0.01666666666666667
 "tainted armourer's scrap",currency,"[]",p10,0,3.6
-"orb of alchemy",currency,"[]",p15,0,0.8125
+"orb of alchemy",currency,"[]",p15,0,0.7833333333333333
 "string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1.45
 "voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "orb of alchemy",currency,"[]",p7,100,0.75
@@ -720,7 +720,7 @@
 "wild crystallised lifeforce",currency,"[]",p10,30,0.008384615384615384
 "increased critical strikes support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""increased critical strikes support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "tainted blacksmith's whetstone",currency,"[]",p10,0,1
-"exalted orb",currency,"[]",totalQuantity,0,44
+"exalted orb",currency,"[]",totalQuantity,0,45
 "regal orb",currency,"[]",p10,0,2.3
 "orb of transmutation",currency,"[]",p7,100,0.03473333333333333
 "string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
@@ -742,7 +742,7 @@
 "turbulent catalyst",currency,"[]",totalQuantity,0,15
 "primal crystallised lifeforce",currency,"[]",totalValidListings,9,4
 "voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
-"orb of alchemy",currency,"[]",totalQuantity,9,1918
+"orb of alchemy",currency,"[]",totalQuantity,9,2082
 "primal crystallised lifeforce",currency,"[]",p5,50,0.005321428571428572
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "divine orb",currency,"[]",totalQuantity,0,4
@@ -759,12 +759,12 @@
 "portal scroll",currency,"[]",p20,0,0.01666666666666667
 "added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,0.5
 "orb of alchemy",currency,"[]",p5,50,0.75
-"orb of alchemy",currency,"[]",totalValidListings,50,4
+"orb of alchemy",currency,"[]",totalValidListings,50,5
 "explorer's scouting report",scouting report,"[]",p15,0,1
 "crescent splinter",fragment,"[]",totalQuantity,0,17
 "primal crystallised lifeforce",currency,"[]",p15,500,0.005964285714285715
 "armourer's scrap",currency,"[]",p10,0,0.05
-"orb of alchemy",currency,"[]",totalValidListings,0,16
+"orb of alchemy",currency,"[]",totalValidListings,0,17
 "replica last resort",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,4.21
 "orb of transmutation",currency,"[]",totalQuantity,50,2217
 "orb of alteration",currency,"[]",p50,9,0.3666666666666667
