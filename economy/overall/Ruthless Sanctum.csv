@@ -426,8 +426,8 @@
 "primal crystallised lifeforce",currency,"[]",p15,100,0.005964285714285715
 "orb of transmutation",currency,"[]",totalValidListings,0,3
 "primal crystallised lifeforce",currency,"[]",totalValidListings,100,4
-"portal scroll",currency,"[]",p15,50,0.01666666666666667
 "exalted orb",currency,"[]",p20,0,33
+"portal scroll",currency,"[]",p15,50,0.01666666666666667
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
 "vivid crystallised lifeforce",currency,"[]",p7,50,0.004166233766233767
 "vivid crystallised lifeforce",currency,"[]",p15,50,0.005662337662337662
@@ -449,8 +449,8 @@
 "fracturing shard",currency,"[]",totalQuantity,0,18
 "wild crystallised lifeforce",currency,"[]",p7,50,0.008176923076923078
 "lesser eldritch ember",currency,"[]",p10,0,2.6
-"cartographer's chisel",currency,"[]",totalValidListings,18,4
 "armourer's scrap",currency,"[]",p20,0,0.05
+"cartographer's chisel",currency,"[]",totalValidListings,18,4
 "portal scroll",currency,"[]",p10,30,0.01666666666666667
 "orb of transmutation",currency,"[]",p5,9,0.03433333333333333
 "maim support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""maim support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,0.2875
@@ -582,8 +582,8 @@
 "orb of alchemy",currency,"[]",p15,9,0.75
 "crescent splinter",fragment,"[]",p10,0,5
 "orb of alteration",currency,"[]",p15,0,0.26
-"vivid crystallised lifeforce",currency,"[]",totalValidListings,18,4
 "explorer's scouting report",scouting report,"[]",p50,0,1.5
+"vivid crystallised lifeforce",currency,"[]",totalValidListings,18,4
 "behead support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""behead support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "orb of alchemy",currency,"[]",p20,100,0.75
 "portal scroll",currency,"[]",totalValidListings,18,4
