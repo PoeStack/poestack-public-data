@@ -288,7 +288,7 @@
 "burning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""burning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "precision",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""precision""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p50,0,1.5
-"lifetap support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""lifetap support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,8
+"lifetap support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""lifetap support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,9
 "shockwave support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""shockwave""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1.2
 "dread banner",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""dread banner""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "dendrobate",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,2.6
@@ -1081,7 +1081,7 @@
 "doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "minion life support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""minion life support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,3
-"herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
+"herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,9
 "bonechill support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""bonechill support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "cast while channelling support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cast while channelling support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "temporal chains",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""temporal chains""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
