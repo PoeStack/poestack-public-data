@@ -125,7 +125,7 @@
 "doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,10
 "hyrri's truth",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,5
 "elemental army support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""elemental army support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
-"impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
+"impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "faster projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "combustion support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""combustion support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "night's hold",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p50,0,2
@@ -243,7 +243,7 @@
 "damage on full life support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""damage on full life support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "endurance charge on melee stun support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""endurance charge on melee stun support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
-"concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,5
+"concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,6
 "exsanguinate",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""exsanguinate""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,6
 "impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "spell totem support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""spell totem support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
@@ -432,7 +432,7 @@
 "dendrobate",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,2.21
 "increased duration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""increased duration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "tear of purity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,7.63
-"faster casting support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
+"faster casting support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,6
 "overcharge support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""overcharge support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "spell totem support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""spell totem support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "frostbolt",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""frostbolt""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
@@ -679,7 +679,7 @@
 "cruelty support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cruelty support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "lifetap support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""lifetap support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,2
 "cinderswallow urn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,1.6
-"concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
+"concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,8
 "briskwrap",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "victario's charity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p5,0,1
 "minion damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""minion damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,3
@@ -779,7 +779,7 @@
 "rage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""rage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "burning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""burning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "precision",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""precision""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
-"impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p50,0,1.5
+"impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p50,0,2
 "lifetap support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""lifetap support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,9
 "dendrobate",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,2.6
 "ancestral warchief",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ancestral warchief""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
@@ -1101,7 +1101,7 @@
 "generosity support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""generosity support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "pride",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""pride""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,3
 "added cold damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added cold damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
-"impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
+"impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,5
 "nightblade support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""nightblade support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "tear of purity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,12.5
 "the sorrow of the divine",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1
