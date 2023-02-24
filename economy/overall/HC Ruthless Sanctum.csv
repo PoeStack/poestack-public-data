@@ -1090,8 +1090,8 @@
 "infused channelling support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""infused channelling support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,4.470000000000001
 "elemental army support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""elemental army support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
-"combustion support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""combustion support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "cold penetration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cold penetration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
+"combustion support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""combustion support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "cruelty support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cruelty support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "minion damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""minion damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,3
 "purity of fire",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""purity of fire""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1.45
@@ -1132,8 +1132,8 @@
 "scaeva",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,1.5
 "melee splash support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""melee splash support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "temporal chains",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""temporal chains""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,1
-"unleash support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""unleash support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "eternal blessing support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""eternal blessing support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
+"unleash support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""unleash support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "volley support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""volley support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "brightbeak",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1.3
