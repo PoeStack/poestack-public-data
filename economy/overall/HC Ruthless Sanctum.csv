@@ -131,6 +131,7 @@
 "hypothermia support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""hypothermia support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "shiversting",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p5,0,1
 "doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,10
+"zealotry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""zealotry""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,6
 "hyrri's truth",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,5
 "elemental army support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""elemental army support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
@@ -319,6 +320,7 @@
 "cast on critical strike support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cast on critical strike support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "arcane surge support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""arcane surge support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,9
 "cold snap",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cold snap""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
+"zealotry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""zealotry""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1.45
 "the sorrow of the divine",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "added chaos damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added chaos damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
@@ -345,6 +347,7 @@
 "ice shot",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ice shot""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "ancestral warchief",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ancestral warchief""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "life gain on hit support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""life gain on hit support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
+"zealotry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""zealotry""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1.21
 "elemental hit",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""elemental hit""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,10
 "summon ice golem",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""summon ice golem""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "predator support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""signal prey""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,3
@@ -454,6 +457,7 @@
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,6
 "overcharge support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""overcharge support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "spell totem support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""spell totem support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
+"zealotry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""zealotry""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "frostbolt",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""frostbolt""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "lifetap support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""lifetap support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,2
 "ground slam",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ground slam""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,9
@@ -691,6 +695,7 @@
 "prismatic eclipse",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,1.5
 "culling strike support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""culling strike support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
 "fortify support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""fortify support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
+"zealotry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""zealotry""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1.3
 "temporal chains",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""temporal chains""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "spell totem support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""spell totem support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
 "generosity support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""generosity support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
@@ -1095,6 +1100,7 @@
 "cold snap",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cold snap""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "multiple totems support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""multiple totems support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1.3
 "bonechill support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""bonechill support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
+"zealotry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""zealotry""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p50,0,2
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "generosity support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""generosity support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "dendrobate",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,3
@@ -1211,6 +1217,7 @@
 "maim support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""maim support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "volley support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""volley support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1.45
 "infused channelling support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""infused channelling support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
+"zealotry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""zealotry""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,1.6
 "doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,4.470000000000001
 "cold penetration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cold penetration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "combustion support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""combustion support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
@@ -1268,7 +1275,7 @@
 "cinderswallow urn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1.21
 "malevolence",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""malevolence""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "scaeva",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,11
+"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,10
 "fireball",gem,"[{""key"":""lvl"",""value"":""2-14""},{""key"":""typeLine"",""value"":""fireball""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "desecrate",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""desecrate""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
@@ -1290,6 +1297,7 @@
 "void manipulation support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""void manipulation support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,7
 "cold penetration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cold penetration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,12
 "ancestral call support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ancestral call support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
+"zealotry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""zealotry""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p5,0,1.15
 "night's hold",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,3
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "foxshade",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1.21
