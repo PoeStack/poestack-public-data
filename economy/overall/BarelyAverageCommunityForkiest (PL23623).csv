@@ -47,8 +47,8 @@
 "the scavenger",card,"[]",p15,0,1
 "the explorer",card,"[]",p15,0,1
 "the cache",card,"[]",p7,0,1
-"the explorer",card,"[]",totalValidListings,0,4
 "the gladiator",card,"[]",totalQuantity,0,15
+"the explorer",card,"[]",totalValidListings,0,4
 "the dapper prodigy",card,"[]",p7,0,1
 "the adventuring spirit",card,"[]",p20,0,1
 "gift of the gemling queen",card,"[]",totalQuantity,0,14
@@ -356,8 +356,8 @@
 "the unexpected prize",card,"[]",p20,0,1
 "mitts",card,"[]",totalValidListings,0,4
 "the adventuring spirit",card,"[]",totalValidListings,0,4
-"deathly designs",card,"[]",p5,0,1
 "dying anguish",card,"[]",totalQuantity,0,11
+"deathly designs",card,"[]",p5,0,1
 "the obscured",card,"[]",totalValidListings,0,4
 "ever-changing",card,"[]",p20,0,1
 "the finishing touch",card,"[]",p5,0,1
