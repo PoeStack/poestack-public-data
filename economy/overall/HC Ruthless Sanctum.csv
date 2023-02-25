@@ -84,7 +84,7 @@
 "cyclone",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cyclone""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "brightbeak",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,2.5
 "generosity support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""generosity support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
-"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p50,0,1.071428571428571
+"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "volley support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""volley support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1.21
 "summon skitterbots",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""summon skitterbots""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,5.5
 "hextouch support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""hextouch support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
@@ -172,8 +172,8 @@
 "viper strike",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""viper strike""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1.5
 "minion damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""minion damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,3
 "cast on critical strike support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cast on critical strike support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
-"shiversting",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,1
 "void manipulation support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""void manipulation support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
+"shiversting",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,1
 "piscator's vigil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1.21
 "void manipulation support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""void manipulation support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "foxshade",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1.3
@@ -1097,7 +1097,7 @@
 "combustion support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""combustion support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,8
 "kalisa's grace",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,5
 "greater volley support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""greater volley support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
-"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
+"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,5
 "lifetap support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""lifetap support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,3
 "infernal legion support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""infernal legion support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "multiple traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""multiple traps support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
@@ -1233,7 +1233,7 @@
 "prismatic eclipse",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
 "malevolence",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""malevolence""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "scaeva",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,10
+"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,11
 "fireball",gem,"[{""key"":""lvl"",""value"":""2-14""},{""key"":""typeLine"",""value"":""fireball""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "less duration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""less duration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "desecrate",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""desecrate""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
