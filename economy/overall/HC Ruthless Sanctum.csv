@@ -158,8 +158,8 @@
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,2
 "increased critical strikes support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""increased critical strikes support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "impale support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
-"concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "tombfist",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
+"concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "brutality support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""brutality support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1.3
 "faster attacks support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster attacks support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "minion life support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""minion life support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -451,8 +451,8 @@
 "faster projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "cyclone",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cyclone""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
-"earthbreaker support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""earthbreaker support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
+"earthbreaker support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""earthbreaker support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "energy leech support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""energy leech support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "prismatic eclipse",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "trap and mine damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""trap and mine damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -471,7 +471,7 @@
 "lightning penetration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""lightning penetration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.9921
 "shockwave support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""shockwave""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1.07
 "ground slam",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ground slam""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
-"trinity support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""trinity support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
+"trinity support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""trinity support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
 "herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "infernal legion support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""infernal legion support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "charged traps support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""charged traps support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
@@ -1062,8 +1062,8 @@
 "bonechill support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""bonechill support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "pierce support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""pierce support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,2
-"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
+"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "culling strike support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""culling strike support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "charged traps support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""charged traps support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1.5
 "fireball",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""fireball""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
@@ -1132,8 +1132,8 @@
 "temporal chains",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""temporal chains""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "frostbite",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""frostbite""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
-"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "melee physical damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""melee physical damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
+"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "burning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""burning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "fireball",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""fireball""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "purity of ice",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""purity of ice""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -1168,7 +1168,7 @@
 "doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "minion life support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""minion life support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,3
-"herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,8
+"herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,9
 "bonechill support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""bonechill support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "melee physical damage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""melee physical damage support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "cast while channelling support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cast while channelling support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
@@ -1200,7 +1200,7 @@
 "anger",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""anger""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,3.45
 "impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "lifetap support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""lifetap support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,2
-"trinity support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""trinity support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,5
+"trinity support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""trinity support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "lightning penetration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""lightning penetration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,0.9944999999999999
 "brightbeak",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,1.6
