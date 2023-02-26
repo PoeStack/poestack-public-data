@@ -72,7 +72,7 @@
 "maligaro's lens",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "hrimsorrow",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,23
 "orb of alchemy",currency,"[]",totalQuantity,0,15513
-"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,7.299999999999999
 "araku tiki",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,1
 "briskwrap",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,5
 "the deep one's hide",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1.42
@@ -87,7 +87,7 @@
 "orb of alchemy",currency,"[]",p10,1000,0.13
 "maligaro's lens",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,5.63
 "ungil's harmony",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,3.4
-"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,2
+"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,17.5
 "deerstalker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,6
 "orb of alchemy",currency,"[]",p20,1000,0.16
 "vaal fireball",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal fireball""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p20,0,1
@@ -156,7 +156,7 @@
 "orb of alchemy",currency,"[]",p50,0,0.225
 "orb of alchemy",currency,"[]",p5,50,0.115
 "deerstalker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,5
-"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,5
+"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "ungil's harmony",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "orb of alchemy",currency,"[]",totalValidListings,50,4
 "orb of regret",currency,"[]",p7,0,1.07
@@ -174,7 +174,7 @@
 "vaal rain of arrows",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal rain of arrows""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p50,0,3
 "obliteration",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,6.533333333333333
 "vaal blade vortex",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal blade vortex""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,1
+"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,3.100000000000001
 "vaal spectral throw",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal spectral throw""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "orb of regret",currency,"[]",totalQuantity,18,2802
 "vaal ancestral warchief",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal ancestral warchief""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,8
@@ -272,7 +272,7 @@
 "vaal ground slam",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal ground slam""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p50,0,3
 "the ignomon",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
 "vaal ancestral warchief",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal ancestral warchief""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p5,0,1
-"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,1
+"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,9.400000000000002
 "vaal lightning strike",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal lightning strike""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "orb of alchemy",currency,"[]",p15,9,0.145
 "obliteration",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,5.5
@@ -346,7 +346,7 @@
 "the deep one's hide",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
 "wanderlust",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,7.5
 "the deep one's hide",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1.6
-"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,1
+"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,3.94
 "tasalio's sign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1.42
 "vaal ancestral warchief",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal ancestral warchief""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "vaal detonate dead",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal detonate dead""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p20,0,1
@@ -375,7 +375,7 @@
 "vaal ancestral warchief",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal ancestral warchief""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "prismweave",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "geofri's crest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
-"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,1
+"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,5.200000000000001
 "vaal spectral throw",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal spectral throw""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "vaal earthquake",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vaal earthquake""},{""key"":""corrutped"",""value"":true},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,8
