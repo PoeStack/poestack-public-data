@@ -4,6 +4,7 @@
 "extractor mentis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
 "thief's torment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "pyroshock clasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
+"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,4.6
 "algor mortis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "sidhebreath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "axiom perpetuum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,2.35
@@ -21,12 +22,12 @@
 "stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,4.21
 "praxis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,1.45
 "gang's momentum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,2.8
-"pyroshock clasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,5
 "the druggery",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,4.6
+"pyroshock clasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,5
 "the warden's brand",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "retaliation charm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,4.45
-"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "painseeker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
+"stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "essence worm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,2.8
 "victario's flight",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,4.15
 "pyroshock clasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,1.63
@@ -62,7 +63,7 @@
 "sidhebreath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,4.45
 "natural hierarchy",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "goldwyrm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,37
-"the druggery",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,6
+"the druggery",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,7
 "sin trek",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,4.21
 "retaliation charm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,37
 "the anvil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,4.15
@@ -77,10 +78,12 @@
 "extractor mentis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,4.6
 "stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
 "rat's nest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,4.15
+"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
 "gang's momentum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "victario's flight",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,4.6
 "araku tiki",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
 "wreath of phrecia",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,4.45
+"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,4.21
 "the warden's brand",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "rise of the phoenix",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "the ghastly theatre",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,4.5
@@ -106,8 +109,8 @@
 "malachai's loop",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,37
 "the anvil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "victario's flight",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,37
-"goldwyrm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "kaltenhalt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
+"goldwyrm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "doedre's scorn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,4.15
 "victario's flight",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,4.21
 "sidhebreath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,37
@@ -128,6 +131,7 @@
 "lightbane raiment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,4.6
 "wurm's molt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,4.45
 "gang's momentum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,1.45
+"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,4.15
 "araku tiki",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,4.21
 "lightbane raiment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,4.15
 "perandus blazon",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
@@ -164,7 +168,8 @@
 "the anvil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
 "natural hierarchy",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p5,0,4.15
 "the anvil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,4.21
-"wurm's molt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
+"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
+"wurm's molt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,5
 "empire's grasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "the ghastly theatre",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,2.35
 "prismweave",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,1.84
@@ -188,6 +193,7 @@
 "gifts from above",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,4.45
 "the warden's brand",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,69
 "victario's flight",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
+"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,5
 "wreath of phrecia",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,37
 "extractor mentis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p5,0,4.15
 "lightbane raiment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
@@ -202,6 +208,7 @@
 "thief's torment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,4.45
 "empire's grasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,4.21
 "wreath of phrecia",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
+"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "the ghastly theatre",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p7,0,1.63
 "winterheart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,4.45
 "rise of the phoenix",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,4.45
@@ -294,6 +301,7 @@
 "thief's torment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,37
 "wurm's molt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
 "goldwyrm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,4.6
+"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p15,0,4.45
 "wreath of phrecia",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p20,0,4.6
 "axiom perpetuum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",p50,0,4.5
 "winterheart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted""},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
