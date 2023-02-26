@@ -273,8 +273,8 @@
 "melee splash support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""melee splash support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "cast while channelling support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cast while channelling support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "arcane surge support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""arcane surge support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
-"exsanguinate",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""exsanguinate""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "multiple traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""multiple traps support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1
+"exsanguinate",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""exsanguinate""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "heartbreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "elemental army support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""elemental army support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "spell totem support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""spell totem support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
@@ -457,8 +457,8 @@
 "faster projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "cyclone",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""cyclone""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
-"earthbreaker support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""earthbreaker support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
+"earthbreaker support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""earthbreaker support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "energy leech support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""energy leech support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "prismatic eclipse",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalValidListings,0,4
 "purity of fire",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""purity of fire""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,5
@@ -938,8 +938,8 @@
 "herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,2
 "concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""concentrated effect support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1.166666666666667
 "heartbreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p5,0,1
-"impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "multiple traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""multiple traps support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
+"impale support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""impale support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "frostbolt",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""frostbolt""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "life gain on hit support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""life gain on hit support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "burning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""burning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
