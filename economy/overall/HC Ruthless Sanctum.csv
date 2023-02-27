@@ -13,8 +13,8 @@
 "wyrmsign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "darkness enthroned",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,7
-"herald of purity",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""herald of purity""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "lightning penetration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""lightning penetration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,0.996
+"herald of purity",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""herald of purity""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "added fire damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added fire damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "void manipulation support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""void manipulation support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -519,8 +519,8 @@
 "spell totem support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""spell totem support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "cinderswallow urn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.45
 "purity of fire",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""purity of fire""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
-"culling strike support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""culling strike support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,2
+"culling strike support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""culling strike support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "multiple traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""multiple traps support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "elemental focus support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""elemental focus support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p5,0,1.15
 "infused channelling support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""infused channelling support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
@@ -624,8 +624,8 @@
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "temporal chains",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""temporal chains""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "trap support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""trap support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1.25
-"purity of fire",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""purity of fire""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,2.8
 "swift assembly support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""swift assembly support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"purity of fire",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""purity of fire""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,2.8
 "elemental damage with attacks support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""elemental damage with attacks support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
 "temporal chains",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""temporal chains""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "hypothermia support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""hypothermia support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -1085,8 +1085,8 @@
 "pierce support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""pierce support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "malevolence",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""malevolence""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,6.3
 "bonechill support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""bonechill support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
-"pierce support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""pierce support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,2
+"pierce support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""pierce support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "culling strike support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""culling strike support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
@@ -1159,8 +1159,8 @@
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "frostbite",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""frostbite""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "elemental focus support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""elemental focus support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p50,0,2
-"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "melee physical damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""melee physical damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
+"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "burning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""burning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "fireball",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""fireball""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "purity of ice",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""purity of ice""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
