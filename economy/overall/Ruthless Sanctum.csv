@@ -407,8 +407,8 @@
 "orb of transmutation",currency,"[]",totalQuantity,30,2217
 "lesser eldritch ember",currency,"[]",p20,0,2.7
 "cartographer's chisel",currency,"[]",totalQuantity,18,243
-"aberrant fossil",fossil,"[]",p20,0,1
 "increased critical strikes support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""increased critical strikes support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
+"aberrant fossil",fossil,"[]",p20,0,1
 "wild crystallised lifeforce",currency,"[]",totalQuantity,30,3146
 "replica last resort",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p5,0,4.15
 "orb of alchemy",currency,"[]",p10,30,0.8332456140350877
