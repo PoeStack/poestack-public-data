@@ -350,8 +350,8 @@
 "portal scroll",currency,"[]",totalValidListings,0,4
 "portal scroll",currency,"[]",p15,100,0.01666666666666667
 "orb of alteration",currency,"[]",totalValidListings,18,4
-"splitting steel",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""splitting steel""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "wild crystallised lifeforce",currency,"[]",p50,100,0.008846153846153847
+"splitting steel",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""splitting steel""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "orb of alteration",currency,"[]",totalQuantity,9,198
 "chromatic orb",currency,"[]",p20,0,0.06952380952380952
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1
