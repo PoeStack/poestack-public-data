@@ -582,8 +582,8 @@
 "charged traps support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""charged traps support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,7
 "faster casting support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""faster casting support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "frostbite",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""frostbite""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
-"melee physical damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""melee physical damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"melee physical damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""melee physical damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "burning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""burning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "purity of ice",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""purity of ice""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,7.200000000000001
