@@ -235,7 +235,7 @@
 "cursed crypt map",map,"[{""key"":""tier"",""value"":""12""}]",p5,0,2
 "lesser eldritch ember",currency,"[]",p7,0,2.57
 "orb of alchemy",currency,"[]",p7,18,0.8232719298245614
-"orb of alchemy",currency,"[]",p20,0,0.8886549707602338
+"orb of alchemy",currency,"[]",p20,0,0.88
 "exalted orb",currency,"[]",p15,0,33.6
 "orb of chance",currency,"[]",p20,0,0.5
 "orb of annulment",currency,"[]",p50,0,10
@@ -439,8 +439,8 @@
 "primal crystallised lifeforce",currency,"[]",p15,100,0.005964285714285715
 "orb of transmutation",currency,"[]",totalValidListings,0,4
 "primal crystallised lifeforce",currency,"[]",totalValidListings,100,4
-"portal scroll",currency,"[]",p15,50,0.01666666666666667
 "exalted orb",currency,"[]",p20,0,34.8
+"portal scroll",currency,"[]",p15,50,0.01666666666666667
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
 "vivid crystallised lifeforce",currency,"[]",p7,50,0.004166233766233767
 "vivid crystallised lifeforce",currency,"[]",p15,50,0.005662337662337662
@@ -704,7 +704,7 @@
 "orb of alchemy",currency,"[]",p50,18,1.052631578947368
 "portal scroll",currency,"[]",p20,100,0.01666666666666667
 "tainted armourer's scrap",currency,"[]",p10,0,3.6
-"orb of alchemy",currency,"[]",p15,0,0.8387865497076022
+"orb of alchemy",currency,"[]",p15,0,0.835
 "string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,2.45
 "voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "orb of alchemy",currency,"[]",p7,100,0.7605000000000001
@@ -743,7 +743,7 @@
 "the primordial chain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
 "primal crystallised lifeforce",currency,"[]",p7,500,0.00545
 "singularity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,5.5
-"orb of alchemy",currency,"[]",p50,0,1.0125
+"orb of alchemy",currency,"[]",p50,0,1
 "cartographer's chisel",currency,"[]",p50,0,0.25
 "orb of transmutation",currency,"[]",p20,100,0.03733333333333334
 "behead support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""behead support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
