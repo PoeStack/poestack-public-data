@@ -79,7 +79,7 @@
 "freezing pulse",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""freezing pulse""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,0.45
 "ancestral call support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ancestral call support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "simulacrum splinter",fragment,"[]",totalQuantity,0,337
-"orb of alchemy",currency,"[]",totalQuantity,18,1343
+"orb of alchemy",currency,"[]",totalQuantity,18,1353
 "added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,0.75
 "minion damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""minion damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "primal crystallised lifeforce",currency,"[]",p7,30,0.00545
@@ -202,7 +202,7 @@
 "penance brand",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""penance brand""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.325
 "primal crystallised lifeforce",currency,"[]",p50,100,0.007142857142857143
 "orb of alteration",currency,"[]",p10,0,0.24
-"orb of alchemy",currency,"[]",totalQuantity,0,1343
+"orb of alchemy",currency,"[]",totalQuantity,0,1353
 "orb of transmutation",currency,"[]",p15,100,0.03633333333333334
 "grand eldritch ember",currency,"[]",p5,0,2.15
 "increased critical strikes support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""increased critical strikes support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -350,8 +350,8 @@
 "portal scroll",currency,"[]",totalValidListings,0,4
 "portal scroll",currency,"[]",p15,100,0.01666666666666667
 "orb of alteration",currency,"[]",totalValidListings,18,4
-"splitting steel",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""splitting steel""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "wild crystallised lifeforce",currency,"[]",p50,100,0.008846153846153847
+"splitting steel",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""splitting steel""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "orb of alteration",currency,"[]",totalQuantity,9,198
 "chromatic orb",currency,"[]",p20,0,0.06952380952380952
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1
@@ -439,8 +439,8 @@
 "primal crystallised lifeforce",currency,"[]",p15,100,0.005964285714285715
 "orb of transmutation",currency,"[]",totalValidListings,0,4
 "primal crystallised lifeforce",currency,"[]",totalValidListings,100,4
-"portal scroll",currency,"[]",p15,50,0.01666666666666667
 "exalted orb",currency,"[]",p20,0,34.8
+"portal scroll",currency,"[]",p15,50,0.01666666666666667
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
 "vivid crystallised lifeforce",currency,"[]",p7,50,0.004166233766233767
 "vivid crystallised lifeforce",currency,"[]",p15,50,0.005662337662337662
@@ -757,7 +757,7 @@
 "turbulent catalyst",currency,"[]",totalQuantity,0,15
 "primal crystallised lifeforce",currency,"[]",totalValidListings,9,4
 "voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
-"orb of alchemy",currency,"[]",totalQuantity,9,1343
+"orb of alchemy",currency,"[]",totalQuantity,9,1353
 "primal crystallised lifeforce",currency,"[]",p5,50,0.005321428571428572
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "divine orb",currency,"[]",totalQuantity,0,4
