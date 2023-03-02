@@ -101,7 +101,7 @@
 "grand eldritch ember",currency,"[]",p50,0,3.5
 "orb of alchemy",currency,"[]",p10,9,0.8443274853801169
 "metallic fossil",fossil,"[]",p15,0,1
-"exalted orb",currency,"[]",p7,0,31.68
+"exalted orb",currency,"[]",p7,0,31.575
 "portal scroll",currency,"[]",totalValidListings,30,4
 "orb of alchemy",currency,"[]",p5,9,0.8221637426900584
 "ancestral call support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ancestral call support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
@@ -236,7 +236,7 @@
 "lesser eldritch ember",currency,"[]",p7,0,2.57
 "orb of alchemy",currency,"[]",p7,18,0.8232719298245614
 "orb of alchemy",currency,"[]",p20,0,0.88
-"exalted orb",currency,"[]",p15,0,33.6
+"exalted orb",currency,"[]",p15,0,33.375
 "orb of chance",currency,"[]",p20,0,0.5
 "orb of annulment",currency,"[]",p50,0,10
 "simulacrum splinter",fragment,"[]",p15,0,0.4774999999999999
@@ -440,7 +440,7 @@
 "orb of transmutation",currency,"[]",totalValidListings,0,4
 "primal crystallised lifeforce",currency,"[]",totalValidListings,100,4
 "portal scroll",currency,"[]",p15,50,0.01666666666666667
-"exalted orb",currency,"[]",p20,0,34.8
+"exalted orb",currency,"[]",p20,0,34.5
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
 "vivid crystallised lifeforce",currency,"[]",p7,50,0.004166233766233767
 "vivid crystallised lifeforce",currency,"[]",p15,50,0.005662337662337662
@@ -698,7 +698,7 @@
 "wild crystallised lifeforce",currency,"[]",p10,100,0.004307692307692308
 "vaal orb",currency,"[]",p7,9,3
 "primal crystallised lifeforce",currency,"[]",p5,0,0.005321428571428572
-"exalted orb",currency,"[]",p50,0,39
+"exalted orb",currency,"[]",p50,0,37.75
 "orb of transmutation",currency,"[]",p7,0,0.05
 "metallic fossil",fossil,"[]",p5,0,1
 "orb of alchemy",currency,"[]",p50,18,1.052631578947368
@@ -719,7 +719,7 @@
 "soul catcher",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "eternal damnation",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,4
 "minion damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""minion damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
-"exalted orb",currency,"[]",p5,0,31.2
+"exalted orb",currency,"[]",p5,0,31.125
 "astragali",artifacts,"[]",totalQuantity,0,12
 "penance brand",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""penance brand""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,0.2875
 "battlemage's cry",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""battlemage's cry support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
@@ -729,13 +729,13 @@
 "tainted jeweller's orb",currency,"[]",p10,0,1
 "chromatic orb",currency,"[]",p50,18,0.07738095238095238
 "primal crystallised lifeforce",currency,"[]",totalValidListings,30,4
-"exalted orb",currency,"[]",p10,0,32.4
+"exalted orb",currency,"[]",p10,0,32.25
 "portal scroll",currency,"[]",p50,0,0.02083333333333334
 "portal scroll",currency,"[]",p10,0,0.01666666666666667
 "wild crystallised lifeforce",currency,"[]",p10,30,0.008384615384615384
 "increased critical strikes support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""increased critical strikes support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1
 "tainted blacksmith's whetstone",currency,"[]",p10,0,1
-"exalted orb",currency,"[]",totalQuantity,0,49
+"exalted orb",currency,"[]",totalQuantity,0,26
 "regal orb",currency,"[]",p10,0,2.3
 "orb of transmutation",currency,"[]",p7,100,0.03473333333333333
 "string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
