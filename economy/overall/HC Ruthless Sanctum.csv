@@ -546,8 +546,8 @@
 "malevolence",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""malevolence""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,6.3
 "bonechill support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""bonechill support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
 "herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""herald of agony""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,2
-"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "added lightning damage support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""added lightning damage support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
+"vicious projectiles support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vicious projectiles support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "culling strike support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""culling strike support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "geofri's sanctuary",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,5
 "melee splash support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""melee splash support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
