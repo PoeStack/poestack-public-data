@@ -893,7 +893,7 @@
 "precision",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""precision""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "ancestral call support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ancestral call support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "fist of war support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""fist of war support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
-"arcane surge support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""arcane surge support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p50,0,1.833333333333333
+"arcane surge support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""arcane surge support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p50,0,1.5
 "the sorrow of the divine",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p20,0,1
 "elemental hit",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""elemental hit""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "ignite proliferation support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ignite proliferation support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -992,7 +992,7 @@
 "temporal chains",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""temporal chains""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,5
 "swift assembly support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""swift assembly support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "hypothermia support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""hypothermia support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
-"arcane surge support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""arcane surge support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,10
+"arcane surge support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""arcane surge support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,6
 "less duration support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""less duration support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1.5
 "the primordial chain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p5,0,1.3
 "ballista totem support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""ballista totem support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p50,0,1.5
