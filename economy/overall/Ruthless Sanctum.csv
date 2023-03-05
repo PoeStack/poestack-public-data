@@ -23,7 +23,7 @@
 "additional accuracy support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""additional accuracy support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
 "orb of transmutation",currency,"[]",p7,9,0.03473333333333333
 "orb of transmutation",currency,"[]",p15,0,0.05
-"orb of alchemy",currency,"[]",p10,0,0.8501923076923078
+"orb of alchemy",currency,"[]",p10,0,0.8446153846153847
 "portal scroll",currency,"[]",p7,0,0.01666666666666667
 "eternal damnation",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1.6
 "orb of alchemy",currency,"[]",p20,50,0.8664912280701753
@@ -202,7 +202,7 @@
 "penance brand",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""penance brand""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.325
 "primal crystallised lifeforce",currency,"[]",p50,100,0.007142857142857143
 "orb of alteration",currency,"[]",p10,0,0.24
-"orb of alchemy",currency,"[]",totalQuantity,0,1099
+"orb of alchemy",currency,"[]",totalQuantity,0,1098
 "orb of transmutation",currency,"[]",p15,100,0.03633333333333334
 "grand eldritch ember",currency,"[]",p5,0,2.15
 "increased critical strikes support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""increased critical strikes support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -235,7 +235,7 @@
 "cursed crypt map",map,"[{""key"":""tier"",""value"":""12""}]",p5,0,2
 "lesser eldritch ember",currency,"[]",p7,0,2.57
 "orb of alchemy",currency,"[]",p7,18,0.8232719298245614
-"orb of alchemy",currency,"[]",p20,0,0.8911538461538462
+"orb of alchemy",currency,"[]",p20,0,0.8823076923076923
 "exalted orb",currency,"[]",p15,0,33.375
 "orb of chance",currency,"[]",p20,0,0.5
 "orb of annulment",currency,"[]",p50,0,10
@@ -396,7 +396,7 @@
 "portal scroll",currency,"[]",totalValidListings,50,4
 "vivid crystallised lifeforce",currency,"[]",p5,100,0.003792207792207792
 "the primordial chain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,1.5
-"orb of alchemy",currency,"[]",p5,0,0.8250961538461539
+"orb of alchemy",currency,"[]",p5,0,0.8223076923076924
 "lesser eldritch ember",currency,"[]",p5,0,2.55
 "vaal orb",currency,"[]",p15,9,3
 "primal crystallised lifeforce",currency,"[]",p50,50,0.007142857142857143
@@ -636,7 +636,7 @@
 "freezing pulse",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""freezing pulse""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,0.3
 "lesser eldritch ember",currency,"[]",p50,0,3
 "replica last resort",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,4.3
-"orb of alchemy",currency,"[]",p7,0,0.8351346153846154
+"orb of alchemy",currency,"[]",p7,0,0.8312307692307693
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p5,0,1
 "additional accuracy support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""additional accuracy support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalQuantity,0,4
 "portal scroll",currency,"[]",p10,9,0.01666666666666667
@@ -704,7 +704,7 @@
 "orb of alchemy",currency,"[]",p50,18,1.052631578947368
 "portal scroll",currency,"[]",p20,100,0.01666666666666667
 "tainted armourer's scrap",currency,"[]",p10,0,3.6
-"orb of alchemy",currency,"[]",p15,0,0.8712500000000001
+"orb of alchemy",currency,"[]",p15,0,0.8646153846153847
 "string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,2.45
 "voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "orb of alchemy",currency,"[]",p7,100,0.7605000000000001
@@ -743,7 +743,7 @@
 "the primordial chain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
 "primal crystallised lifeforce",currency,"[]",p7,500,0.00545
 "singularity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p50,0,5.5
-"orb of alchemy",currency,"[]",p50,0,1.0625
+"orb of alchemy",currency,"[]",p50,0,1.125
 "cartographer's chisel",currency,"[]",p50,0,0.25
 "orb of transmutation",currency,"[]",p20,100,0.03733333333333334
 "behead support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""behead support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
@@ -757,7 +757,7 @@
 "turbulent catalyst",currency,"[]",totalQuantity,0,15
 "primal crystallised lifeforce",currency,"[]",totalValidListings,9,4
 "voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
-"orb of alchemy",currency,"[]",totalQuantity,9,1099
+"orb of alchemy",currency,"[]",totalQuantity,9,1098
 "primal crystallised lifeforce",currency,"[]",p5,50,0.005321428571428572
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "divine orb",currency,"[]",totalQuantity,0,4
@@ -779,7 +779,7 @@
 "crescent splinter",fragment,"[]",totalQuantity,0,17
 "primal crystallised lifeforce",currency,"[]",p15,500,0.005964285714285715
 "armourer's scrap",currency,"[]",p10,0,0.05166666666666667
-"orb of alchemy",currency,"[]",totalValidListings,0,10
+"orb of alchemy",currency,"[]",totalValidListings,0,9
 "replica last resort",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,4.21
 "orb of transmutation",currency,"[]",totalQuantity,50,2217
 "orb of alteration",currency,"[]",p50,9,0.3666666666666667
