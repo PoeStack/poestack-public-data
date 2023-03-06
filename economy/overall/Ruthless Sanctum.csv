@@ -99,8 +99,8 @@
 "orb of transmutation",currency,"[]",p50,0,0.05
 "vivid crystallised lifeforce",currency,"[]",totalQuantity,0,1843
 "grand eldritch ember",currency,"[]",p50,0,3.5
-"orb of alchemy",currency,"[]",p10,9,0.8443274853801169
 "metallic fossil",fossil,"[]",p15,0,1
+"orb of alchemy",currency,"[]",p10,9,0.8443274853801169
 "exalted orb",currency,"[]",p7,0,31.575
 "portal scroll",currency,"[]",totalValidListings,30,4
 "orb of alchemy",currency,"[]",p5,9,0.8221637426900584
@@ -202,7 +202,7 @@
 "penance brand",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""penance brand""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.325
 "primal crystallised lifeforce",currency,"[]",p50,100,0.007142857142857143
 "orb of alteration",currency,"[]",p10,0,0.24
-"orb of alchemy",currency,"[]",totalQuantity,0,1096
+"orb of alchemy",currency,"[]",totalQuantity,0,1094
 "orb of transmutation",currency,"[]",p15,100,0.03633333333333334
 "grand eldritch ember",currency,"[]",p5,0,2.15
 "increased critical strikes support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""increased critical strikes support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1
@@ -757,7 +757,7 @@
 "turbulent catalyst",currency,"[]",totalQuantity,0,15
 "primal crystallised lifeforce",currency,"[]",totalValidListings,9,4
 "voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1
-"orb of alchemy",currency,"[]",totalQuantity,9,1096
+"orb of alchemy",currency,"[]",totalQuantity,9,1094
 "primal crystallised lifeforce",currency,"[]",p5,50,0.005321428571428572
 "malachai's artifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "divine orb",currency,"[]",totalQuantity,0,4
