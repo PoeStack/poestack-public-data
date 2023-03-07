@@ -306,8 +306,8 @@
 "combustion support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""combustion support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p5,0,1.15
 "armageddon brand",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""armageddon brand""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "soul link",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""soul link""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",totalValidListings,0,4
-"elemental damage with attacks support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""elemental damage with attacks support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "melee splash support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""melee splash support""},{""key"":""corrutped""},{""key"":""quality"",""value"":""0""}]",p15,0,1
+"elemental damage with attacks support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""elemental damage with attacks support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p20,0,1
 "wrath",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""wrath""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,2
 "facebreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",totalQuantity,0,4
 "culling strike support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""typeLine"",""value"":""culling strike support""},{""key"":""corrutped"",""value"":false},{""key"":""quality"",""value"":""0""}]",p15,0,1
