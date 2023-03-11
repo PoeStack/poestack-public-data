@@ -1,0 +1,840 @@
+"vaal orb",currency,"[]",p10,0,1
+"vaal orb",currency,"[]",p15,0,1
+"vaal orb",currency,"[]",p20,0,1
+"vaal orb",currency,"[]",p5,0,1
+"vaal orb",currency,"[]",p50,0,1
+"vaal orb",currency,"[]",p7,0,1
+"vaal orb",currency,"[]",totalQuantity,0,82
+"vaal orb",currency,"[]",totalValidListings,0,57
+"unstable catalyst",currency,"[]",p10,0,1
+"unstable catalyst",currency,"[]",p15,0,1
+"unstable catalyst",currency,"[]",p20,0,1
+"unstable catalyst",currency,"[]",p5,0,1
+"unstable catalyst",currency,"[]",p50,0,1
+"unstable catalyst",currency,"[]",p7,0,1
+"unstable catalyst",currency,"[]",totalQuantity,0,6
+"unstable catalyst",currency,"[]",totalValidListings,0,6
+"noxious catalyst",currency,"[]",p10,0,1
+"noxious catalyst",currency,"[]",p15,0,1
+"noxious catalyst",currency,"[]",p20,0,1
+"noxious catalyst",currency,"[]",p5,0,1
+"noxious catalyst",currency,"[]",p50,0,1
+"noxious catalyst",currency,"[]",p7,0,1
+"noxious catalyst",currency,"[]",totalQuantity,0,38
+"noxious catalyst",currency,"[]",totalValidListings,0,24
+"accelerating catalyst",currency,"[]",p10,0,0.75
+"accelerating catalyst",currency,"[]",p15,0,0.875
+"accelerating catalyst",currency,"[]",p20,0,1
+"accelerating catalyst",currency,"[]",p5,0,0.625
+"accelerating catalyst",currency,"[]",p50,0,1
+"accelerating catalyst",currency,"[]",p7,0,0.675
+"accelerating catalyst",currency,"[]",totalQuantity,0,6
+"accelerating catalyst",currency,"[]",totalValidListings,0,6
+"tempering catalyst",currency,"[]",p10,0,1
+"tempering catalyst",currency,"[]",p15,0,1
+"tempering catalyst",currency,"[]",p20,0,1
+"tempering catalyst",currency,"[]",p5,0,1
+"tempering catalyst",currency,"[]",p50,0,1
+"tempering catalyst",currency,"[]",p7,0,1
+"tempering catalyst",currency,"[]",totalQuantity,0,12
+"tempering catalyst",currency,"[]",totalValidListings,0,8
+"jeweller's orb",currency,"[]",p10,0,0.04761904761904762
+"jeweller's orb",currency,"[]",p10,9,0.03846153846153846
+"jeweller's orb",currency,"[]",p10,18,0.03846153846153846
+"jeweller's orb",currency,"[]",p10,30,0.03876923076923076
+"jeweller's orb",currency,"[]",p10,50,0.03938461538461539
+"jeweller's orb",currency,"[]",p15,0,0.05
+"jeweller's orb",currency,"[]",p15,9,0.04266666666666667
+"jeweller's orb",currency,"[]",p15,18,0.03984615384615384
+"jeweller's orb",currency,"[]",p15,30,0.04228571428571429
+"jeweller's orb",currency,"[]",p15,50,0.04304761904761905
+"jeweller's orb",currency,"[]",p20,0,0.05275961132234898
+"jeweller's orb",currency,"[]",p20,9,0.04761904761904762
+"jeweller's orb",currency,"[]",p20,18,0.04761904761904762
+"jeweller's orb",currency,"[]",p20,30,0.04857142857142858
+"jeweller's orb",currency,"[]",p20,50,0.0480952380952381
+"jeweller's orb",currency,"[]",p5,0,0.03846153846153846
+"jeweller's orb",currency,"[]",p5,9,0.03846153846153846
+"jeweller's orb",currency,"[]",p5,18,0.03846153846153846
+"jeweller's orb",currency,"[]",p5,30,0.03846153846153846
+"jeweller's orb",currency,"[]",p5,50,0.03846153846153846
+"jeweller's orb",currency,"[]",p50,0,0.5
+"jeweller's orb",currency,"[]",p50,9,0.08333333333333333
+"jeweller's orb",currency,"[]",p50,18,0.07022153656821381
+"jeweller's orb",currency,"[]",p50,30,0.08333333333333333
+"jeweller's orb",currency,"[]",p50,50,0.07022153656821381
+"jeweller's orb",currency,"[]",p7,0,0.03944615384615385
+"jeweller's orb",currency,"[]",p7,9,0.03846153846153846
+"jeweller's orb",currency,"[]",p7,18,0.03846153846153846
+"jeweller's orb",currency,"[]",p7,30,0.03846153846153846
+"jeweller's orb",currency,"[]",p7,50,0.03864615384615384
+"jeweller's orb",currency,"[]",totalQuantity,0,1771
+"jeweller's orb",currency,"[]",totalQuantity,9,1771
+"jeweller's orb",currency,"[]",totalQuantity,18,1771
+"jeweller's orb",currency,"[]",totalQuantity,30,1771
+"jeweller's orb",currency,"[]",totalQuantity,50,1771
+"jeweller's orb",currency,"[]",totalValidListings,0,53
+"jeweller's orb",currency,"[]",totalValidListings,9,30
+"jeweller's orb",currency,"[]",totalValidListings,18,27
+"jeweller's orb",currency,"[]",totalValidListings,30,23
+"jeweller's orb",currency,"[]",totalValidListings,50,17
+"scroll of wisdom",currency,"[]",p10,0,1
+"scroll of wisdom",currency,"[]",p10,9,0.9912
+"scroll of wisdom",currency,"[]",p10,18,0.001350065031718784
+"scroll of wisdom",currency,"[]",p10,30,0.001350065031718784
+"scroll of wisdom",currency,"[]",p15,0,1
+"scroll of wisdom",currency,"[]",p15,9,0.9978
+"scroll of wisdom",currency,"[]",p15,18,0.01121741678387248
+"scroll of wisdom",currency,"[]",p15,30,0.01121741678387248
+"scroll of wisdom",currency,"[]",p20,0,1
+"scroll of wisdom",currency,"[]",p20,9,1
+"scroll of wisdom",currency,"[]",p20,18,0.03084282700421941
+"scroll of wisdom",currency,"[]",p20,30,0.03084282700421941
+"scroll of wisdom",currency,"[]",p5,0,0.9901
+"scroll of wisdom",currency,"[]",p5,9,0.9846
+"scroll of wisdom",currency,"[]",p5,18,0.001240771747758319
+"scroll of wisdom",currency,"[]",p5,30,0.001240771747758319
+"scroll of wisdom",currency,"[]",p50,0,1
+"scroll of wisdom",currency,"[]",p50,9,1
+"scroll of wisdom",currency,"[]",p50,18,1
+"scroll of wisdom",currency,"[]",p50,30,1
+"scroll of wisdom",currency,"[]",p7,0,0.99494
+"scroll of wisdom",currency,"[]",p7,9,0.98724
+"scroll of wisdom",currency,"[]",p7,18,0.001284489061342505
+"scroll of wisdom",currency,"[]",p7,30,0.001284489061342505
+"scroll of wisdom",currency,"[]",totalQuantity,0,566
+"scroll of wisdom",currency,"[]",totalQuantity,9,566
+"scroll of wisdom",currency,"[]",totalQuantity,18,566
+"scroll of wisdom",currency,"[]",totalQuantity,30,566
+"scroll of wisdom",currency,"[]",totalValidListings,0,12
+"scroll of wisdom",currency,"[]",totalValidListings,9,7
+"scroll of wisdom",currency,"[]",totalValidListings,18,9
+"scroll of wisdom",currency,"[]",totalValidListings,30,9
+"lesser eldritch ember",currency,"[]",p10,0,1
+"lesser eldritch ember",currency,"[]",p15,0,1
+"lesser eldritch ember",currency,"[]",p20,0,1
+"lesser eldritch ember",currency,"[]",p5,0,1
+"lesser eldritch ember",currency,"[]",p50,0,1
+"lesser eldritch ember",currency,"[]",p7,0,1
+"lesser eldritch ember",currency,"[]",totalQuantity,0,22
+"lesser eldritch ember",currency,"[]",totalValidListings,0,16
+"orb of transmutation",currency,"[]",p10,0,0.15
+"orb of transmutation",currency,"[]",p10,9,0.1330032790704135
+"orb of transmutation",currency,"[]",p10,18,0.1246350364963504
+"orb of transmutation",currency,"[]",p15,0,0.1666666666666667
+"orb of transmutation",currency,"[]",p15,9,0.1517180907172996
+"orb of transmutation",currency,"[]",p15,18,0.1557782310004294
+"orb of transmutation",currency,"[]",p20,0,0.2
+"orb of transmutation",currency,"[]",p20,9,0.1666666666666667
+"orb of transmutation",currency,"[]",p20,18,0.186393301846286
+"orb of transmutation",currency,"[]",p5,0,0.1321886741969263
+"orb of transmutation",currency,"[]",p5,9,0.1209693001288107
+"orb of transmutation",currency,"[]",p5,18,0.09164340918849292
+"orb of transmutation",currency,"[]",p50,0,1
+"orb of transmutation",currency,"[]",p50,9,0.864
+"orb of transmutation",currency,"[]",p50,18,1
+"orb of transmutation",currency,"[]",p7,0,0.1335417043399639
+"orb of transmutation",currency,"[]",p7,9,0.1322479181877254
+"orb of transmutation",currency,"[]",p7,18,0.1048400601116359
+"orb of transmutation",currency,"[]",totalQuantity,0,499
+"orb of transmutation",currency,"[]",totalQuantity,9,499
+"orb of transmutation",currency,"[]",totalQuantity,18,499
+"orb of transmutation",currency,"[]",totalValidListings,0,44
+"orb of transmutation",currency,"[]",totalValidListings,9,18
+"orb of transmutation",currency,"[]",totalValidListings,18,10
+"rogue's marker",currency,"[]",p10,0,1
+"rogue's marker",currency,"[]",p10,9,1
+"rogue's marker",currency,"[]",p10,18,1
+"rogue's marker",currency,"[]",p10,30,1
+"rogue's marker",currency,"[]",p10,50,1
+"rogue's marker",currency,"[]",p10,100,1
+"rogue's marker",currency,"[]",p10,500,0.229135900140647
+"rogue's marker",currency,"[]",p10,1000,0.001415277777777778
+"rogue's marker",currency,"[]",p15,0,1
+"rogue's marker",currency,"[]",p15,9,1
+"rogue's marker",currency,"[]",p15,18,1
+"rogue's marker",currency,"[]",p15,30,1
+"rogue's marker",currency,"[]",p15,50,1
+"rogue's marker",currency,"[]",p15,100,1
+"rogue's marker",currency,"[]",p15,500,0.5702355836849508
+"rogue's marker",currency,"[]",p15,1000,0.03016108473980312
+"rogue's marker",currency,"[]",p20,0,1
+"rogue's marker",currency,"[]",p20,9,1
+"rogue's marker",currency,"[]",p20,18,1
+"rogue's marker",currency,"[]",p20,30,1
+"rogue's marker",currency,"[]",p20,50,1
+"rogue's marker",currency,"[]",p20,100,1
+"rogue's marker",currency,"[]",p20,500,0.5702355836849508
+"rogue's marker",currency,"[]",p20,1000,0.229135900140647
+"rogue's marker",currency,"[]",p5,0,0.997
+"rogue's marker",currency,"[]",p5,9,1
+"rogue's marker",currency,"[]",p5,18,1
+"rogue's marker",currency,"[]",p5,30,1
+"rogue's marker",currency,"[]",p5,50,1
+"rogue's marker",currency,"[]",p5,100,1
+"rogue's marker",currency,"[]",p5,500,0.001415277777777778
+"rogue's marker",currency,"[]",p5,1000,0.001040972222222222
+"rogue's marker",currency,"[]",p50,0,1
+"rogue's marker",currency,"[]",p50,9,1
+"rogue's marker",currency,"[]",p50,18,1
+"rogue's marker",currency,"[]",p50,30,1
+"rogue's marker",currency,"[]",p50,50,1
+"rogue's marker",currency,"[]",p50,100,1
+"rogue's marker",currency,"[]",p50,500,1
+"rogue's marker",currency,"[]",p50,1000,0.7851177918424754
+"rogue's marker",currency,"[]",p7,0,1
+"rogue's marker",currency,"[]",p7,9,1
+"rogue's marker",currency,"[]",p7,18,1
+"rogue's marker",currency,"[]",p7,30,1
+"rogue's marker",currency,"[]",p7,50,1
+"rogue's marker",currency,"[]",p7,100,1
+"rogue's marker",currency,"[]",p7,500,0.001714722222222223
+"rogue's marker",currency,"[]",p7,1000,0.001190694444444445
+"rogue's marker",currency,"[]",totalQuantity,0,29228
+"rogue's marker",currency,"[]",totalQuantity,9,29228
+"rogue's marker",currency,"[]",totalQuantity,18,29228
+"rogue's marker",currency,"[]",totalQuantity,30,29228
+"rogue's marker",currency,"[]",totalQuantity,50,29228
+"rogue's marker",currency,"[]",totalQuantity,100,29228
+"rogue's marker",currency,"[]",totalQuantity,500,29228
+"rogue's marker",currency,"[]",totalQuantity,1000,29228
+"rogue's marker",currency,"[]",totalValidListings,0,35
+"rogue's marker",currency,"[]",totalValidListings,9,33
+"rogue's marker",currency,"[]",totalValidListings,18,33
+"rogue's marker",currency,"[]",totalValidListings,30,33
+"rogue's marker",currency,"[]",totalValidListings,50,33
+"rogue's marker",currency,"[]",totalValidListings,100,33
+"rogue's marker",currency,"[]",totalValidListings,500,15
+"rogue's marker",currency,"[]",totalValidListings,1000,8
+"exalted orb",currency,"[]",p10,0,6
+"exalted orb",currency,"[]",p15,0,6
+"exalted orb",currency,"[]",p20,0,6
+"exalted orb",currency,"[]",p5,0,5.85
+"exalted orb",currency,"[]",p50,0,8
+"exalted orb",currency,"[]",p7,0,5.99
+"exalted orb",currency,"[]",totalQuantity,0,15
+"exalted orb",currency,"[]",totalValidListings,0,15
+"lesser eldritch ichor",currency,"[]",p10,0,1
+"lesser eldritch ichor",currency,"[]",p15,0,1
+"lesser eldritch ichor",currency,"[]",p20,0,1
+"lesser eldritch ichor",currency,"[]",p5,0,1
+"lesser eldritch ichor",currency,"[]",p50,0,1
+"lesser eldritch ichor",currency,"[]",p7,0,1
+"lesser eldritch ichor",currency,"[]",totalQuantity,0,24
+"lesser eldritch ichor",currency,"[]",totalValidListings,0,16
+"gold",currency,"[]",p10,0,0.00001421940928270043
+"gold",currency,"[]",p10,9,0.00001428571428571429
+"gold",currency,"[]",p10,18,0.00001428571428571429
+"gold",currency,"[]",p10,30,0.00001428571428571429
+"gold",currency,"[]",p10,50,0.00001428571428571429
+"gold",currency,"[]",p10,100,0.00001428571428571429
+"gold",currency,"[]",p10,500,0.00001428571428571429
+"gold",currency,"[]",p10,1000,0.00001428571428571429
+"gold",currency,"[]",p10,10000,0.00001428571428571429
+"gold",currency,"[]",p10,30000,0.00001428571428571429
+"gold",currency,"[]",p15,0,0.00001449804294932826
+"gold",currency,"[]",p15,9,0.00001454035755844706
+"gold",currency,"[]",p15,18,0.00001454035755844706
+"gold",currency,"[]",p15,30,0.00001454035755844706
+"gold",currency,"[]",p15,50,0.00001454035755844706
+"gold",currency,"[]",p15,100,0.00001454035755844706
+"gold",currency,"[]",p15,500,0.00001454035755844706
+"gold",currency,"[]",p15,1000,0.00001454035755844706
+"gold",currency,"[]",p15,10000,0.00001454564688458691
+"gold",currency,"[]",p15,30000,0.00001437888198757764
+"gold",currency,"[]",p20,0,0.00001666666666666667
+"gold",currency,"[]",p20,9,0.00001666666666666667
+"gold",currency,"[]",p20,18,0.00001666666666666667
+"gold",currency,"[]",p20,30,0.00001666666666666667
+"gold",currency,"[]",p20,50,0.00001666666666666667
+"gold",currency,"[]",p20,100,0.00001666666666666667
+"gold",currency,"[]",p20,500,0.00001666666666666667
+"gold",currency,"[]",p20,1000,0.00001666666666666667
+"gold",currency,"[]",p20,10000,0.00001666666666666667
+"gold",currency,"[]",p20,30000,0.0000145562255368666
+"gold",currency,"[]",p5,0,0.00001364489489489489
+"gold",currency,"[]",p5,9,0.00001391526019690577
+"gold",currency,"[]",p5,18,0.00001391526019690577
+"gold",currency,"[]",p5,30,0.00001391526019690577
+"gold",currency,"[]",p5,50,0.00001391526019690577
+"gold",currency,"[]",p5,100,0.00001391526019690577
+"gold",currency,"[]",p5,500,0.00001391526019690577
+"gold",currency,"[]",p5,1000,0.00001391526019690577
+"gold",currency,"[]",p5,10000,0.00001417520594735785
+"gold",currency,"[]",p5,30000,0.00001409785011050834
+"gold",currency,"[]",p50,0,0.0001539285714285715
+"gold",currency,"[]",p50,9,0.5833405855855855
+"gold",currency,"[]",p50,18,0.5833405855855855
+"gold",currency,"[]",p50,30,0.5833405855855855
+"gold",currency,"[]",p50,50,0.5833405855855855
+"gold",currency,"[]",p50,100,0.5833405855855855
+"gold",currency,"[]",p50,500,0.5833405855855855
+"gold",currency,"[]",p50,1000,0.5833405855855855
+"gold",currency,"[]",p50,10000,0.00005
+"gold",currency,"[]",p50,30000,0.00004576502732240437
+"gold",currency,"[]",p7,0,0.00001393987341772152
+"gold",currency,"[]",p7,9,0.00001406690777576854
+"gold",currency,"[]",p7,18,0.00001406690777576854
+"gold",currency,"[]",p7,30,0.00001406690777576854
+"gold",currency,"[]",p7,50,0.00001406690777576854
+"gold",currency,"[]",p7,100,0.00001406690777576854
+"gold",currency,"[]",p7,500,0.00001406690777576854
+"gold",currency,"[]",p7,1000,0.00001406690777576854
+"gold",currency,"[]",p7,10000,0.00001428571428571429
+"gold",currency,"[]",p7,30000,0.00001419951778179627
+"gold",currency,"[]",totalQuantity,0,2704254
+"gold",currency,"[]",totalQuantity,9,2704254
+"gold",currency,"[]",totalQuantity,18,2704254
+"gold",currency,"[]",totalQuantity,30,2704254
+"gold",currency,"[]",totalQuantity,50,2704254
+"gold",currency,"[]",totalQuantity,100,2704254
+"gold",currency,"[]",totalQuantity,500,2704254
+"gold",currency,"[]",totalQuantity,1000,2704254
+"gold",currency,"[]",totalQuantity,10000,2704254
+"gold",currency,"[]",totalQuantity,30000,2704254
+"gold",currency,"[]",totalValidListings,0,48
+"gold",currency,"[]",totalValidListings,9,44
+"gold",currency,"[]",totalValidListings,18,44
+"gold",currency,"[]",totalValidListings,30,44
+"gold",currency,"[]",totalValidListings,50,44
+"gold",currency,"[]",totalValidListings,100,44
+"gold",currency,"[]",totalValidListings,500,44
+"gold",currency,"[]",totalValidListings,1000,44
+"gold",currency,"[]",totalValidListings,10000,31
+"gold",currency,"[]",totalValidListings,30000,24
+"armourer's scrap",currency,"[]",p10,0,0.0480952380952381
+"armourer's scrap",currency,"[]",p10,9,0.04761904761904762
+"armourer's scrap",currency,"[]",p10,18,0.04533333333333334
+"armourer's scrap",currency,"[]",p10,30,0.04761904761904762
+"armourer's scrap",currency,"[]",p15,0,0.06904761904761907
+"armourer's scrap",currency,"[]",p15,9,0.05583333333333333
+"armourer's scrap",currency,"[]",p15,18,0.04761904761904762
+"armourer's scrap",currency,"[]",p15,30,0.04761904761904762
+"armourer's scrap",currency,"[]",p20,0,0.1
+"armourer's scrap",currency,"[]",p20,9,0.07487179487179488
+"armourer's scrap",currency,"[]",p20,18,0.04857142857142858
+"armourer's scrap",currency,"[]",p20,30,0.04761904761904762
+"armourer's scrap",currency,"[]",p5,0,0.03537980566117449
+"armourer's scrap",currency,"[]",p5,9,0.04342857142857143
+"armourer's scrap",currency,"[]",p5,18,0.03775000000000001
+"armourer's scrap",currency,"[]",p5,30,0.03630952380952381
+"armourer's scrap",currency,"[]",p50,0,1
+"armourer's scrap",currency,"[]",p50,9,1
+"armourer's scrap",currency,"[]",p50,18,0.2
+"armourer's scrap",currency,"[]",p50,30,0.2
+"armourer's scrap",currency,"[]",p7,0,0.04487619047619049
+"armourer's scrap",currency,"[]",p7,9,0.04761904761904762
+"armourer's scrap",currency,"[]",p7,18,0.04144761904761905
+"armourer's scrap",currency,"[]",p7,30,0.04083333333333334
+"armourer's scrap",currency,"[]",totalQuantity,0,959
+"armourer's scrap",currency,"[]",totalQuantity,9,959
+"armourer's scrap",currency,"[]",totalQuantity,18,959
+"armourer's scrap",currency,"[]",totalQuantity,30,959
+"armourer's scrap",currency,"[]",totalValidListings,0,53
+"armourer's scrap",currency,"[]",totalValidListings,9,30
+"armourer's scrap",currency,"[]",totalValidListings,18,18
+"armourer's scrap",currency,"[]",totalValidListings,30,11
+"portal scroll",currency,"[]",p10,0,0.008516174402250352
+"portal scroll",currency,"[]",p10,9,0.01377291327177259
+"portal scroll",currency,"[]",p10,18,0.025
+"portal scroll",currency,"[]",p10,30,0.025
+"portal scroll",currency,"[]",p10,50,0.1105618846694796
+"portal scroll",currency,"[]",p15,0,0.02125
+"portal scroll",currency,"[]",p15,9,0.025
+"portal scroll",currency,"[]",p15,18,0.025
+"portal scroll",currency,"[]",p15,30,0.03407776605719644
+"portal scroll",currency,"[]",p15,50,0.1403745897796531
+"portal scroll",currency,"[]",p20,0,0.025
+"portal scroll",currency,"[]",p20,9,0.025
+"portal scroll",currency,"[]",p20,18,0.03537458977965308
+"portal scroll",currency,"[]",p20,30,0.04574917955930615
+"portal scroll",currency,"[]",p20,50,0.1701872948898265
+"portal scroll",currency,"[]",p5,0,0.003667457108784057
+"portal scroll",currency,"[]",p5,9,0.002337941336230309
+"portal scroll",currency,"[]",p5,18,0.01568571428571429
+"portal scroll",currency,"[]",p5,30,0.025
+"portal scroll",currency,"[]",p5,50,0.08074917955930615
+"portal scroll",currency,"[]",p50,0,1
+"portal scroll",currency,"[]",p50,9,0.989
+"portal scroll",currency,"[]",p50,18,0.978
+"portal scroll",currency,"[]",p50,30,0.74525
+"portal scroll",currency,"[]",p50,50,0.5125
+"portal scroll",currency,"[]",p7,0,0.005910718239261823
+"portal scroll",currency,"[]",p7,9,0.003668535216367916
+"portal scroll",currency,"[]",p7,18,0.02127428571428572
+"portal scroll",currency,"[]",p7,30,0.025
+"portal scroll",currency,"[]",p7,50,0.09267426160337554
+"portal scroll",currency,"[]",totalQuantity,0,802
+"portal scroll",currency,"[]",totalQuantity,9,802
+"portal scroll",currency,"[]",totalQuantity,18,802
+"portal scroll",currency,"[]",totalQuantity,30,802
+"portal scroll",currency,"[]",totalQuantity,50,802
+"portal scroll",currency,"[]",totalValidListings,0,26
+"portal scroll",currency,"[]",totalValidListings,9,16
+"portal scroll",currency,"[]",totalValidListings,18,13
+"portal scroll",currency,"[]",totalValidListings,30,10
+"portal scroll",currency,"[]",totalValidListings,50,5
+"divine orb",currency,"[]",p10,0,5
+"divine orb",currency,"[]",p15,0,6
+"divine orb",currency,"[]",p20,0,7
+"divine orb",currency,"[]",p5,0,4.5
+"divine orb",currency,"[]",p50,0,7
+"divine orb",currency,"[]",p7,0,4.7
+"divine orb",currency,"[]",totalQuantity,0,11
+"divine orb",currency,"[]",totalValidListings,0,11
+"vivid crystallised lifeforce",currency,"[]",p10,0,0.1
+"vivid crystallised lifeforce",currency,"[]",p10,9,0.1
+"vivid crystallised lifeforce",currency,"[]",p10,18,0.1
+"vivid crystallised lifeforce",currency,"[]",p10,30,0.1
+"vivid crystallised lifeforce",currency,"[]",p10,50,1
+"vivid crystallised lifeforce",currency,"[]",p10,100,0.7100000000000001
+"vivid crystallised lifeforce",currency,"[]",p15,0,0.1
+"vivid crystallised lifeforce",currency,"[]",p15,9,0.1
+"vivid crystallised lifeforce",currency,"[]",p15,18,0.1
+"vivid crystallised lifeforce",currency,"[]",p15,30,0.1
+"vivid crystallised lifeforce",currency,"[]",p15,50,1
+"vivid crystallised lifeforce",currency,"[]",p15,100,1
+"vivid crystallised lifeforce",currency,"[]",p20,0,0.1
+"vivid crystallised lifeforce",currency,"[]",p20,9,0.1
+"vivid crystallised lifeforce",currency,"[]",p20,18,0.1
+"vivid crystallised lifeforce",currency,"[]",p20,30,0.1800000000000001
+"vivid crystallised lifeforce",currency,"[]",p20,50,1
+"vivid crystallised lifeforce",currency,"[]",p20,100,1
+"vivid crystallised lifeforce",currency,"[]",p5,0,0.07666666666666667
+"vivid crystallised lifeforce",currency,"[]",p5,9,0.07666666666666667
+"vivid crystallised lifeforce",currency,"[]",p5,18,0.07666666666666667
+"vivid crystallised lifeforce",currency,"[]",p5,30,0.07
+"vivid crystallised lifeforce",currency,"[]",p5,50,1
+"vivid crystallised lifeforce",currency,"[]",p5,100,0.3716666666666667
+"vivid crystallised lifeforce",currency,"[]",p50,0,1
+"vivid crystallised lifeforce",currency,"[]",p50,9,1
+"vivid crystallised lifeforce",currency,"[]",p50,18,1
+"vivid crystallised lifeforce",currency,"[]",p50,30,1
+"vivid crystallised lifeforce",currency,"[]",p50,50,1
+"vivid crystallised lifeforce",currency,"[]",p50,100,1
+"vivid crystallised lifeforce",currency,"[]",p7,0,0.09400000000000003
+"vivid crystallised lifeforce",currency,"[]",p7,9,0.09400000000000003
+"vivid crystallised lifeforce",currency,"[]",p7,18,0.09400000000000003
+"vivid crystallised lifeforce",currency,"[]",p7,30,0.08466666666666667
+"vivid crystallised lifeforce",currency,"[]",p7,50,1
+"vivid crystallised lifeforce",currency,"[]",p7,100,0.5070000000000001
+"vivid crystallised lifeforce",currency,"[]",totalQuantity,0,1912
+"vivid crystallised lifeforce",currency,"[]",totalQuantity,9,1912
+"vivid crystallised lifeforce",currency,"[]",totalQuantity,18,1912
+"vivid crystallised lifeforce",currency,"[]",totalQuantity,30,1912
+"vivid crystallised lifeforce",currency,"[]",totalQuantity,50,1912
+"vivid crystallised lifeforce",currency,"[]",totalQuantity,100,1912
+"vivid crystallised lifeforce",currency,"[]",totalValidListings,0,14
+"vivid crystallised lifeforce",currency,"[]",totalValidListings,9,14
+"vivid crystallised lifeforce",currency,"[]",totalValidListings,18,14
+"vivid crystallised lifeforce",currency,"[]",totalValidListings,30,12
+"vivid crystallised lifeforce",currency,"[]",totalValidListings,50,8
+"vivid crystallised lifeforce",currency,"[]",totalValidListings,100,8
+"orb of unmaking",currency,"[]",p10,0,1
+"orb of unmaking",currency,"[]",p15,0,1
+"orb of unmaking",currency,"[]",p20,0,1
+"orb of unmaking",currency,"[]",p5,0,1
+"orb of unmaking",currency,"[]",p50,0,1
+"orb of unmaking",currency,"[]",p7,0,1
+"orb of unmaking",currency,"[]",totalQuantity,0,32
+"orb of unmaking",currency,"[]",totalValidListings,0,21
+"orb of regret",currency,"[]",p10,0,1
+"orb of regret",currency,"[]",p15,0,1
+"orb of regret",currency,"[]",p20,0,1
+"orb of regret",currency,"[]",p5,0,1
+"orb of regret",currency,"[]",p50,0,1
+"orb of regret",currency,"[]",p7,0,1
+"orb of regret",currency,"[]",totalQuantity,0,100
+"orb of regret",currency,"[]",totalValidListings,0,69
+"orb of fusing",currency,"[]",p10,0,0.2568917018284108
+"orb of fusing",currency,"[]",p10,9,0.2333333333333333
+"orb of fusing",currency,"[]",p15,0,0.3333333333333333
+"orb of fusing",currency,"[]",p15,9,0.2388888888888889
+"orb of fusing",currency,"[]",p20,0,0.3611446745940417
+"orb of fusing",currency,"[]",p20,9,0.2444444444444444
+"orb of fusing",currency,"[]",p5,0,0.25
+"orb of fusing",currency,"[]",p5,9,0.2277777777777778
+"orb of fusing",currency,"[]",p50,0,1
+"orb of fusing",currency,"[]",p50,9,0.25
+"orb of fusing",currency,"[]",p7,0,0.25
+"orb of fusing",currency,"[]",p7,9,0.23
+"orb of fusing",currency,"[]",totalQuantity,0,140
+"orb of fusing",currency,"[]",totalQuantity,9,207
+"orb of fusing",currency,"[]",totalValidListings,0,45
+"orb of fusing",currency,"[]",totalValidListings,9,5
+"tainted chromatic orb",currency,"[]",p10,0,1
+"tainted chromatic orb",currency,"[]",p15,0,1
+"tainted chromatic orb",currency,"[]",p20,0,1
+"tainted chromatic orb",currency,"[]",p5,0,1
+"tainted chromatic orb",currency,"[]",p50,0,1
+"tainted chromatic orb",currency,"[]",p7,0,1
+"tainted chromatic orb",currency,"[]",totalQuantity,0,5
+"tainted chromatic orb",currency,"[]",totalValidListings,0,5
+"primal crystallised lifeforce",currency,"[]",p10,0,0.1
+"primal crystallised lifeforce",currency,"[]",p10,9,0.1
+"primal crystallised lifeforce",currency,"[]",p10,18,0.1
+"primal crystallised lifeforce",currency,"[]",p10,30,0.1
+"primal crystallised lifeforce",currency,"[]",p10,50,0.1
+"primal crystallised lifeforce",currency,"[]",p10,100,0.1
+"primal crystallised lifeforce",currency,"[]",p15,0,0.1
+"primal crystallised lifeforce",currency,"[]",p15,9,0.1
+"primal crystallised lifeforce",currency,"[]",p15,18,0.1
+"primal crystallised lifeforce",currency,"[]",p15,30,0.1
+"primal crystallised lifeforce",currency,"[]",p15,50,0.1
+"primal crystallised lifeforce",currency,"[]",p15,100,0.1
+"primal crystallised lifeforce",currency,"[]",p20,0,0.1
+"primal crystallised lifeforce",currency,"[]",p20,9,0.1
+"primal crystallised lifeforce",currency,"[]",p20,18,0.1
+"primal crystallised lifeforce",currency,"[]",p20,30,0.1
+"primal crystallised lifeforce",currency,"[]",p20,50,0.1
+"primal crystallised lifeforce",currency,"[]",p20,100,0.1
+"primal crystallised lifeforce",currency,"[]",p5,0,0.1
+"primal crystallised lifeforce",currency,"[]",p5,9,0.1
+"primal crystallised lifeforce",currency,"[]",p5,18,0.1
+"primal crystallised lifeforce",currency,"[]",p5,30,0.1
+"primal crystallised lifeforce",currency,"[]",p5,50,0.1
+"primal crystallised lifeforce",currency,"[]",p5,100,0.1
+"primal crystallised lifeforce",currency,"[]",p50,0,1
+"primal crystallised lifeforce",currency,"[]",p50,9,1
+"primal crystallised lifeforce",currency,"[]",p50,18,1
+"primal crystallised lifeforce",currency,"[]",p50,30,1
+"primal crystallised lifeforce",currency,"[]",p50,50,1
+"primal crystallised lifeforce",currency,"[]",p50,100,0.1
+"primal crystallised lifeforce",currency,"[]",p7,0,0.1
+"primal crystallised lifeforce",currency,"[]",p7,9,0.1
+"primal crystallised lifeforce",currency,"[]",p7,18,0.1
+"primal crystallised lifeforce",currency,"[]",p7,30,0.1
+"primal crystallised lifeforce",currency,"[]",p7,50,0.1
+"primal crystallised lifeforce",currency,"[]",p7,100,0.1
+"primal crystallised lifeforce",currency,"[]",totalQuantity,0,1517
+"primal crystallised lifeforce",currency,"[]",totalQuantity,9,1517
+"primal crystallised lifeforce",currency,"[]",totalQuantity,18,1517
+"primal crystallised lifeforce",currency,"[]",totalQuantity,30,1517
+"primal crystallised lifeforce",currency,"[]",totalQuantity,50,1517
+"primal crystallised lifeforce",currency,"[]",totalQuantity,100,1517
+"primal crystallised lifeforce",currency,"[]",totalValidListings,0,11
+"primal crystallised lifeforce",currency,"[]",totalValidListings,9,11
+"primal crystallised lifeforce",currency,"[]",totalValidListings,18,11
+"primal crystallised lifeforce",currency,"[]",totalValidListings,30,11
+"primal crystallised lifeforce",currency,"[]",totalValidListings,50,10
+"primal crystallised lifeforce",currency,"[]",totalValidListings,100,6
+"cartographer's chisel",currency,"[]",p10,0,0.25
+"cartographer's chisel",currency,"[]",p10,9,0.235
+"cartographer's chisel",currency,"[]",p15,0,0.25
+"cartographer's chisel",currency,"[]",p15,9,0.25
+"cartographer's chisel",currency,"[]",p20,0,0.3466666666666667
+"cartographer's chisel",currency,"[]",p20,9,0.25
+"cartographer's chisel",currency,"[]",p5,0,0.2
+"cartographer's chisel",currency,"[]",p5,9,0.2175
+"cartographer's chisel",currency,"[]",p50,0,1
+"cartographer's chisel",currency,"[]",p50,9,0.7
+"cartographer's chisel",currency,"[]",p7,0,0.2
+"cartographer's chisel",currency,"[]",p7,9,0.2245
+"cartographer's chisel",currency,"[]",totalQuantity,0,201
+"cartographer's chisel",currency,"[]",totalQuantity,9,201
+"cartographer's chisel",currency,"[]",totalValidListings,0,42
+"cartographer's chisel",currency,"[]",totalValidListings,9,8
+"fracturing shard",currency,"[]",p10,0,1
+"fracturing shard",currency,"[]",p15,0,1
+"fracturing shard",currency,"[]",p20,0,1.2
+"fracturing shard",currency,"[]",p5,0,0.9
+"fracturing shard",currency,"[]",p50,0,3
+"fracturing shard",currency,"[]",p7,0,1
+"fracturing shard",currency,"[]",totalQuantity,0,23
+"fracturing shard",currency,"[]",totalValidListings,0,17
+"wild crystallised lifeforce",currency,"[]",p10,0,0.1
+"wild crystallised lifeforce",currency,"[]",p10,9,0.1
+"wild crystallised lifeforce",currency,"[]",p10,18,0.1
+"wild crystallised lifeforce",currency,"[]",p10,30,0.1
+"wild crystallised lifeforce",currency,"[]",p10,50,0.1
+"wild crystallised lifeforce",currency,"[]",p10,100,1
+"wild crystallised lifeforce",currency,"[]",p15,0,0.1
+"wild crystallised lifeforce",currency,"[]",p15,9,0.1
+"wild crystallised lifeforce",currency,"[]",p15,18,0.1
+"wild crystallised lifeforce",currency,"[]",p15,30,0.1
+"wild crystallised lifeforce",currency,"[]",p15,50,0.1
+"wild crystallised lifeforce",currency,"[]",p15,100,1
+"wild crystallised lifeforce",currency,"[]",p20,0,0.1
+"wild crystallised lifeforce",currency,"[]",p20,9,0.1
+"wild crystallised lifeforce",currency,"[]",p20,18,0.1
+"wild crystallised lifeforce",currency,"[]",p20,30,0.1
+"wild crystallised lifeforce",currency,"[]",p20,50,0.1
+"wild crystallised lifeforce",currency,"[]",p20,100,1
+"wild crystallised lifeforce",currency,"[]",p5,0,0.1
+"wild crystallised lifeforce",currency,"[]",p5,9,0.1
+"wild crystallised lifeforce",currency,"[]",p5,18,0.1
+"wild crystallised lifeforce",currency,"[]",p5,30,0.1
+"wild crystallised lifeforce",currency,"[]",p5,50,0.1
+"wild crystallised lifeforce",currency,"[]",p5,100,1
+"wild crystallised lifeforce",currency,"[]",p50,0,1
+"wild crystallised lifeforce",currency,"[]",p50,9,1
+"wild crystallised lifeforce",currency,"[]",p50,18,1
+"wild crystallised lifeforce",currency,"[]",p50,30,1
+"wild crystallised lifeforce",currency,"[]",p50,50,1
+"wild crystallised lifeforce",currency,"[]",p50,100,1
+"wild crystallised lifeforce",currency,"[]",p7,0,0.1
+"wild crystallised lifeforce",currency,"[]",p7,9,0.1
+"wild crystallised lifeforce",currency,"[]",p7,18,0.1
+"wild crystallised lifeforce",currency,"[]",p7,30,0.1
+"wild crystallised lifeforce",currency,"[]",p7,50,0.1
+"wild crystallised lifeforce",currency,"[]",p7,100,1
+"wild crystallised lifeforce",currency,"[]",totalQuantity,0,2844
+"wild crystallised lifeforce",currency,"[]",totalQuantity,9,2844
+"wild crystallised lifeforce",currency,"[]",totalQuantity,18,2844
+"wild crystallised lifeforce",currency,"[]",totalQuantity,30,2844
+"wild crystallised lifeforce",currency,"[]",totalQuantity,50,2844
+"wild crystallised lifeforce",currency,"[]",totalQuantity,100,2844
+"wild crystallised lifeforce",currency,"[]",totalValidListings,0,14
+"wild crystallised lifeforce",currency,"[]",totalValidListings,9,14
+"wild crystallised lifeforce",currency,"[]",totalValidListings,18,14
+"wild crystallised lifeforce",currency,"[]",totalValidListings,30,14
+"wild crystallised lifeforce",currency,"[]",totalValidListings,50,13
+"wild crystallised lifeforce",currency,"[]",totalValidListings,100,8
+"regal orb",currency,"[]",p10,0,2
+"regal orb",currency,"[]",p15,0,2
+"regal orb",currency,"[]",p20,0,2
+"regal orb",currency,"[]",p5,0,2
+"regal orb",currency,"[]",p50,0,2
+"regal orb",currency,"[]",p7,0,2
+"regal orb",currency,"[]",totalQuantity,0,42
+"regal orb",currency,"[]",totalValidListings,0,35
+"orb of augmentation",currency,"[]",p10,0,0.104282700421941
+"orb of augmentation",currency,"[]",p10,9,0.35
+"orb of augmentation",currency,"[]",p10,18,1
+"orb of augmentation",currency,"[]",p15,0,0.2666666666666666
+"orb of augmentation",currency,"[]",p15,9,0.5
+"orb of augmentation",currency,"[]",p15,18,1
+"orb of augmentation",currency,"[]",p20,0,0.4333333333333336
+"orb of augmentation",currency,"[]",p20,9,0.5
+"orb of augmentation",currency,"[]",p20,18,1
+"orb of augmentation",currency,"[]",p5,0,0.05220482584909596
+"orb of augmentation",currency,"[]",p5,9,0.235
+"orb of augmentation",currency,"[]",p5,18,1
+"orb of augmentation",currency,"[]",p50,0,1
+"orb of augmentation",currency,"[]",p50,9,1
+"orb of augmentation",currency,"[]",p50,18,1
+"orb of augmentation",currency,"[]",p7,0,0.07200562587904362
+"orb of augmentation",currency,"[]",p7,9,0.249
+"orb of augmentation",currency,"[]",p7,18,1
+"orb of augmentation",currency,"[]",totalQuantity,0,327
+"orb of augmentation",currency,"[]",totalQuantity,9,327
+"orb of augmentation",currency,"[]",totalQuantity,18,327
+"orb of augmentation",currency,"[]",totalValidListings,0,49
+"orb of augmentation",currency,"[]",totalValidListings,9,15
+"orb of augmentation",currency,"[]",totalValidListings,18,4
+"orb of alteration",currency,"[]",p10,0,0.3333333333333333
+"orb of alteration",currency,"[]",p10,9,0.3833333333333333
+"orb of alteration",currency,"[]",p15,0,0.3333333333333333
+"orb of alteration",currency,"[]",p15,9,0.4083333333333333
+"orb of alteration",currency,"[]",p20,0,0.5
+"orb of alteration",currency,"[]",p20,9,0.4333333333333333
+"orb of alteration",currency,"[]",p5,0,0.2821428571428571
+"orb of alteration",currency,"[]",p5,9,0.3583333333333333
+"orb of alteration",currency,"[]",p50,0,1
+"orb of alteration",currency,"[]",p50,9,0.75
+"orb of alteration",currency,"[]",p7,0,0.3333333333333333
+"orb of alteration",currency,"[]",p7,9,0.3683333333333333
+"orb of alteration",currency,"[]",totalQuantity,0,264
+"orb of alteration",currency,"[]",totalQuantity,9,264
+"orb of alteration",currency,"[]",totalValidListings,0,59
+"orb of alteration",currency,"[]",totalValidListings,9,4
+"tainted jeweller's orb",currency,"[]",p10,0,0.697013096746937
+"tainted jeweller's orb",currency,"[]",p15,0,0.7980087311646247
+"tainted jeweller's orb",currency,"[]",p20,0,0.8990043655823123
+"tainted jeweller's orb",currency,"[]",p5,0,0.5960174623292492
+"tainted jeweller's orb",currency,"[]",p50,0,1
+"tainted jeweller's orb",currency,"[]",p7,0,0.6364157160963244
+"tainted jeweller's orb",currency,"[]",totalQuantity,0,6
+"tainted jeweller's orb",currency,"[]",totalValidListings,0,5
+"orb of chance",currency,"[]",p10,0,0.2980087311646247
+"orb of chance",currency,"[]",p10,9,0.35
+"orb of chance",currency,"[]",p15,0,0.3482914698726207
+"orb of chance",currency,"[]",p15,9,0.425
+"orb of chance",currency,"[]",p20,0,0.5
+"orb of chance",currency,"[]",p20,9,0.5
+"orb of chance",currency,"[]",p5,0,0.210084388185654
+"orb of chance",currency,"[]",p5,9,0.275
+"orb of chance",currency,"[]",p50,0,1
+"orb of chance",currency,"[]",p50,9,1
+"orb of chance",currency,"[]",p7,0,0.2673856581848112
+"orb of chance",currency,"[]",p7,9,0.305
+"orb of chance",currency,"[]",totalQuantity,0,213
+"orb of chance",currency,"[]",totalQuantity,9,213
+"orb of chance",currency,"[]",totalValidListings,0,44
+"orb of chance",currency,"[]",totalValidListings,9,6
+"intrinsic catalyst",currency,"[]",p10,0,1
+"intrinsic catalyst",currency,"[]",p15,0,1
+"intrinsic catalyst",currency,"[]",p20,0,1
+"intrinsic catalyst",currency,"[]",p5,0,1
+"intrinsic catalyst",currency,"[]",p50,0,1
+"intrinsic catalyst",currency,"[]",p7,0,1
+"intrinsic catalyst",currency,"[]",totalQuantity,0,79
+"intrinsic catalyst",currency,"[]",totalValidListings,0,43
+"orb of alchemy",currency,"[]",p10,0,1
+"orb of alchemy",currency,"[]",p10,9,1
+"orb of alchemy",currency,"[]",p15,0,1
+"orb of alchemy",currency,"[]",p15,9,1
+"orb of alchemy",currency,"[]",p20,0,1
+"orb of alchemy",currency,"[]",p20,9,1
+"orb of alchemy",currency,"[]",p5,0,1
+"orb of alchemy",currency,"[]",p5,9,1
+"orb of alchemy",currency,"[]",p50,0,1.250250721804629
+"orb of alchemy",currency,"[]",p50,9,1
+"orb of alchemy",currency,"[]",p7,0,1
+"orb of alchemy",currency,"[]",p7,9,1
+"orb of alchemy",currency,"[]",totalQuantity,0,250
+"orb of alchemy",currency,"[]",totalQuantity,9,250
+"orb of alchemy",currency,"[]",totalValidListings,0,24
+"orb of alchemy",currency,"[]",totalValidListings,9,5
+"abrasive catalyst",currency,"[]",p10,0,1
+"abrasive catalyst",currency,"[]",p15,0,1
+"abrasive catalyst",currency,"[]",p20,0,1
+"abrasive catalyst",currency,"[]",p5,0,1
+"abrasive catalyst",currency,"[]",p50,0,1
+"abrasive catalyst",currency,"[]",p7,0,1
+"abrasive catalyst",currency,"[]",totalQuantity,0,45
+"abrasive catalyst",currency,"[]",totalValidListings,0,34
+"chaos orb",currency,"[]",p10,0,1
+"chaos orb",currency,"[]",p15,0,1
+"chaos orb",currency,"[]",p20,0,1
+"chaos orb",currency,"[]",p5,0,1
+"chaos orb",currency,"[]",p50,0,1
+"chaos orb",currency,"[]",p7,0,1
+"chaos orb",currency,"[]",totalQuantity,0,221
+"chaos orb",currency,"[]",totalValidListings,0,84
+"glassblower's bauble",currency,"[]",p10,0,1
+"glassblower's bauble",currency,"[]",p15,0,1
+"glassblower's bauble",currency,"[]",p20,0,1
+"glassblower's bauble",currency,"[]",p5,0,0.9975
+"glassblower's bauble",currency,"[]",p50,0,1
+"glassblower's bauble",currency,"[]",p7,0,1
+"glassblower's bauble",currency,"[]",totalQuantity,0,103
+"glassblower's bauble",currency,"[]",totalValidListings,0,36
+"chromatic orb",currency,"[]",p10,0,0.03476190476190476
+"chromatic orb",currency,"[]",p10,9,0.03818681318681318
+"chromatic orb",currency,"[]",p10,18,0.04335664335664336
+"chromatic orb",currency,"[]",p10,30,0.0444805194805195
+"chromatic orb",currency,"[]",p10,50,0.03190425959413302
+"chromatic orb",currency,"[]",p15,0,0.04545454545454546
+"chromatic orb",currency,"[]",p15,9,0.04674825605740955
+"chromatic orb",currency,"[]",p15,18,0.05
+"chromatic orb",currency,"[]",p15,30,0.05
+"chromatic orb",currency,"[]",p15,50,0.03814935064935065
+"chromatic orb",currency,"[]",p20,0,0.05
+"chromatic orb",currency,"[]",p20,9,0.05
+"chromatic orb",currency,"[]",p20,18,0.05
+"chromatic orb",currency,"[]",p20,30,0.05
+"chromatic orb",currency,"[]",p20,50,0.04545454545454546
+"chromatic orb",currency,"[]",p5,0,0.02536661234836139
+"chromatic orb",currency,"[]",p5,9,0.02818096112841505
+"chromatic orb",currency,"[]",p5,18,0.0345712778782399
+"chromatic orb",currency,"[]",p5,30,0.03152325698211775
+"chromatic orb",currency,"[]",p5,50,0.02732067510548524
+"chromatic orb",currency,"[]",p50,0,0.1666666666666667
+"chromatic orb",currency,"[]",p50,9,0.1
+"chromatic orb",currency,"[]",p50,18,0.1458333333333334
+"chromatic orb",currency,"[]",p50,30,0.1125
+"chromatic orb",currency,"[]",p50,50,0.1125
+"chromatic orb",currency,"[]",p7,0,0.02815590647268946
+"chromatic orb",currency,"[]",p7,9,0.03148071096626229
+"chromatic orb",currency,"[]",p7,18,0.03733516483516483
+"chromatic orb",currency,"[]",p7,30,0.03600649350649351
+"chromatic orb",currency,"[]",p7,50,0.02847523608599559
+"chromatic orb",currency,"[]",totalQuantity,0,2191
+"chromatic orb",currency,"[]",totalQuantity,9,2191
+"chromatic orb",currency,"[]",totalQuantity,18,2191
+"chromatic orb",currency,"[]",totalQuantity,30,2191
+"chromatic orb",currency,"[]",totalQuantity,50,2191
+"chromatic orb",currency,"[]",totalValidListings,0,77
+"chromatic orb",currency,"[]",totalValidListings,9,50
+"chromatic orb",currency,"[]",totalValidListings,18,38
+"chromatic orb",currency,"[]",totalValidListings,30,30
+"chromatic orb",currency,"[]",totalValidListings,50,16
+"turbulent catalyst",currency,"[]",p10,0,1
+"turbulent catalyst",currency,"[]",p15,0,1
+"turbulent catalyst",currency,"[]",p20,0,1
+"turbulent catalyst",currency,"[]",p5,0,1
+"turbulent catalyst",currency,"[]",p50,0,1
+"turbulent catalyst",currency,"[]",p7,0,1
+"turbulent catalyst",currency,"[]",totalQuantity,0,36
+"turbulent catalyst",currency,"[]",totalValidListings,0,28
+"imbued catalyst",currency,"[]",p10,0,1
+"imbued catalyst",currency,"[]",p15,0,1
+"imbued catalyst",currency,"[]",p20,0,1
+"imbued catalyst",currency,"[]",p5,0,1
+"imbued catalyst",currency,"[]",p50,0,1
+"imbued catalyst",currency,"[]",p7,0,1
+"imbued catalyst",currency,"[]",totalQuantity,0,42
+"imbued catalyst",currency,"[]",totalValidListings,0,31
+"orb of scouring",currency,"[]",p10,0,1
+"orb of scouring",currency,"[]",p15,0,1
+"orb of scouring",currency,"[]",p20,0,1
+"orb of scouring",currency,"[]",p5,0,1
+"orb of scouring",currency,"[]",p50,0,1
+"orb of scouring",currency,"[]",p7,0,1
+"orb of scouring",currency,"[]",totalQuantity,0,114
+"orb of scouring",currency,"[]",totalValidListings,0,55
+"blacksmith's whetstone",currency,"[]",p10,0,0.04958245428973278
+"blacksmith's whetstone",currency,"[]",p10,9,0.05
+"blacksmith's whetstone",currency,"[]",p10,18,0.05
+"blacksmith's whetstone",currency,"[]",p10,30,1
+"blacksmith's whetstone",currency,"[]",p15,0,0.05065789473684211
+"blacksmith's whetstone",currency,"[]",p15,9,0.05564168041400194
+"blacksmith's whetstone",currency,"[]",p15,18,0.05184210526315789
+"blacksmith's whetstone",currency,"[]",p15,30,1
+"blacksmith's whetstone",currency,"[]",p20,0,0.06666666666666667
+"blacksmith's whetstone",currency,"[]",p20,9,0.06666666666666667
+"blacksmith's whetstone",currency,"[]",p20,18,0.05624370070732865
+"blacksmith's whetstone",currency,"[]",p20,30,1
+"blacksmith's whetstone",currency,"[]",p5,0,0.03227948880439376
+"blacksmith's whetstone",currency,"[]",p5,9,0.05
+"blacksmith's whetstone",currency,"[]",p5,18,0.05
+"blacksmith's whetstone",currency,"[]",p5,30,1
+"blacksmith's whetstone",currency,"[]",p50,0,1
+"blacksmith's whetstone",currency,"[]",p50,9,0.3333333333333333
+"blacksmith's whetstone",currency,"[]",p50,18,1
+"blacksmith's whetstone",currency,"[]",p50,30,1
+"blacksmith's whetstone",currency,"[]",p7,0,0.03404765714471418
+"blacksmith's whetstone",currency,"[]",p7,9,0.05
+"blacksmith's whetstone",currency,"[]",p7,18,0.05
+"blacksmith's whetstone",currency,"[]",p7,30,1
+"blacksmith's whetstone",currency,"[]",totalQuantity,0,884
+"blacksmith's whetstone",currency,"[]",totalQuantity,9,884
+"blacksmith's whetstone",currency,"[]",totalQuantity,18,884
+"blacksmith's whetstone",currency,"[]",totalQuantity,30,884
+"blacksmith's whetstone",currency,"[]",totalValidListings,0,56
+"blacksmith's whetstone",currency,"[]",totalValidListings,9,31
+"blacksmith's whetstone",currency,"[]",totalValidListings,18,19
+"blacksmith's whetstone",currency,"[]",totalValidListings,30,5
+"prismatic catalyst",currency,"[]",p10,0,1
+"prismatic catalyst",currency,"[]",p15,0,1
+"prismatic catalyst",currency,"[]",p20,0,1
+"prismatic catalyst",currency,"[]",p5,0,1
+"prismatic catalyst",currency,"[]",p50,0,1
+"prismatic catalyst",currency,"[]",p7,0,1
+"prismatic catalyst",currency,"[]",totalQuantity,0,19
+"prismatic catalyst",currency,"[]",totalValidListings,0,16
+"gemcutter's prism",currency,"[]",p10,0,1
+"gemcutter's prism",currency,"[]",p15,0,1
+"gemcutter's prism",currency,"[]",p20,0,1
+"gemcutter's prism",currency,"[]",p5,0,1
+"gemcutter's prism",currency,"[]",p50,0,1
+"gemcutter's prism",currency,"[]",p7,0,1
+"gemcutter's prism",currency,"[]",totalQuantity,0,58
+"gemcutter's prism",currency,"[]",totalValidListings,0,44
+"blessed orb",currency,"[]",p10,0,1
+"blessed orb",currency,"[]",p15,0,1
+"blessed orb",currency,"[]",p20,0,1
+"blessed orb",currency,"[]",p5,0,1
+"blessed orb",currency,"[]",p50,0,1
+"blessed orb",currency,"[]",p7,0,1
+"blessed orb",currency,"[]",totalQuantity,0,18
+"blessed orb",currency,"[]",totalValidListings,0,13
+"fertile catalyst",currency,"[]",p10,0,1
+"fertile catalyst",currency,"[]",p15,0,1
+"fertile catalyst",currency,"[]",p20,0,1
+"fertile catalyst",currency,"[]",p5,0,1
+"fertile catalyst",currency,"[]",p50,0,1
+"fertile catalyst",currency,"[]",p7,0,1
+"fertile catalyst",currency,"[]",totalQuantity,0,17
+"fertile catalyst",currency,"[]",totalValidListings,0,13
