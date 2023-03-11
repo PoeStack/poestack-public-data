@@ -1,11 +1,11 @@
 "rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,5
 "rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,5
 "rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,5
-"rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,4.85
+"rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,4.95
 "rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,6.5
 "rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,5
-"rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,22
-"rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,18
+"rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,26
+"rerolling favours at ritual altars in your maps has no cost the first 1 time compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,20
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,1.1
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,1.65
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,2
@@ -14,14 +14,14 @@
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,1
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,28
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,12
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,29.6
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,41.15
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,33.45
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,45
 "100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,45
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,18.05
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,50
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,22.67
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,12
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,7
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,19.975
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,55
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,25.365
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,13
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,8
 "your maps contain 6 additional packs of corrupted vaal monsters your maps have a 50% chance to contain gifts of the sacrificed per sacrifice fragment used your maps have a 50% chance to contain gifts of the red queen per mortal fragment used compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,4
 "your maps contain 6 additional packs of corrupted vaal monsters your maps have a 50% chance to contain gifts of the sacrificed per sacrifice fragment used your maps have a 50% chance to contain gifts of the red queen per mortal fragment used compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,4.25
 "your maps contain 6 additional packs of corrupted vaal monsters your maps have a 50% chance to contain gifts of the sacrificed per sacrifice fragment used your maps have a 50% chance to contain gifts of the red queen per mortal fragment used compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,5
@@ -63,20 +63,20 @@
 "players and monsters take 14% increased fire damage your maps contain 8 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,14
 "players and monsters take 14% increased fire damage your maps contain 8 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,9,4
 "non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,5
-"non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,5.5
-"non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,7
+"non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,5
+"non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,5
 "non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,4.75
 "non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,8
 "non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,5
-"non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,21
+"non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,23
 "non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,16
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,6
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,7
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,5.925
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,6.55
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,7.4
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,5
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,8
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,5.59
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,47
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,5.4425
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,50
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,38
 "your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,2.6
 "your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,15.5
@@ -190,22 +190,22 @@
 "breaches in your maps belong to chayula breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,9.08
 "breaches in your maps belong to chayula breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,222
 "breaches in your maps belong to chayula breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,45
-"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,48.00000000000001
+"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,56.00000000000001
 "create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,60
-"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,60
-"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,16.00000000000001
+"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,69
+"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,22
 "create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,125
-"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,30.40000000000001
-"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,35
-"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,25
-"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,25.3
-"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,28
+"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,38.8
+"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,39
+"create a copy of beasts captured in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,29
+"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,25.6
+"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,29.6
 "lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,30
 "lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,25
-"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,33.5
+"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,34
 "lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,25
-"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,38
-"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,32
+"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,44
+"lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of blue plants compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,33
 "your maps are alluring compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,8
 "your maps are alluring compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,8.5
 "your maps are alluring compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,10
@@ -270,13 +270,13 @@
 "area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,2
 "area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,81
 "area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,32
-"your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,94.3
+"your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,98.80000000000001
 "your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,100
 "your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,100
 "your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,77.125
-"your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,112.5
+"your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,131.25
 "your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,85.165
-"your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,92
+"your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,94
 "your maps contain the sacred grove compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,40
 "the first 3 possessed monsters drop an additional polished scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,4
 "the first 3 possessed monsters drop an additional polished scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,5
@@ -300,16 +300,16 @@
 "catalysts dropped by metamorphs in your maps are duplicated metamorphs in your maps have 100% more life compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,5
 "catalysts dropped by metamorphs in your maps are duplicated metamorphs in your maps have 100% more life compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,6
 "catalysts dropped by metamorphs in your maps are duplicated metamorphs in your maps have 100% more life compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,5
-"catalysts dropped by metamorphs in your maps are duplicated metamorphs in your maps have 100% more life compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,85
-"catalysts dropped by metamorphs in your maps are duplicated metamorphs in your maps have 100% more life compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,23
+"catalysts dropped by metamorphs in your maps are duplicated metamorphs in your maps have 100% more life compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,109
+"catalysts dropped by metamorphs in your maps are duplicated metamorphs in your maps have 100% more life compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,29
 "100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,6
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,6
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,6.946666666666667
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,5.55
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,6.746666666666667
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,7
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,5.6
 "100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,8
 "100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,6
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,108
-"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,32
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,110
+"100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,33
 "unique monsters drop corrupted items compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,3
 "unique monsters drop corrupted items compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,4
 "unique monsters drop corrupted items compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,4
@@ -345,14 +345,14 @@
 "your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,3
 "your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,3
 "your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,3
-"your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,2.6
+"your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,2.7
 "your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,5
 "your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,3
-"your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,170
-"your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,33
-"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,5.6
+"your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,174
+"your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,35
+"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,5
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,5.2
-"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,7
+"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,6.55
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p15,9,5.8
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,7
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p20,9,6.4
@@ -362,9 +362,9 @@
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,8.5
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,5
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,4.84
-"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,165
-"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,165
-"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,37
+"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,170
+"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,170
+"your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,38
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,4
 "your maps contain hunted traitors compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,5
 "your maps contain hunted traitors compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,5
@@ -375,12 +375,12 @@
 "your maps contain hunted traitors compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,15
 "your maps contain hunted traitors compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,11
 "players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,1.9
-"players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,2
-"players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,2
+"players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,2.175
+"players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,2.4
 "players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,1.45
 "players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,3.5
 "players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,1.63
-"players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,53
+"players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,57
 "players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,10
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,5.9
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,6.35
@@ -390,29 +390,29 @@
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,5.63
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,14
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,10
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,4.2
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,4.5
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,4.16
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,4.3
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p10,18,4.3
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,5
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p15,9,4.75
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,4.859999999999999
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p15,9,4.45
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p15,18,4.45
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,5
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p20,9,5
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p20,9,4.6
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p20,18,4.6
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,4
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p5,9,4.25
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p5,9,4.15
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p5,18,4.15
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,5
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,5
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p50,18,5.488764044943821
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,5.5
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p50,18,5.5
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,4
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,4.35
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,4.21
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",p7,18,4.21
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,271
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,271
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,18,271
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,218
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,218
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,18,218
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,23
-"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,6
+"25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,4
 "25% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,18,4
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,2
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,2
@@ -420,29 +420,29 @@
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,2
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,3
 "map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,2
-"map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,65
-"map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,17
+"map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,71
+"map bosses of your corrupted maps drop 2 additional vaal items items found in your maps have 5% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,20
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,40
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,42.7
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,40
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p15,9,44.05
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,40
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p20,9,45.4
-"map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,40
+"map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,39.95
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p5,9,41.35
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,45
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,49.5
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,40
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,41.89
-"map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,186
+"map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,154
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,206
-"map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,41
+"map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,40
 "map bosses are accompanied by a mysterious harbinger map bosses drop additional currency shards harbingers in your maps drop additional currency shards compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,4
 "the first 3 possessed monsters drop an additional winged scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,9212.5
 "the first 3 possessed monsters drop an additional winged scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,9281.25
 "the first 3 possessed monsters drop an additional winged scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,9350
 "the first 3 possessed monsters drop an additional winged scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,9143.75
-"the first 3 possessed monsters drop an additional winged scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,9625
+"the first 3 possessed monsters drop an additional winged scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,9487.5
 "the first 3 possessed monsters drop an additional winged scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,9171.25
 "the first 3 possessed monsters drop an additional winged scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,8
 "the first 3 possessed monsters drop an additional winged scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,6
@@ -456,11 +456,11 @@
 "your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",p5,9,4.4
 "your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,6
 "your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,47.44186046511628
-"your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,4.52
+"your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,4.59
 "your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,4.56
-"your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,227
-"your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,227
-"your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,37
+"your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,230
+"your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,230
+"your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,38
 "your maps contain an additional abyss your maps can contain abysses compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,5
 "slaying enemies close together can attract monsters from beyond this realm 25% increased beyond demon pack size in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,7.7
 "slaying enemies close together can attract monsters from beyond this realm 25% increased beyond demon pack size in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,6
@@ -498,8 +498,8 @@
 "20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,5
 "20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,3.5
 "20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,2.63
-"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,270
-"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,270
+"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,273
+"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,273
 "20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,26
 "20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,4
 "legion monsters in your maps have 100% more life splinters and emblems dropped by legion monsters in your maps are duplicated compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,25
@@ -534,14 +534,14 @@
 "the first 3 possessed monsters drop an additional polished scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,3
 "the first 3 possessed monsters drop an additional polished scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,11
 "the first 3 possessed monsters drop an additional polished scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,9
-"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,2.7
-"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,3
-"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,3
-"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,2.35
-"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,4.5
-"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,2.49
-"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,13
-"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,8
+"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,2
+"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,2.35
+"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,2.8
+"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,2
+"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,3.69
+"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,2
+"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,19
+"the first 3 possessed monsters drop an additional rusted scarab your maps contain an additional tormented betrayer compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,10
 "final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,60
 "final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,60
 "final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,60.40000000000001
@@ -575,7 +575,7 @@
 "strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,62
 "strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,40
 "slaying enemies close together can attract monsters from beyond this realm 35% increased beyond demon pack size in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,274.3
-"slaying enemies close together can attract monsters from beyond this realm 35% increased beyond demon pack size in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,274.3
+"slaying enemies close together can attract monsters from beyond this realm 35% increased beyond demon pack size in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,274.98
 "slaying enemies close together can attract monsters from beyond this realm 35% increased beyond demon pack size in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,274.98
 "slaying enemies close together can attract monsters from beyond this realm 35% increased beyond demon pack size in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,274.3
 "slaying enemies close together can attract monsters from beyond this realm 35% increased beyond demon pack size in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,275
@@ -642,9 +642,9 @@
 "your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,4
 "your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,3
 "your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,3
-"your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,239
-"your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,239
-"your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,26
+"your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,247
+"your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,247
+"your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,27
 "your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,6
 "your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,4
 "your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,4.675
@@ -670,7 +670,7 @@
 "your maps contain 100% increased number of runic monster markers compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,59.5
 "your maps contain 100% increased number of runic monster markers compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,89
 "your maps contain 100% increased number of runic monster markers compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,51
-"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,4.6
+"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,4.550000000000001
 "your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,5
 "your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,5
 "your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",p15,9,5
@@ -682,10 +682,10 @@
 "your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,5
 "your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,4
 "your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,5
-"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,150
-"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,150
-"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,43
-"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,4
+"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,167
+"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,167
+"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,42
+"your maps can contain breaches your maps contain an additional breach compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,5
 "delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,55
 "delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,57.2
 "delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,59.4
@@ -727,13 +727,13 @@
 "breaches in your maps belong to chayula breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,34
 "breaches in your maps belong to chayula breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,27
 "your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,3
-"your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,3.175
-"your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,3.9
+"your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,3
+"your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,3.6
 "your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,3
 "your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,5
 "your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,3
-"your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,121
-"your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,30
+"your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,124
+"your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,32
 "your maps contain 3 additional strongboxes strongboxes in your maps are corrupted strongboxes in your maps are at least rare compass",compass,"[{""key"":""uses"",""value"":15}]",p10,0,274.984
 "your maps contain 3 additional strongboxes strongboxes in your maps are corrupted strongboxes in your maps are at least rare compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,274.996
 "your maps contain 3 additional strongboxes strongboxes in your maps are corrupted strongboxes in your maps are at least rare compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,275
@@ -772,8 +772,8 @@
 "delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,60
 "delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,60
 "delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,60
-"delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,22
-"delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,15
+"delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,26
+"delirium reward bars fill 100% faster in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,17
 "your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,24
 "your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,25
 "your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,25
@@ -783,13 +783,13 @@
 "your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,57
 "your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,45
 "30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",p10,0,60
-"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,60
-"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,62
+"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,62
+"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,66
 "30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",p5,0,60
-"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",p50,0,88
+"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",p50,0,75
 "30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",p7,0,60
-"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,12
-"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,7
+"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,14
+"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,9
 "area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":15}]",p10,0,10
 "area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,10
 "area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,10
@@ -822,14 +822,14 @@
 "non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,5.68
 "non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,49
 "non-unique heist contracts found in your maps have an additional implicit modifier compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,25
-"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,7
+"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,5.800000000000001
 "area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,7
 "area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,7
-"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,5.65
-"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,9.566666666666666
-"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,6.31
-"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,176
-"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,34
+"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,5
+"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,9
+"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,5
+"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,187
+"area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,39
 "lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of purple plants compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,32.9
 "lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of purple plants compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,34
 "lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of purple plants compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,34
@@ -878,14 +878,14 @@
 "your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":15}]",p7,0,29.56
 "your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,12
 "your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,9
-"the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,2.3
-"the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,2.95
+"the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,2.4
+"the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,3
 "the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,3
 "the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,2
 "the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,5
 "the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,2
-"the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,43
-"the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,14
+"the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,46
+"the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,15
 "map bosses deal 20% increased damage your maps have 20% quality compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,5
 "map bosses deal 20% increased damage your maps have 20% quality compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,4.3
 "map bosses deal 20% increased damage your maps have 20% quality compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,5
@@ -902,54 +902,54 @@
 "map bosses deal 20% increased damage your maps have 20% quality compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,244
 "map bosses deal 20% increased damage your maps have 20% quality compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,23
 "map bosses deal 20% increased damage your maps have 20% quality compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,4
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,7.742857142857143
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,6.5
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,8
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,8.4
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p10,18,6.2
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,8
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p15,9,7.25
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p15,9,8.6
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p15,18,6.8
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,8
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p20,9,8
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p20,9,8.8
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p20,18,7.4
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,7
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p5,9,5.75
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p5,9,8.2
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p5,18,5.6
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,8
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,10.28947368421053
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,11.57894736842105
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p50,18,10.28947368421053
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,7.084285714285715
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,6.05
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,7.091428571428572
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,8.28
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",p7,18,5.84
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,192
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,275
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,257
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,257
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,18,275
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,38
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,6
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,53
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,5
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,18,4
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,4
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p10,9,3.909090909090909
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,4
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p15,9,3.954545454545455
-"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,4.2
+"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,4.600000000000001
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p20,9,4
-"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,3.827272727272728
+"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,3.845454545454546
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p5,9,3.863636363636364
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,5
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p50,9,5
-"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,3.903636363636364
+"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,3.929090909090909
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",p7,9,3.881818181818182
-"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,256
-"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,256
-"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,22
+"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,263
+"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,9,263
+"map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,24
 "map bosses have 20% increased life quality bonus of your maps also applies to rarity of items found compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,9,6
 "strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,100
 "strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,100
 "strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,100
-"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,100
-"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,115
-"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,100
-"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,101
-"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,51
+"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,97.6
+"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,112.5
+"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,99.71
+"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,95
+"strongbox monsters are enraged strongbox monsters have 500% increased item quantity your maps contain an additional strongbox compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,54
 "rogue exiles deal 20% increased damage rogue exiles drop 2 additional jewels rogue exiles in your maps have 20% increased life your maps are inhabited by 2 additional rogue exiles compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,3
 "rogue exiles deal 20% increased damage rogue exiles drop 2 additional jewels rogue exiles in your maps have 20% increased life your maps are inhabited by 2 additional rogue exiles compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,3.125
 "rogue exiles deal 20% increased damage rogue exiles drop 2 additional jewels rogue exiles in your maps have 20% increased life your maps are inhabited by 2 additional rogue exiles compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,3.5
@@ -966,14 +966,14 @@
 "the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,2
 "the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,13
 "the first 3 possessed monsters drop an additional unique item your maps contain an additional tormented graverobber compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,10
-"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,2.1
-"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,2.65
+"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,2.2
+"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,2.8
 "players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,3
 "players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,2
-"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,4.5
+"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,4
 "players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,2
-"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,24
-"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,12
+"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,25
+"players and monsters take 12% increased cold damage your maps contain 6 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,13
 "breaches in your maps belong to tul breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,2.7
 "breaches in your maps belong to tul breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,3
 "breaches in your maps belong to tul breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,3.4
@@ -1038,14 +1038,14 @@
 "your maps contain niko compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,3
 "your maps contain niko compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,20
 "your maps contain niko compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,14
-"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,18
-"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,20
-"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,20
-"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,14
-"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,25
-"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,15.6
-"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,14
-"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,9
+"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,13.6
+"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,16.1
+"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,18.8
+"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,11.8
+"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,22.5
+"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,12.52
+"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,21
+"area contains metamorph monsters compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,10
 "player's life and mana recovery from flasks are instant your maps contain 8 additional packs of monsters that heal compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,14.8
 "player's life and mana recovery from flasks are instant your maps contain 8 additional packs of monsters that heal compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,15.5
 "player's life and mana recovery from flasks are instant your maps contain 8 additional packs of monsters that heal compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,19
@@ -1084,7 +1084,7 @@
 "30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,48
 "30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,87.85714285714286
 "30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,49.2
-"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,13
+"30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,14
 "30% increased magic pack size compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,7
 "catalysts dropped by metamorphs in your maps are duplicated metamorphs in your maps have 100% more life compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,39
 "catalysts dropped by metamorphs in your maps are duplicated metamorphs in your maps have 100% more life compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,40
@@ -1134,14 +1134,14 @@
 "unique monsters drop corrupted items compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,11.73
 "unique monsters drop corrupted items compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,26
 "unique monsters drop corrupted items compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,14
-"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,36.2
-"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,38.8
-"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,39.54
-"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,33.25
-"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,50
-"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,34.55
-"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,32
-"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,14
+"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,37
+"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,39.225
+"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,39.9
+"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,33.75
+"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,49.5
+"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,35.2
+"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,65
+"your maps contain an additional shrine your maps contain an additional gloom shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,16
 "100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,5
 "100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,5
 "100% increased intelligence gained from immortal syndicate targets encountered in your maps compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,5
@@ -1158,14 +1158,14 @@
 "final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,58.01000000000001
 "final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,34
 "final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,28
-"final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,24
-"final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,24
+"final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,24.4
+"final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,25
 "final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,25
 "final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,24
 "final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,30
 "final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,24
-"final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,80
-"final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,41
+"final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,77
+"final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,45
 "players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,2.6
 "players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,2.9
 "players gain an additional vaal soul on kill your maps contain 6 additional packs of corrupted vaal monsters compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,3
@@ -1334,14 +1334,14 @@
 "your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,5
 "your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,17
 "your maps contain einhar compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,8
-"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,1.3
-"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,1.95
-"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,2.6
+"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,1.4
+"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,2
+"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,2
 "your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,1
-"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,4.5
+"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,4
 "your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,1
-"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,46
-"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,14
+"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,47
+"your maps contain 25 additional clusters of mysterious barrels compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,15
 "players and monsters take 12% increased chaos damage your maps contain 6 additional packs of monsters that deal chaos damage compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,3
 "players and monsters take 12% increased chaos damage your maps contain 6 additional packs of monsters that deal chaos damage compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,3
 "players and monsters take 12% increased chaos damage your maps contain 6 additional packs of monsters that deal chaos damage compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,3
@@ -1386,9 +1386,9 @@
 "your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,6.699999999999999
 "your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,7.6
 "your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,5.45
-"your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,9.5
+"your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,9
 "your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,5.63
-"your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,10
+"your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,12
 "your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,10
 "breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,2.6
 "breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,2.9
@@ -1415,9 +1415,9 @@
 "players and monsters take 12% increased physical damage your maps contain 6 additional packs of monsters that deal physical damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,53
 "players and monsters take 12% increased physical damage your maps contain 6 additional packs of monsters that deal physical damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,11
 "maps found in your maps are corrupted with 8 modifiers compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,59
-"maps found in your maps are corrupted with 8 modifiers compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,59.5
+"maps found in your maps are corrupted with 8 modifiers compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,60
 "maps found in your maps are corrupted with 8 modifiers compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,60
-"maps found in your maps are corrupted with 8 modifiers compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,57
+"maps found in your maps are corrupted with 8 modifiers compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,59
 "maps found in your maps are corrupted with 8 modifiers compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,70
 "maps found in your maps are corrupted with 8 modifiers compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,59
 "maps found in your maps are corrupted with 8 modifiers compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,40
@@ -1438,30 +1438,30 @@
 "lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of purple plants compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,30
 "lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of purple plants compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,36
 "lifeforce dropped by harvest monsters in your maps is duplicated harvest monsters in your maps have 100% more life harvests in your maps contain at least one crop of purple plants compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,27
-"your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,8.6
+"your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,8
 "your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,9
 "your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,9
 "your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,8
 "your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,10
 "your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,8
-"your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,105
-"your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,27
-"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,35
-"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,37
-"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,38
-"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,34.8
+"your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,107
+"your maps contain jun compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,29
+"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,37
+"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,38
+"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,38.8
+"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,35
 "your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,40
-"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,35
-"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,67
-"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,39
+"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,35.76
+"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,63
+"your maps contain a mirror of delirium compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,35
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,14
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,15
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,15
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,14
-"final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,19.5
+"final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,20
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,14
-"final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,136
-"final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,58
+"final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,126
+"final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,60
 "your maps contain jun compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,45
 "your maps contain jun compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,47.5
 "your maps contain jun compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,50
@@ -1486,14 +1486,14 @@
 "final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,20
 "final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,36
 "final map boss in each map drops an additional shaper guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,30
-"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,321.75
-"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,332.75
-"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,352
-"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,312.125
+"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,273.225
+"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,312.125
+"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,324.5
+"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,141.4875
 "final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,412.575
-"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,315.975
-"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,9
-"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,8
+"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,194.1825
+"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,14
+"final map boss in each map drops an additional conqueror map map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,10
 "area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,5
 "area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,5
 "area contains a smuggler's cache compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,5
@@ -1512,9 +1512,9 @@
 "your maps contain 3 additional strongboxes strongboxes in your maps are corrupted strongboxes in your maps are at least rare compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,13
 "oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,156.2
 "oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,166.55
-"oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,172
+"oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,175
 "oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,145.85
-"oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,195
+"oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,199
 "oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,149.99
 "oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,12
 "oils found in your maps are 1 tier higher cost of building and upgrading blight towers in your maps is doubled compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,7
@@ -1526,14 +1526,14 @@
 "your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,100
 "your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,12
 "your maps contain ritual altars compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,6
-"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,2.8
+"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,2.9
 "players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,3
 "players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,3
-"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,2.4
+"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,2.45
 "players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,5
-"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,2.56
-"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,14
-"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,9
+"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,2.63
+"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,20
+"players and monsters take 12% increased fire damage your maps contain 6 additional packs of monsters that deal fire damage compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,10
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,99
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,107
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,116
@@ -1575,21 +1575,21 @@
 "your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,32
 "your magic maps contain 4 additional packs of magic monsters your normal maps contain 4 additional packs of normal monsters your rare maps contain 4 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,19
 "breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p10,0,3
-"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,3
-"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,3.6
-"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,2.9
+"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p15,0,3.45
+"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p20,0,4.600000000000001
+"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p5,0,3
 "breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p50,0,5
 "breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",p7,0,3
-"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,35
-"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,19
-"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p10,0,18
-"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,20
-"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,20
-"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p5,0,14
-"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p50,0,33
-"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p7,0,15.6
-"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,11
-"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,9
+"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,40
+"breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,24
+"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p10,0,16.75
+"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,18.375
+"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,19.5
+"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p5,0,13.375
+"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p50,0,31.5
+"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",p7,0,14.725
+"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,13
+"your magic maps contain 5 additional packs of magic monsters your normal maps contain 5 additional packs of normal monsters your rare maps contain 5 additional rare monster packs compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,10
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,13.3
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,14
 "final map boss in each map drops an additional elder guardian map (tier 14+) map bosses have 200% more life map bosses deal 100% more damage compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,14.6
@@ -1623,21 +1623,21 @@
 "your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,63
 "your maps contain a blight encounter compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,34
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",p10,0,60
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,60
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,61.8
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,61
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,63
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",p5,0,60
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",p50,0,70
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",p7,0,60
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,11
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,7
-"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,5
-"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,5
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,12
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,9
+"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,4.3
+"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,4.95
 "20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,5
-"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,4.6
+"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p5,0,3.65
 "20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p50,0,5
-"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,4.84
-"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,19
-"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,13
+"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",p7,0,3.91
+"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",totalQuantity,0,21
+"20% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":3}]",totalValidListings,0,14
 "players and their minions cannot take reflected damage your maps contain 4 additional packs with mirrored rare monsters compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,2.8
 "players and their minions cannot take reflected damage your maps contain 4 additional packs with mirrored rare monsters compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,3
 "players and their minions cannot take reflected damage your maps contain 4 additional packs with mirrored rare monsters compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,3
@@ -1702,14 +1702,14 @@
 "breaches in your maps belong to tul breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,10.75
 "breaches in your maps belong to tul breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,6
 "breaches in your maps belong to tul breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,6
-"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,19.7
-"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,20.5
-"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,24
-"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,19.35
+"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,19.8
+"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,22
+"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,26
+"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,19.4
 "your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,30
-"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,19.49
-"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,18
-"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,8
+"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,19.56
+"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,19
+"your maps contain niko compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,9
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":15}]",p10,0,40
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,42.5
 "your maps contain alva compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,45
@@ -1759,13 +1759,13 @@
 "your maps contain an additional resonating shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalQuantity,0,144
 "your maps contain an additional resonating shrine 50% increased duration of shrine effects on players in your maps compass",compass,"[{""key"":""uses"",""value"":4}]",totalValidListings,0,28
 "breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,25
-"breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,25.5
-"breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,29
+"breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,27
+"breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,31
 "breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,25
 "breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,40
 "breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,25
-"breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,17
-"breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,8
+"breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,18
+"breaches in your maps belong to uul-netol breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,9
 "the first 3 possessed monsters drop an additional map your maps contain an additional tormented heretic compass",compass,"[{""key"":""uses"",""value"":3}]",p10,0,3
 "the first 3 possessed monsters drop an additional map your maps contain an additional tormented heretic compass",compass,"[{""key"":""uses"",""value"":3}]",p15,0,3.5
 "the first 3 possessed monsters drop an additional map your maps contain an additional tormented heretic compass",compass,"[{""key"":""uses"",""value"":3}]",p20,0,4
@@ -1809,11 +1809,11 @@
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,70
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,70
 "your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,70
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,69.65
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,95
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,69.91
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,55
-"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,14
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,69.75
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,100
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,70
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,57
+"your maps contain an additional legion encounter compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,16
 "breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,10
 "breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,10
 "breaches in your maps belong to xoph breaches in your maps contain 3 additional clasped hands compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,10
@@ -1958,14 +1958,14 @@
 "players and monsters take 14% increased chaos damage your maps contain 8 additional packs of monsters that deal chaos damage compass",compass,"[{""key"":""uses"",""value"":15}]",p7,0,15
 "players and monsters take 14% increased chaos damage your maps contain 8 additional packs of monsters that deal chaos damage compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,15
 "players and monsters take 14% increased chaos damage your maps contain 8 additional packs of monsters that deal chaos damage compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,8
-"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p10,0,46
-"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,49
-"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,50
-"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p5,0,43
-"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p50,0,60
-"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p7,0,44.2
-"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,8
-"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,7
+"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p10,0,38.5
+"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p15,0,40
+"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p20,0,40
+"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p5,0,36.75
+"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p50,0,50
+"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",p7,0,37.45
+"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",totalQuantity,0,10
+"25% increased pack size in your unidentified maps compass",compass,"[{""key"":""uses"",""value"":15}]",totalValidListings,0,8
 "the first 3 possessed monsters drop an additional map your maps contain an additional tormented heretic compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,10
 "the first 3 possessed monsters drop an additional map your maps contain an additional tormented heretic compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,10
 "the first 3 possessed monsters drop an additional map your maps contain an additional tormented heretic compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,10.8
@@ -1982,14 +1982,14 @@
 "players and monsters take 14% increased cold damage your maps contain 8 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,14.1
 "players and monsters take 14% increased cold damage your maps contain 8 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,110
 "players and monsters take 14% increased cold damage your maps contain 8 additional packs of monsters that deal cold damage compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,11
-"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,9.4
-"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,10
-"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,10
-"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,8.2
+"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,10
+"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,11
+"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,12
+"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p5,0,8.5
 "your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p50,0,25
-"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,8.68
-"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,10
-"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,9
+"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",p7,0,9.1
+"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",totalQuantity,0,16
+"your maps contain 8 additional packs of corrupted vaal monsters items dropped by corrupted vaal monsters in your maps have 30% chance to be corrupted compass",compass,"[{""key"":""uses"",""value"":16}]",totalValidListings,0,11
 "map bosses are accompanied by bodyguards 2 additional maps drop on completing your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p10,0,20
 "map bosses are accompanied by bodyguards 2 additional maps drop on completing your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p15,0,20
 "map bosses are accompanied by bodyguards 2 additional maps drop on completing your maps compass",compass,"[{""key"":""uses"",""value"":16}]",p20,0,20
