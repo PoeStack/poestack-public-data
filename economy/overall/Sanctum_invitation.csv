@@ -1,11 +1,11 @@
 "polaric invitation",invitation,"[]",p10,0,4
-"polaric invitation",invitation,"[]",p15,0,5
+"polaric invitation",invitation,"[]",p15,0,4
 "polaric invitation",invitation,"[]",p20,0,5
 "polaric invitation",invitation,"[]",p5,0,4
-"polaric invitation",invitation,"[]",p50,0,6.111111111111111
+"polaric invitation",invitation,"[]",p50,0,5.333333333333333
 "polaric invitation",invitation,"[]",p7,0,4
-"polaric invitation",invitation,"[]",totalQuantity,0,189
-"polaric invitation",invitation,"[]",totalValidListings,0,61
+"polaric invitation",invitation,"[]",totalQuantity,0,152
+"polaric invitation",invitation,"[]",totalValidListings,0,63
 "maven's invitation: the hidden",invitation,"[]",p10,0,9.992
 "maven's invitation: the hidden",invitation,"[]",p15,0,10
 "maven's invitation: the hidden",invitation,"[]",p20,0,10
@@ -52,23 +52,23 @@
 "maven's invitation: the twisted",invitation,"[]",p5,0,40
 "maven's invitation: the twisted",invitation,"[]",p50,0,45
 "maven's invitation: the twisted",invitation,"[]",p7,0,40
-"maven's invitation: the twisted",invitation,"[]",totalQuantity,0,126
-"maven's invitation: the twisted",invitation,"[]",totalValidListings,0,71
+"maven's invitation: the twisted",invitation,"[]",totalQuantity,0,109
+"maven's invitation: the twisted",invitation,"[]",totalValidListings,0,61
 "screaming invitation",invitation,"[]",p10,0,205
 "screaming invitation",invitation,"[]",p10,9,275
-"screaming invitation",invitation,"[]",p15,0,210
+"screaming invitation",invitation,"[]",p15,0,205.75
 "screaming invitation",invitation,"[]",p15,9,275
 "screaming invitation",invitation,"[]",p20,0,210
 "screaming invitation",invitation,"[]",p20,9,275
-"screaming invitation",invitation,"[]",p5,0,205
+"screaming invitation",invitation,"[]",p5,0,204
 "screaming invitation",invitation,"[]",p5,9,275
-"screaming invitation",invitation,"[]",p50,0,230
+"screaming invitation",invitation,"[]",p50,0,231.875
 "screaming invitation",invitation,"[]",p50,9,275
-"screaming invitation",invitation,"[]",p7,0,205
+"screaming invitation",invitation,"[]",p7,0,204.999975
 "screaming invitation",invitation,"[]",p7,9,275
-"screaming invitation",invitation,"[]",totalQuantity,0,383
-"screaming invitation",invitation,"[]",totalQuantity,9,383
-"screaming invitation",invitation,"[]",totalValidListings,0,224
+"screaming invitation",invitation,"[]",totalQuantity,0,398
+"screaming invitation",invitation,"[]",totalQuantity,9,398
+"screaming invitation",invitation,"[]",totalValidListings,0,226
 "screaming invitation",invitation,"[]",totalValidListings,9,4
 "maven's invitation: the atlas",invitation,"[]",p10,0,2
 "maven's invitation: the atlas",invitation,"[]",p10,9,6
