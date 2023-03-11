@@ -1,59 +1,59 @@
 "remnant of corruption",essence,"[]",p10,0,2
 "remnant of corruption",essence,"[]",p10,9,2
-"remnant of corruption",essence,"[]",p10,18,2.034615384615384
+"remnant of corruption",essence,"[]",p10,18,2
 "remnant of corruption",essence,"[]",p10,30,2
-"remnant of corruption",essence,"[]",p10,50,2
-"remnant of corruption",essence,"[]",p10,100,2.175
+"remnant of corruption",essence,"[]",p10,50,2.146031746031746
+"remnant of corruption",essence,"[]",p10,100,2.204166666666667
 "remnant of corruption",essence,"[]",p15,0,2
-"remnant of corruption",essence,"[]",p15,9,2.135531135531135
-"remnant of corruption",essence,"[]",p15,18,2.179181929181929
-"remnant of corruption",essence,"[]",p15,30,2.207269841269841
-"remnant of corruption",essence,"[]",p15,50,2.224580952380952
-"remnant of corruption",essence,"[]",p15,100,2.370475113122172
+"remnant of corruption",essence,"[]",p15,9,2.115384615384615
+"remnant of corruption",essence,"[]",p15,18,2.148962148962148
+"remnant of corruption",essence,"[]",p15,30,2.192431746031746
+"remnant of corruption",essence,"[]",p15,50,2.273766666666667
+"remnant of corruption",essence,"[]",p15,100,2.400028280542986
 "remnant of corruption",essence,"[]",p20,0,2
-"remnant of corruption",essence,"[]",p20,9,2.26912568306011
-"remnant of corruption",essence,"[]",p20,18,2.276639344262295
+"remnant of corruption",essence,"[]",p20,9,2.240839344262295
+"remnant of corruption",essence,"[]",p20,18,2.254098360655738
 "remnant of corruption",essence,"[]",p20,30,2.291666666666667
-"remnant of corruption",essence,"[]",p20,50,2.291666666666667
-"remnant of corruption",essence,"[]",p20,100,2.540950226244344
-"remnant of corruption",essence,"[]",p5,0,2
+"remnant of corruption",essence,"[]",p20,50,2.409879336349925
+"remnant of corruption",essence,"[]",p20,100,2.493212669683258
+"remnant of corruption",essence,"[]",p5,0,1.777777777777778
 "remnant of corruption",essence,"[]",p5,9,2
 "remnant of corruption",essence,"[]",p5,18,2
 "remnant of corruption",essence,"[]",p5,30,2
 "remnant of corruption",essence,"[]",p5,50,2
 "remnant of corruption",essence,"[]",p5,100,2
-"remnant of corruption",essence,"[]",p50,0,2.619047619047619
-"remnant of corruption",essence,"[]",p50,9,2.988888888888889
-"remnant of corruption",essence,"[]",p50,18,2.994444444444444
-"remnant of corruption",essence,"[]",p50,30,3
+"remnant of corruption",essence,"[]",p50,0,2.523148148148148
+"remnant of corruption",essence,"[]",p50,9,2.894444444444444
+"remnant of corruption",essence,"[]",p50,18,2.9
+"remnant of corruption",essence,"[]",p50,30,2.988888888888889
 "remnant of corruption",essence,"[]",p50,50,3
-"remnant of corruption",essence,"[]",p50,100,3.055555555555556
+"remnant of corruption",essence,"[]",p50,100,2.777777777777778
 "remnant of corruption",essence,"[]",p7,0,2
 "remnant of corruption",essence,"[]",p7,9,2
 "remnant of corruption",essence,"[]",p7,18,2
 "remnant of corruption",essence,"[]",p7,30,2
 "remnant of corruption",essence,"[]",p7,50,2
-"remnant of corruption",essence,"[]",p7,100,2.035
-"remnant of corruption",essence,"[]",totalQuantity,0,6886
-"remnant of corruption",essence,"[]",totalQuantity,9,6886
-"remnant of corruption",essence,"[]",totalQuantity,18,6886
-"remnant of corruption",essence,"[]",totalQuantity,30,6886
-"remnant of corruption",essence,"[]",totalQuantity,50,6886
-"remnant of corruption",essence,"[]",totalQuantity,100,6886
-"remnant of corruption",essence,"[]",totalValidListings,0,103
-"remnant of corruption",essence,"[]",totalValidListings,9,63
-"remnant of corruption",essence,"[]",totalValidListings,18,54
-"remnant of corruption",essence,"[]",totalValidListings,30,51
-"remnant of corruption",essence,"[]",totalValidListings,50,40
-"remnant of corruption",essence,"[]",totalValidListings,100,17
+"remnant of corruption",essence,"[]",p7,100,2.055416666666667
+"remnant of corruption",essence,"[]",totalQuantity,0,7499
+"remnant of corruption",essence,"[]",totalQuantity,9,7499
+"remnant of corruption",essence,"[]",totalQuantity,18,7499
+"remnant of corruption",essence,"[]",totalQuantity,30,7499
+"remnant of corruption",essence,"[]",totalQuantity,50,7499
+"remnant of corruption",essence,"[]",totalQuantity,100,7499
+"remnant of corruption",essence,"[]",totalValidListings,0,98
+"remnant of corruption",essence,"[]",totalValidListings,9,58
+"remnant of corruption",essence,"[]",totalValidListings,18,51
+"remnant of corruption",essence,"[]",totalValidListings,30,49
+"remnant of corruption",essence,"[]",totalValidListings,50,39
+"remnant of corruption",essence,"[]",totalValidListings,100,18
 "muttering essence of sorrow",essence,"[]",p10,0,1
 "muttering essence of sorrow",essence,"[]",p15,0,1
 "muttering essence of sorrow",essence,"[]",p20,0,1
 "muttering essence of sorrow",essence,"[]",p5,0,1
 "muttering essence of sorrow",essence,"[]",p50,0,2
 "muttering essence of sorrow",essence,"[]",p7,0,1
-"muttering essence of sorrow",essence,"[]",totalQuantity,0,61
-"muttering essence of sorrow",essence,"[]",totalValidListings,0,39
+"muttering essence of sorrow",essence,"[]",totalQuantity,0,67
+"muttering essence of sorrow",essence,"[]",totalValidListings,0,43
 "shrieking essence of anger",essence,"[]",p10,0,2
 "shrieking essence of anger",essence,"[]",p10,9,2
 "shrieking essence of anger",essence,"[]",p10,18,2
@@ -241,14 +241,14 @@
 "screaming essence of spite",essence,"[]",p10,0,1
 "screaming essence of spite",essence,"[]",p10,9,1
 "screaming essence of spite",essence,"[]",p10,18,1
-"screaming essence of spite",essence,"[]",p10,30,0.9857142857142858
-"screaming essence of spite",essence,"[]",p10,50,0.9285714285714286
+"screaming essence of spite",essence,"[]",p10,30,1
+"screaming essence of spite",essence,"[]",p10,50,1
 "screaming essence of spite",essence,"[]",p10,100,0.7785714285714285
 "screaming essence of spite",essence,"[]",p15,0,1
 "screaming essence of spite",essence,"[]",p15,9,1
 "screaming essence of spite",essence,"[]",p15,18,1
 "screaming essence of spite",essence,"[]",p15,30,1
-"screaming essence of spite",essence,"[]",p15,50,0.9642857142857143
+"screaming essence of spite",essence,"[]",p15,50,1
 "screaming essence of spite",essence,"[]",p15,100,0.8178571428571428
 "screaming essence of spite",essence,"[]",p20,0,1
 "screaming essence of spite",essence,"[]",p20,9,1
@@ -256,11 +256,11 @@
 "screaming essence of spite",essence,"[]",p20,30,1
 "screaming essence of spite",essence,"[]",p20,50,1
 "screaming essence of spite",essence,"[]",p20,100,0.8571428571428571
-"screaming essence of spite",essence,"[]",p5,0,0.9111111111111111
-"screaming essence of spite",essence,"[]",p5,9,0.9642857142857143
-"screaming essence of spite",essence,"[]",p5,18,0.9571428571428572
-"screaming essence of spite",essence,"[]",p5,30,0.9214285714285714
-"screaming essence of spite",essence,"[]",p5,50,0.8928571428571428
+"screaming essence of spite",essence,"[]",p5,0,1
+"screaming essence of spite",essence,"[]",p5,9,1
+"screaming essence of spite",essence,"[]",p5,18,1
+"screaming essence of spite",essence,"[]",p5,30,1
+"screaming essence of spite",essence,"[]",p5,50,1
 "screaming essence of spite",essence,"[]",p5,100,0.7392857142857142
 "screaming essence of spite",essence,"[]",p50,0,1
 "screaming essence of spite",essence,"[]",p50,9,1
@@ -270,18 +270,18 @@
 "screaming essence of spite",essence,"[]",p50,100,1.354166666666667
 "screaming essence of spite",essence,"[]",p7,0,1
 "screaming essence of spite",essence,"[]",p7,9,1
-"screaming essence of spite",essence,"[]",p7,18,0.9971428571428571
-"screaming essence of spite",essence,"[]",p7,30,0.9471428571428572
-"screaming essence of spite",essence,"[]",p7,50,0.9071428571428571
+"screaming essence of spite",essence,"[]",p7,18,1
+"screaming essence of spite",essence,"[]",p7,30,1
+"screaming essence of spite",essence,"[]",p7,50,1
 "screaming essence of spite",essence,"[]",p7,100,0.755
-"screaming essence of spite",essence,"[]",totalQuantity,0,3611
-"screaming essence of spite",essence,"[]",totalQuantity,9,3611
-"screaming essence of spite",essence,"[]",totalQuantity,18,3611
-"screaming essence of spite",essence,"[]",totalQuantity,30,3611
-"screaming essence of spite",essence,"[]",totalQuantity,50,3611
+"screaming essence of spite",essence,"[]",totalQuantity,0,1815
+"screaming essence of spite",essence,"[]",totalQuantity,9,1815
+"screaming essence of spite",essence,"[]",totalQuantity,18,1815
+"screaming essence of spite",essence,"[]",totalQuantity,30,1815
+"screaming essence of spite",essence,"[]",totalQuantity,50,1815
 "screaming essence of spite",essence,"[]",totalQuantity,100,3926
-"screaming essence of spite",essence,"[]",totalValidListings,0,45
-"screaming essence of spite",essence,"[]",totalValidListings,9,16
+"screaming essence of spite",essence,"[]",totalValidListings,0,50
+"screaming essence of spite",essence,"[]",totalValidListings,9,17
 "screaming essence of spite",essence,"[]",totalValidListings,18,15
 "screaming essence of spite",essence,"[]",totalValidListings,30,10
 "screaming essence of spite",essence,"[]",totalValidListings,50,6
@@ -300,8 +300,8 @@
 "weeping essence of torment",essence,"[]",p5,0,1
 "weeping essence of torment",essence,"[]",p50,0,2
 "weeping essence of torment",essence,"[]",p7,0,1
-"weeping essence of torment",essence,"[]",totalQuantity,0,103
-"weeping essence of torment",essence,"[]",totalValidListings,0,53
+"weeping essence of torment",essence,"[]",totalQuantity,0,105
+"weeping essence of torment",essence,"[]",totalValidListings,0,51
 "wailing essence of wrath",essence,"[]",p10,0,1
 "wailing essence of wrath",essence,"[]",p10,9,1
 "wailing essence of wrath",essence,"[]",p10,18,1
@@ -354,18 +354,18 @@
 "muttering essence of anger",essence,"[]",p15,0,1
 "muttering essence of anger",essence,"[]",p20,0,1
 "muttering essence of anger",essence,"[]",p5,0,1
-"muttering essence of anger",essence,"[]",p50,0,1
+"muttering essence of anger",essence,"[]",p50,0,2
 "muttering essence of anger",essence,"[]",p7,0,1
-"muttering essence of anger",essence,"[]",totalQuantity,0,58
-"muttering essence of anger",essence,"[]",totalValidListings,0,33
+"muttering essence of anger",essence,"[]",totalQuantity,0,68
+"muttering essence of anger",essence,"[]",totalValidListings,0,38
 "muttering essence of hatred",essence,"[]",p10,0,1
 "muttering essence of hatred",essence,"[]",p15,0,1
 "muttering essence of hatred",essence,"[]",p20,0,1
 "muttering essence of hatred",essence,"[]",p5,0,1
-"muttering essence of hatred",essence,"[]",p50,0,2.0000005
+"muttering essence of hatred",essence,"[]",p50,0,2
 "muttering essence of hatred",essence,"[]",p7,0,1
-"muttering essence of hatred",essence,"[]",totalQuantity,0,70
-"muttering essence of hatred",essence,"[]",totalValidListings,0,42
+"muttering essence of hatred",essence,"[]",totalQuantity,0,80
+"muttering essence of hatred",essence,"[]",totalValidListings,0,45
 "shrieking essence of hatred",essence,"[]",p10,0,1.5
 "shrieking essence of hatred",essence,"[]",p10,9,1.98
 "shrieking essence of hatred",essence,"[]",p10,18,1.8
@@ -511,15 +511,15 @@
 "screaming essence of zeal",essence,"[]",totalValidListings,50,5
 "screaming essence of zeal",essence,"[]",totalValidListings,100,5
 "screaming essence of rage",essence,"[]",p10,0,1
-"screaming essence of rage",essence,"[]",p10,9,1
+"screaming essence of rage",essence,"[]",p10,9,0.9617021276595745
 "screaming essence of rage",essence,"[]",p10,18,1
-"screaming essence of rage",essence,"[]",p10,30,1
+"screaming essence of rage",essence,"[]",p10,30,0.9111111111111112
 "screaming essence of rage",essence,"[]",p10,50,1
 "screaming essence of rage",essence,"[]",p10,100,1
 "screaming essence of rage",essence,"[]",p15,0,1
 "screaming essence of rage",essence,"[]",p15,9,1
 "screaming essence of rage",essence,"[]",p15,18,1
-"screaming essence of rage",essence,"[]",p15,30,1
+"screaming essence of rage",essence,"[]",p15,30,0.9777777777777777
 "screaming essence of rage",essence,"[]",p15,50,1
 "screaming essence of rage",essence,"[]",p15,100,1
 "screaming essence of rage",essence,"[]",p20,0,1
@@ -528,35 +528,35 @@
 "screaming essence of rage",essence,"[]",p20,30,1
 "screaming essence of rage",essence,"[]",p20,50,1
 "screaming essence of rage",essence,"[]",p20,100,1
-"screaming essence of rage",essence,"[]",p5,0,1
-"screaming essence of rage",essence,"[]",p5,9,0.9936170212765958
-"screaming essence of rage",essence,"[]",p5,18,1
-"screaming essence of rage",essence,"[]",p5,30,1
+"screaming essence of rage",essence,"[]",p5,0,0.905
+"screaming essence of rage",essence,"[]",p5,9,0.8581560283687943
+"screaming essence of rage",essence,"[]",p5,18,0.8888888888888888
+"screaming essence of rage",essence,"[]",p5,30,0.8444444444444444
 "screaming essence of rage",essence,"[]",p5,50,1
 "screaming essence of rage",essence,"[]",p5,100,1
 "screaming essence of rage",essence,"[]",p50,0,1
 "screaming essence of rage",essence,"[]",p50,9,1
 "screaming essence of rage",essence,"[]",p50,18,1.388888888888889
-"screaming essence of rage",essence,"[]",p50,30,1.444444444444445
+"screaming essence of rage",essence,"[]",p50,30,1.388888888888889
 "screaming essence of rage",essence,"[]",p50,50,1.194444444444445
 "screaming essence of rage",essence,"[]",p50,100,1
-"screaming essence of rage",essence,"[]",p7,0,1
-"screaming essence of rage",essence,"[]",p7,9,1
-"screaming essence of rage",essence,"[]",p7,18,1
-"screaming essence of rage",essence,"[]",p7,30,1
+"screaming essence of rage",essence,"[]",p7,0,0.987
+"screaming essence of rage",essence,"[]",p7,9,0.8965957446808511
+"screaming essence of rage",essence,"[]",p7,18,0.9333333333333333
+"screaming essence of rage",essence,"[]",p7,30,0.8711111111111112
 "screaming essence of rage",essence,"[]",p7,50,1
 "screaming essence of rage",essence,"[]",p7,100,1
-"screaming essence of rage",essence,"[]",totalQuantity,0,3995
-"screaming essence of rage",essence,"[]",totalQuantity,9,3995
-"screaming essence of rage",essence,"[]",totalQuantity,18,3995
-"screaming essence of rage",essence,"[]",totalQuantity,30,3995
-"screaming essence of rage",essence,"[]",totalQuantity,50,3995
+"screaming essence of rage",essence,"[]",totalQuantity,0,1664
+"screaming essence of rage",essence,"[]",totalQuantity,9,1664
+"screaming essence of rage",essence,"[]",totalQuantity,18,1664
+"screaming essence of rage",essence,"[]",totalQuantity,30,1664
+"screaming essence of rage",essence,"[]",totalQuantity,50,1664
 "screaming essence of rage",essence,"[]",totalQuantity,100,3995
-"screaming essence of rage",essence,"[]",totalValidListings,0,44
-"screaming essence of rage",essence,"[]",totalValidListings,9,20
-"screaming essence of rage",essence,"[]",totalValidListings,18,13
-"screaming essence of rage",essence,"[]",totalValidListings,30,8
-"screaming essence of rage",essence,"[]",totalValidListings,50,6
+"screaming essence of rage",essence,"[]",totalValidListings,0,42
+"screaming essence of rage",essence,"[]",totalValidListings,9,18
+"screaming essence of rage",essence,"[]",totalValidListings,18,11
+"screaming essence of rage",essence,"[]",totalValidListings,30,7
+"screaming essence of rage",essence,"[]",totalValidListings,50,4
 "screaming essence of rage",essence,"[]",totalValidListings,100,5
 "wailing essence of suffering",essence,"[]",p10,0,1
 "wailing essence of suffering",essence,"[]",p10,9,1
@@ -580,8 +580,8 @@
 "muttering essence of contempt",essence,"[]",p5,0,1
 "muttering essence of contempt",essence,"[]",p50,0,2
 "muttering essence of contempt",essence,"[]",p7,0,1
-"muttering essence of contempt",essence,"[]",totalQuantity,0,86
-"muttering essence of contempt",essence,"[]",totalValidListings,0,49
+"muttering essence of contempt",essence,"[]",totalQuantity,0,84
+"muttering essence of contempt",essence,"[]",totalValidListings,0,48
 "weeping essence of woe",essence,"[]",p10,0,1
 "weeping essence of woe",essence,"[]",p15,0,1
 "weeping essence of woe",essence,"[]",p20,0,1
@@ -596,8 +596,8 @@
 "wailing essence of loathing",essence,"[]",p5,0,1
 "wailing essence of loathing",essence,"[]",p50,0,2
 "wailing essence of loathing",essence,"[]",p7,0,1
-"wailing essence of loathing",essence,"[]",totalQuantity,0,92
-"wailing essence of loathing",essence,"[]",totalValidListings,0,41
+"wailing essence of loathing",essence,"[]",totalQuantity,0,88
+"wailing essence of loathing",essence,"[]",totalValidListings,0,44
 "wailing essence of zeal",essence,"[]",p10,0,1
 "wailing essence of zeal",essence,"[]",p15,0,1
 "wailing essence of zeal",essence,"[]",p20,0,1
@@ -676,8 +676,8 @@
 "whispering essence of contempt",essence,"[]",p5,0,1
 "whispering essence of contempt",essence,"[]",p50,0,2
 "whispering essence of contempt",essence,"[]",p7,0,1
-"whispering essence of contempt",essence,"[]",totalQuantity,0,65
-"whispering essence of contempt",essence,"[]",totalValidListings,0,35
+"whispering essence of contempt",essence,"[]",totalQuantity,0,69
+"whispering essence of contempt",essence,"[]",totalValidListings,0,37
 "weeping essence of wrath",essence,"[]",p10,0,1
 "weeping essence of wrath",essence,"[]",p15,0,1
 "weeping essence of wrath",essence,"[]",p20,0,1
@@ -732,16 +732,16 @@
 "weeping essence of greed",essence,"[]",p5,0,1
 "weeping essence of greed",essence,"[]",p50,0,1
 "weeping essence of greed",essence,"[]",p7,0,1
-"weeping essence of greed",essence,"[]",totalQuantity,0,134
-"weeping essence of greed",essence,"[]",totalValidListings,0,44
+"weeping essence of greed",essence,"[]",totalQuantity,0,124
+"weeping essence of greed",essence,"[]",totalValidListings,0,46
 "wailing essence of anguish",essence,"[]",p10,0,1
 "wailing essence of anguish",essence,"[]",p15,0,1
 "wailing essence of anguish",essence,"[]",p20,0,1
 "wailing essence of anguish",essence,"[]",p5,0,1
 "wailing essence of anguish",essence,"[]",p50,0,2
 "wailing essence of anguish",essence,"[]",p7,0,1
-"wailing essence of anguish",essence,"[]",totalQuantity,0,151
-"wailing essence of anguish",essence,"[]",totalValidListings,0,54
+"wailing essence of anguish",essence,"[]",totalQuantity,0,108
+"wailing essence of anguish",essence,"[]",totalValidListings,0,42
 "wailing essence of fear",essence,"[]",p10,0,1
 "wailing essence of fear",essence,"[]",p10,9,1
 "wailing essence of fear",essence,"[]",p10,18,1
@@ -754,17 +754,17 @@
 "wailing essence of fear",essence,"[]",p5,0,1
 "wailing essence of fear",essence,"[]",p5,9,1
 "wailing essence of fear",essence,"[]",p5,18,1
-"wailing essence of fear",essence,"[]",p50,0,2.111111111111111
+"wailing essence of fear",essence,"[]",p50,0,2
 "wailing essence of fear",essence,"[]",p50,9,1
 "wailing essence of fear",essence,"[]",p50,18,1
 "wailing essence of fear",essence,"[]",p7,0,1
 "wailing essence of fear",essence,"[]",p7,9,1
 "wailing essence of fear",essence,"[]",p7,18,1
-"wailing essence of fear",essence,"[]",totalQuantity,0,340
-"wailing essence of fear",essence,"[]",totalQuantity,9,340
-"wailing essence of fear",essence,"[]",totalQuantity,18,340
-"wailing essence of fear",essence,"[]",totalValidListings,0,54
-"wailing essence of fear",essence,"[]",totalValidListings,9,9
+"wailing essence of fear",essence,"[]",totalQuantity,0,327
+"wailing essence of fear",essence,"[]",totalQuantity,9,327
+"wailing essence of fear",essence,"[]",totalQuantity,18,327
+"wailing essence of fear",essence,"[]",totalValidListings,0,51
+"wailing essence of fear",essence,"[]",totalValidListings,9,8
 "wailing essence of fear",essence,"[]",totalValidListings,18,5
 "wailing essence of woe",essence,"[]",p10,0,1
 "wailing essence of woe",essence,"[]",p10,9,1
@@ -794,10 +794,10 @@
 "weeping essence of rage",essence,"[]",p15,0,1
 "weeping essence of rage",essence,"[]",p20,0,1
 "weeping essence of rage",essence,"[]",p5,0,1
-"weeping essence of rage",essence,"[]",p50,0,2
+"weeping essence of rage",essence,"[]",p50,0,2.0000005
 "weeping essence of rage",essence,"[]",p7,0,1
-"weeping essence of rage",essence,"[]",totalQuantity,0,111
-"weeping essence of rage",essence,"[]",totalValidListings,0,42
+"weeping essence of rage",essence,"[]",totalQuantity,0,125
+"weeping essence of rage",essence,"[]",totalValidListings,0,48
 "wailing essence of doubt",essence,"[]",p10,0,1
 "wailing essence of doubt",essence,"[]",p10,9,1
 "wailing essence of doubt",essence,"[]",p10,18,1
@@ -1008,51 +1008,51 @@
 "deafening essence of spite",essence,"[]",totalValidListings,500,4
 "deafening essence of anguish",essence,"[]",p10,0,2
 "deafening essence of anguish",essence,"[]",p10,9,5
-"deafening essence of anguish",essence,"[]",p10,18,5.413725490196079
-"deafening essence of anguish",essence,"[]",p10,30,5.942512077294686
-"deafening essence of anguish",essence,"[]",p10,50,6
-"deafening essence of anguish",essence,"[]",p10,100,6.111111111111112
+"deafening essence of anguish",essence,"[]",p10,18,5.222222222222222
+"deafening essence of anguish",essence,"[]",p10,30,5.906763285024155
+"deafening essence of anguish",essence,"[]",p10,50,6.111111111111112
+"deafening essence of anguish",essence,"[]",p10,100,6.088888888888889
 "deafening essence of anguish",essence,"[]",p15,0,2
-"deafening essence of anguish",essence,"[]",p15,9,5.222222222222222
-"deafening essence of anguish",essence,"[]",p15,18,5.811111111111111
+"deafening essence of anguish",essence,"[]",p15,9,5
+"deafening essence of anguish",essence,"[]",p15,18,5.638888888888889
 "deafening essence of anguish",essence,"[]",p15,30,6
-"deafening essence of anguish",essence,"[]",p15,50,6.094444444444445
-"deafening essence of anguish",essence,"[]",p15,100,6.263888888888888
+"deafening essence of anguish",essence,"[]",p15,50,6.131944444444445
+"deafening essence of anguish",essence,"[]",p15,100,6.111111111111112
 "deafening essence of anguish",essence,"[]",p20,0,2
-"deafening essence of anguish",essence,"[]",p20,9,5.555555555555556
-"deafening essence of anguish",essence,"[]",p20,18,5.98695652173913
+"deafening essence of anguish",essence,"[]",p20,9,5.392156862745098
+"deafening essence of anguish",essence,"[]",p20,18,5.978260869565217
 "deafening essence of anguish",essence,"[]",p20,30,6
-"deafening essence of anguish",essence,"[]",p20,50,6.111111111111112
-"deafening essence of anguish",essence,"[]",p20,100,6.46031746031746
-"deafening essence of anguish",essence,"[]",p5,0,2
+"deafening essence of anguish",essence,"[]",p20,50,6.27906976744186
+"deafening essence of anguish",essence,"[]",p20,100,6.111111111111112
+"deafening essence of anguish",essence,"[]",p5,0,1.561904761904762
 "deafening essence of anguish",essence,"[]",p5,9,5
-"deafening essence of anguish",essence,"[]",p5,18,5.222222222222222
-"deafening essence of anguish",essence,"[]",p5,30,5.666666666666667
-"deafening essence of anguish",essence,"[]",p5,50,5.994444444444444
-"deafening essence of anguish",essence,"[]",p5,100,6.111111111111112
+"deafening essence of anguish",essence,"[]",p5,18,5
+"deafening essence of anguish",essence,"[]",p5,30,5.277777777777778
+"deafening essence of anguish",essence,"[]",p5,50,6.005555555555556
+"deafening essence of anguish",essence,"[]",p5,100,5.988888888888889
 "deafening essence of anguish",essence,"[]",p50,0,3
 "deafening essence of anguish",essence,"[]",p50,9,6.25
 "deafening essence of anguish",essence,"[]",p50,18,6.395348837209302
-"deafening essence of anguish",essence,"[]",p50,30,6.547619047619047
-"deafening essence of anguish",essence,"[]",p50,50,6.875
-"deafening essence of anguish",essence,"[]",p50,100,6.875
+"deafening essence of anguish",essence,"[]",p50,30,6.395348837209302
+"deafening essence of anguish",essence,"[]",p50,50,6.707317073170732
+"deafening essence of anguish",essence,"[]",p50,100,6.627468060394889
 "deafening essence of anguish",essence,"[]",p7,0,2
 "deafening essence of anguish",essence,"[]",p7,9,5
-"deafening essence of anguish",essence,"[]",p7,18,5.222222222222222
-"deafening essence of anguish",essence,"[]",p7,30,5.835555555555556
-"deafening essence of anguish",essence,"[]",p7,50,6
-"deafening essence of anguish",essence,"[]",p7,100,6.111111111111112
-"deafening essence of anguish",essence,"[]",totalQuantity,0,6742
-"deafening essence of anguish",essence,"[]",totalQuantity,9,6742
-"deafening essence of anguish",essence,"[]",totalQuantity,18,6742
-"deafening essence of anguish",essence,"[]",totalQuantity,30,6742
-"deafening essence of anguish",essence,"[]",totalQuantity,50,6742
-"deafening essence of anguish",essence,"[]",totalQuantity,100,6742
-"deafening essence of anguish",essence,"[]",totalValidListings,0,163
-"deafening essence of anguish",essence,"[]",totalValidListings,9,57
-"deafening essence of anguish",essence,"[]",totalValidListings,18,43
-"deafening essence of anguish",essence,"[]",totalValidListings,30,37
-"deafening essence of anguish",essence,"[]",totalValidListings,50,20
+"deafening essence of anguish",essence,"[]",p7,18,5.111111111111112
+"deafening essence of anguish",essence,"[]",p7,30,5.744444444444444
+"deafening essence of anguish",essence,"[]",p7,50,6.052222222222222
+"deafening essence of anguish",essence,"[]",p7,100,6.028888888888889
+"deafening essence of anguish",essence,"[]",totalQuantity,0,7570
+"deafening essence of anguish",essence,"[]",totalQuantity,9,7570
+"deafening essence of anguish",essence,"[]",totalQuantity,18,7570
+"deafening essence of anguish",essence,"[]",totalQuantity,30,7570
+"deafening essence of anguish",essence,"[]",totalQuantity,50,7570
+"deafening essence of anguish",essence,"[]",totalQuantity,100,7570
+"deafening essence of anguish",essence,"[]",totalValidListings,0,169
+"deafening essence of anguish",essence,"[]",totalValidListings,9,66
+"deafening essence of anguish",essence,"[]",totalValidListings,18,51
+"deafening essence of anguish",essence,"[]",totalValidListings,30,43
+"deafening essence of anguish",essence,"[]",totalValidListings,50,22
 "deafening essence of anguish",essence,"[]",totalValidListings,100,10
 "essence of delirium",essence,"[]",p10,0,25
 "essence of delirium",essence,"[]",p10,9,36.66666666666666
@@ -1142,51 +1142,51 @@
 "deafening essence of wrath",essence,"[]",totalValidListings,50,16
 "deafening essence of wrath",essence,"[]",totalValidListings,100,7
 "deafening essence of wrath",essence,"[]",totalValidListings,500,4
-"essence of horror",essence,"[]",p10,0,34.8
+"essence of horror",essence,"[]",p10,0,34
 "essence of horror",essence,"[]",p10,9,36.66666666666666
-"essence of horror",essence,"[]",p10,18,40.79670329670329
+"essence of horror",essence,"[]",p10,18,43.85
 "essence of horror",essence,"[]",p10,30,39.28571428571428
 "essence of horror",essence,"[]",p10,50,39.28571428571428
 "essence of horror",essence,"[]",p10,100,39.18485714285714
 "essence of horror",essence,"[]",p15,0,35
 "essence of horror",essence,"[]",p15,9,36.92857142857142
-"essence of horror",essence,"[]",p15,18,41.5521978021978
+"essence of horror",essence,"[]",p15,18,44.275
 "essence of horror",essence,"[]",p15,30,39.28571428571428
 "essence of horror",essence,"[]",p15,50,39.28571428571428
 "essence of horror",essence,"[]",p15,100,39.20585714285714
 "essence of horror",essence,"[]",p20,0,35
 "essence of horror",essence,"[]",p20,9,38.76190476190475
-"essence of horror",essence,"[]",p20,18,42.30769230769231
+"essence of horror",essence,"[]",p20,18,44.7
 "essence of horror",essence,"[]",p20,30,39.28571428571428
 "essence of horror",essence,"[]",p20,50,39.28571428571428
 "essence of horror",essence,"[]",p20,100,39.22685714285714
 "essence of horror",essence,"[]",p5,0,33
-"essence of horror",essence,"[]",p5,9,34.66666666666666
-"essence of horror",essence,"[]",p5,18,40.04120879120879
+"essence of horror",essence,"[]",p5,9,36.16666666666666
+"essence of horror",essence,"[]",p5,18,43.425
 "essence of horror",essence,"[]",p5,30,39.28571428571428
 "essence of horror",essence,"[]",p5,50,39.28571428571428
 "essence of horror",essence,"[]",p5,100,39.16385714285714
 "essence of horror",essence,"[]",p50,0,39.28571428571428
-"essence of horror",essence,"[]",p50,9,43
-"essence of horror",essence,"[]",p50,18,44.41666666666666
+"essence of horror",essence,"[]",p50,9,45.83333333333333
+"essence of horror",essence,"[]",p50,18,45.83333333333333
 "essence of horror",essence,"[]",p50,30,44.24358974358974
 "essence of horror",essence,"[]",p50,50,44.24358974358974
 "essence of horror",essence,"[]",p50,100,41.81884792626728
-"essence of horror",essence,"[]",p7,0,33.72
-"essence of horror",essence,"[]",p7,9,36.53333333333332
-"essence of horror",essence,"[]",p7,18,40.34340659340658
+"essence of horror",essence,"[]",p7,0,33
+"essence of horror",essence,"[]",p7,9,36.63333333333333
+"essence of horror",essence,"[]",p7,18,43.595
 "essence of horror",essence,"[]",p7,30,39.28571428571428
 "essence of horror",essence,"[]",p7,50,39.28571428571428
 "essence of horror",essence,"[]",p7,100,39.17225714285714
-"essence of horror",essence,"[]",totalQuantity,0,700
-"essence of horror",essence,"[]",totalQuantity,9,700
-"essence of horror",essence,"[]",totalQuantity,18,700
+"essence of horror",essence,"[]",totalQuantity,0,1227
+"essence of horror",essence,"[]",totalQuantity,9,1227
+"essence of horror",essence,"[]",totalQuantity,18,1227
 "essence of horror",essence,"[]",totalQuantity,30,1437
 "essence of horror",essence,"[]",totalQuantity,50,1847
 "essence of horror",essence,"[]",totalQuantity,100,2123
-"essence of horror",essence,"[]",totalValidListings,0,97
+"essence of horror",essence,"[]",totalValidListings,0,111
 "essence of horror",essence,"[]",totalValidListings,9,15
-"essence of horror",essence,"[]",totalValidListings,18,6
+"essence of horror",essence,"[]",totalValidListings,18,4
 "essence of horror",essence,"[]",totalValidListings,30,6
 "essence of horror",essence,"[]",totalValidListings,50,6
 "essence of horror",essence,"[]",totalValidListings,100,4
@@ -1195,96 +1195,96 @@
 "screaming essence of greed",essence,"[]",p10,18,1
 "screaming essence of greed",essence,"[]",p10,30,1
 "screaming essence of greed",essence,"[]",p10,50,1
-"screaming essence of greed",essence,"[]",p10,100,1
+"screaming essence of greed",essence,"[]",p10,100,1.375
 "screaming essence of greed",essence,"[]",p15,0,1
 "screaming essence of greed",essence,"[]",p15,9,1
 "screaming essence of greed",essence,"[]",p15,18,1
-"screaming essence of greed",essence,"[]",p15,30,1
-"screaming essence of greed",essence,"[]",p15,50,1
-"screaming essence of greed",essence,"[]",p15,100,1
+"screaming essence of greed",essence,"[]",p15,30,1.25
+"screaming essence of greed",essence,"[]",p15,50,1.1
+"screaming essence of greed",essence,"[]",p15,100,1.5625
 "screaming essence of greed",essence,"[]",p20,0,1
 "screaming essence of greed",essence,"[]",p20,9,1
-"screaming essence of greed",essence,"[]",p20,18,1
-"screaming essence of greed",essence,"[]",p20,30,1
-"screaming essence of greed",essence,"[]",p20,50,1
-"screaming essence of greed",essence,"[]",p20,100,1.088888888888889
+"screaming essence of greed",essence,"[]",p20,18,1.3
+"screaming essence of greed",essence,"[]",p20,30,1.5
+"screaming essence of greed",essence,"[]",p20,50,1.3
+"screaming essence of greed",essence,"[]",p20,100,1.75
 "screaming essence of greed",essence,"[]",p5,0,1
 "screaming essence of greed",essence,"[]",p5,9,1
 "screaming essence of greed",essence,"[]",p5,18,1
 "screaming essence of greed",essence,"[]",p5,30,1
 "screaming essence of greed",essence,"[]",p5,50,1
-"screaming essence of greed",essence,"[]",p5,100,1
-"screaming essence of greed",essence,"[]",p50,0,1.527777777777778
-"screaming essence of greed",essence,"[]",p50,9,1.75
-"screaming essence of greed",essence,"[]",p50,18,1.75
-"screaming essence of greed",essence,"[]",p50,30,1.638888888888889
-"screaming essence of greed",essence,"[]",p50,50,1.75
-"screaming essence of greed",essence,"[]",p50,100,1.75
+"screaming essence of greed",essence,"[]",p5,100,1.1875
+"screaming essence of greed",essence,"[]",p50,0,2
+"screaming essence of greed",essence,"[]",p50,9,1.888888888888889
+"screaming essence of greed",essence,"[]",p50,18,1.944444444444445
+"screaming essence of greed",essence,"[]",p50,30,1.888888888888889
+"screaming essence of greed",essence,"[]",p50,50,1.888888888888889
+"screaming essence of greed",essence,"[]",p50,100,1.944444444444445
 "screaming essence of greed",essence,"[]",p7,0,1
 "screaming essence of greed",essence,"[]",p7,9,1
 "screaming essence of greed",essence,"[]",p7,18,1
 "screaming essence of greed",essence,"[]",p7,30,1
 "screaming essence of greed",essence,"[]",p7,50,1
-"screaming essence of greed",essence,"[]",p7,100,1
-"screaming essence of greed",essence,"[]",totalQuantity,0,5223
-"screaming essence of greed",essence,"[]",totalQuantity,9,5223
-"screaming essence of greed",essence,"[]",totalQuantity,18,5223
-"screaming essence of greed",essence,"[]",totalQuantity,30,5223
-"screaming essence of greed",essence,"[]",totalQuantity,50,5223
-"screaming essence of greed",essence,"[]",totalQuantity,100,5223
-"screaming essence of greed",essence,"[]",totalValidListings,0,51
-"screaming essence of greed",essence,"[]",totalValidListings,9,21
-"screaming essence of greed",essence,"[]",totalValidListings,18,17
-"screaming essence of greed",essence,"[]",totalValidListings,30,14
-"screaming essence of greed",essence,"[]",totalValidListings,50,11
-"screaming essence of greed",essence,"[]",totalValidListings,100,7
-"screaming essence of torment",essence,"[]",p10,0,0.9444444444444444
-"screaming essence of torment",essence,"[]",p10,9,0.9111111111111111
-"screaming essence of torment",essence,"[]",p10,18,0.8888888888888888
-"screaming essence of torment",essence,"[]",p10,30,0.8888888888888888
-"screaming essence of torment",essence,"[]",p10,50,0.9888888888888889
+"screaming essence of greed",essence,"[]",p7,100,1.2625
+"screaming essence of greed",essence,"[]",totalQuantity,0,2847
+"screaming essence of greed",essence,"[]",totalQuantity,9,2847
+"screaming essence of greed",essence,"[]",totalQuantity,18,2847
+"screaming essence of greed",essence,"[]",totalQuantity,30,2847
+"screaming essence of greed",essence,"[]",totalQuantity,50,2847
+"screaming essence of greed",essence,"[]",totalQuantity,100,2847
+"screaming essence of greed",essence,"[]",totalValidListings,0,53
+"screaming essence of greed",essence,"[]",totalValidListings,9,19
+"screaming essence of greed",essence,"[]",totalValidListings,18,14
+"screaming essence of greed",essence,"[]",totalValidListings,30,11
+"screaming essence of greed",essence,"[]",totalValidListings,50,9
+"screaming essence of greed",essence,"[]",totalValidListings,100,6
+"screaming essence of torment",essence,"[]",p10,0,1
+"screaming essence of torment",essence,"[]",p10,9,1
+"screaming essence of torment",essence,"[]",p10,18,1
+"screaming essence of torment",essence,"[]",p10,30,0.9444444444444444
+"screaming essence of torment",essence,"[]",p10,50,1
 "screaming essence of torment",essence,"[]",p10,100,0.9333333333333333
 "screaming essence of torment",essence,"[]",p15,0,1
 "screaming essence of torment",essence,"[]",p15,9,1
-"screaming essence of torment",essence,"[]",p15,18,0.9833333333333334
-"screaming essence of torment",essence,"[]",p15,30,0.8888888888888888
+"screaming essence of torment",essence,"[]",p15,18,1
+"screaming essence of torment",essence,"[]",p15,30,1
 "screaming essence of torment",essence,"[]",p15,50,1
 "screaming essence of torment",essence,"[]",p15,100,0.9555555555555555
 "screaming essence of torment",essence,"[]",p20,0,1
 "screaming essence of torment",essence,"[]",p20,9,1
 "screaming essence of torment",essence,"[]",p20,18,1
-"screaming essence of torment",essence,"[]",p20,30,0.9333333333333333
+"screaming essence of torment",essence,"[]",p20,30,1
 "screaming essence of torment",essence,"[]",p20,50,1
 "screaming essence of torment",essence,"[]",p20,100,0.9777777777777777
-"screaming essence of torment",essence,"[]",p5,0,0.8055555555555556
-"screaming essence of torment",essence,"[]",p5,9,0.8888888888888888
-"screaming essence of torment",essence,"[]",p5,18,0.8833333333333333
-"screaming essence of torment",essence,"[]",p5,30,0.8444444444444444
-"screaming essence of torment",essence,"[]",p5,50,0.9388888888888889
+"screaming essence of torment",essence,"[]",p5,0,0.7750000000000001
+"screaming essence of torment",essence,"[]",p5,9,0.9722222222222222
+"screaming essence of torment",essence,"[]",p5,18,0.8888888888888888
+"screaming essence of torment",essence,"[]",p5,30,0.6944444444444444
+"screaming essence of torment",essence,"[]",p5,50,1
 "screaming essence of torment",essence,"[]",p5,100,0.9111111111111111
-"screaming essence of torment",essence,"[]",p50,0,1
+"screaming essence of torment",essence,"[]",p50,0,1.111111111111111
 "screaming essence of torment",essence,"[]",p50,9,1
 "screaming essence of torment",essence,"[]",p50,18,1
 "screaming essence of torment",essence,"[]",p50,30,1
 "screaming essence of torment",essence,"[]",p50,50,1
 "screaming essence of torment",essence,"[]",p50,100,1
-"screaming essence of torment",essence,"[]",p7,0,0.8888888888888888
-"screaming essence of torment",essence,"[]",p7,9,0.8888888888888888
-"screaming essence of torment",essence,"[]",p7,18,0.8888888888888888
-"screaming essence of torment",essence,"[]",p7,30,0.8711111111111111
-"screaming essence of torment",essence,"[]",p7,50,0.9588888888888889
+"screaming essence of torment",essence,"[]",p7,0,1
+"screaming essence of torment",essence,"[]",p7,9,1
+"screaming essence of torment",essence,"[]",p7,18,1
+"screaming essence of torment",essence,"[]",p7,30,0.7944444444444445
+"screaming essence of torment",essence,"[]",p7,50,1
 "screaming essence of torment",essence,"[]",p7,100,0.9199999999999999
-"screaming essence of torment",essence,"[]",totalQuantity,0,4316
-"screaming essence of torment",essence,"[]",totalQuantity,9,4316
-"screaming essence of torment",essence,"[]",totalQuantity,18,4316
-"screaming essence of torment",essence,"[]",totalQuantity,30,4316
-"screaming essence of torment",essence,"[]",totalQuantity,50,4316
+"screaming essence of torment",essence,"[]",totalQuantity,0,2546
+"screaming essence of torment",essence,"[]",totalQuantity,9,2546
+"screaming essence of torment",essence,"[]",totalQuantity,18,2546
+"screaming essence of torment",essence,"[]",totalQuantity,30,2546
+"screaming essence of torment",essence,"[]",totalQuantity,50,2546
 "screaming essence of torment",essence,"[]",totalQuantity,100,4316
-"screaming essence of torment",essence,"[]",totalValidListings,0,46
-"screaming essence of torment",essence,"[]",totalValidListings,9,23
-"screaming essence of torment",essence,"[]",totalValidListings,18,20
-"screaming essence of torment",essence,"[]",totalValidListings,30,13
-"screaming essence of torment",essence,"[]",totalValidListings,50,10
+"screaming essence of torment",essence,"[]",totalValidListings,0,52
+"screaming essence of torment",essence,"[]",totalValidListings,9,20
+"screaming essence of torment",essence,"[]",totalValidListings,18,17
+"screaming essence of torment",essence,"[]",totalValidListings,30,10
+"screaming essence of torment",essence,"[]",totalValidListings,50,7
 "screaming essence of torment",essence,"[]",totalValidListings,100,5
 "screaming essence of envy",essence,"[]",p10,0,1
 "screaming essence of envy",essence,"[]",p10,9,2.75
@@ -1334,61 +1334,61 @@
 "screaming essence of envy",essence,"[]",totalValidListings,30,4
 "screaming essence of envy",essence,"[]",totalValidListings,50,4
 "screaming essence of envy",essence,"[]",totalValidListings,100,4
-"deafening essence of sorrow",essence,"[]",p10,0,5.100000000000001
-"deafening essence of sorrow",essence,"[]",p10,9,6.395348837209302
-"deafening essence of sorrow",essence,"[]",p10,18,6.416279069767442
-"deafening essence of sorrow",essence,"[]",p10,30,6.458139534883721
-"deafening essence of sorrow",essence,"[]",p10,50,6.517165005537097
-"deafening essence of sorrow",essence,"[]",p10,100,6.965
+"deafening essence of sorrow",essence,"[]",p10,0,5
+"deafening essence of sorrow",essence,"[]",p10,9,6
+"deafening essence of sorrow",essence,"[]",p10,18,6.5
+"deafening essence of sorrow",essence,"[]",p10,30,6.547619047619047
+"deafening essence of sorrow",essence,"[]",p10,50,6.643437862950058
+"deafening essence of sorrow",essence,"[]",p10,100,6.975
 "deafening essence of sorrow",essence,"[]",p10,500,7.051282051282051
 "deafening essence of sorrow",essence,"[]",p15,0,6
-"deafening essence of sorrow",essence,"[]",p15,9,6.516666666666667
+"deafening essence of sorrow",essence,"[]",p15,9,6.395348837209302
 "deafening essence of sorrow",essence,"[]",p15,18,6.547619047619047
-"deafening essence of sorrow",essence,"[]",p15,30,6.547619047619047
-"deafening essence of sorrow",essence,"[]",p15,50,6.875
-"deafening essence of sorrow",essence,"[]",p15,100,7.001698717948718
+"deafening essence of sorrow",essence,"[]",p15,30,6.816310975609756
+"deafening essence of sorrow",essence,"[]",p15,50,6.880555555555556
+"deafening essence of sorrow",essence,"[]",p15,100,7.013141025641025
 "deafening essence of sorrow",essence,"[]",p15,500,7.051282051282051
 "deafening essence of sorrow",essence,"[]",p20,0,6
 "deafening essence of sorrow",essence,"[]",p20,9,6.547619047619047
-"deafening essence of sorrow",essence,"[]",p20,18,6.678571428571428
+"deafening essence of sorrow",essence,"[]",p20,18,6.875
 "deafening essence of sorrow",essence,"[]",p20,30,6.875
-"deafening essence of sorrow",essence,"[]",p20,50,6.935
-"deafening essence of sorrow",essence,"[]",p20,100,7.036025641025641
+"deafening essence of sorrow",essence,"[]",p20,50,6.98
+"deafening essence of sorrow",essence,"[]",p20,100,7.051282051282051
 "deafening essence of sorrow",essence,"[]",p20,500,7.051282051282051
 "deafening essence of sorrow",essence,"[]",p5,0,5
 "deafening essence of sorrow",essence,"[]",p5,9,6
-"deafening essence of sorrow",essence,"[]",p5,18,6.26453488372093
+"deafening essence of sorrow",essence,"[]",p5,18,6.395348837209302
 "deafening essence of sorrow",essence,"[]",p5,30,6.395348837209302
 "deafening essence of sorrow",essence,"[]",p5,50,6.395348837209302
-"deafening essence of sorrow",essence,"[]",p5,100,6.92
+"deafening essence of sorrow",essence,"[]",p5,100,6.925
 "deafening essence of sorrow",essence,"[]",p5,500,7.051282051282051
 "deafening essence of sorrow",essence,"[]",p50,0,7
 "deafening essence of sorrow",essence,"[]",p50,9,7
-"deafening essence of sorrow",essence,"[]",p50,18,7.051282051282051
-"deafening essence of sorrow",essence,"[]",p50,30,7.432432432432432
-"deafening essence of sorrow",essence,"[]",p50,50,7.333333333333334
+"deafening essence of sorrow",essence,"[]",p50,18,7.236842105263158
+"deafening essence of sorrow",essence,"[]",p50,30,7.382882882882883
+"deafening essence of sorrow",essence,"[]",p50,50,7.432432432432432
 "deafening essence of sorrow",essence,"[]",p50,100,7.236842105263158
 "deafening essence of sorrow",essence,"[]",p50,500,7.144062078272604
 "deafening essence of sorrow",essence,"[]",p7,0,5
-"deafening essence of sorrow",essence,"[]",p7,9,6.0575
+"deafening essence of sorrow",essence,"[]",p7,9,6
 "deafening essence of sorrow",essence,"[]",p7,18,6.395348837209302
-"deafening essence of sorrow",essence,"[]",p7,30,6.395348837209302
-"deafening essence of sorrow",essence,"[]",p7,50,6.395348837209302
-"deafening essence of sorrow",essence,"[]",p7,100,6.938
+"deafening essence of sorrow",essence,"[]",p7,30,6.455
+"deafening essence of sorrow",essence,"[]",p7,50,6.474529346622369
+"deafening essence of sorrow",essence,"[]",p7,100,6.944999999999999
 "deafening essence of sorrow",essence,"[]",p7,500,7.051282051282051
-"deafening essence of sorrow",essence,"[]",totalQuantity,0,6679
-"deafening essence of sorrow",essence,"[]",totalQuantity,9,6679
-"deafening essence of sorrow",essence,"[]",totalQuantity,18,6679
-"deafening essence of sorrow",essence,"[]",totalQuantity,30,6679
-"deafening essence of sorrow",essence,"[]",totalQuantity,50,6679
-"deafening essence of sorrow",essence,"[]",totalQuantity,100,6679
+"deafening essence of sorrow",essence,"[]",totalQuantity,0,7373
+"deafening essence of sorrow",essence,"[]",totalQuantity,9,7373
+"deafening essence of sorrow",essence,"[]",totalQuantity,18,7373
+"deafening essence of sorrow",essence,"[]",totalQuantity,30,7373
+"deafening essence of sorrow",essence,"[]",totalQuantity,50,7373
+"deafening essence of sorrow",essence,"[]",totalQuantity,100,7373
 "deafening essence of sorrow",essence,"[]",totalQuantity,500,18668
-"deafening essence of sorrow",essence,"[]",totalValidListings,0,203
-"deafening essence of sorrow",essence,"[]",totalValidListings,9,90
-"deafening essence of sorrow",essence,"[]",totalValidListings,18,63
-"deafening essence of sorrow",essence,"[]",totalValidListings,30,47
-"deafening essence of sorrow",essence,"[]",totalValidListings,50,29
-"deafening essence of sorrow",essence,"[]",totalValidListings,100,10
+"deafening essence of sorrow",essence,"[]",totalValidListings,0,218
+"deafening essence of sorrow",essence,"[]",totalValidListings,9,103
+"deafening essence of sorrow",essence,"[]",totalValidListings,18,67
+"deafening essence of sorrow",essence,"[]",totalValidListings,30,52
+"deafening essence of sorrow",essence,"[]",totalValidListings,50,37
+"deafening essence of sorrow",essence,"[]",totalValidListings,100,11
 "deafening essence of sorrow",essence,"[]",totalValidListings,500,4
 "deafening essence of woe",essence,"[]",p10,0,5
 "deafening essence of woe",essence,"[]",p10,9,7
@@ -1536,26 +1536,26 @@
 "deafening essence of rage",essence,"[]",totalValidListings,100,5
 "deafening essence of torment",essence,"[]",p10,0,5
 "deafening essence of torment",essence,"[]",p10,9,6
-"deafening essence of torment",essence,"[]",p10,18,6.547619047619047
-"deafening essence of torment",essence,"[]",p10,30,6.744047619047619
+"deafening essence of torment",essence,"[]",p10,18,6.595238095238095
+"deafening essence of torment",essence,"[]",p10,30,6.875
 "deafening essence of torment",essence,"[]",p10,50,6.645833333333333
 "deafening essence of torment",essence,"[]",p10,100,6.547619047619047
 "deafening essence of torment",essence,"[]",p10,500,7.417297297297297
 "deafening essence of torment",essence,"[]",p15,0,5
 "deafening essence of torment",essence,"[]",p15,9,6
-"deafening essence of torment",essence,"[]",p15,18,6.6869918699187
-"deafening essence of torment",essence,"[]",p15,30,6.880555555555556
+"deafening essence of torment",essence,"[]",p15,18,6.875
+"deafening essence of torment",essence,"[]",p15,30,6.882638888888889
 "deafening essence of torment",essence,"[]",p15,50,6.875
-"deafening essence of torment",essence,"[]",p15,100,6.613095238095237
+"deafening essence of torment",essence,"[]",p15,100,6.66220238095238
 "deafening essence of torment",essence,"[]",p15,500,7.41918918918919
-"deafening essence of torment",essence,"[]",p20,0,5
-"deafening essence of torment",essence,"[]",p20,9,6.5
+"deafening essence of torment",essence,"[]",p20,0,5.9
+"deafening essence of torment",essence,"[]",p20,9,6.42
 "deafening essence of torment",essence,"[]",p20,18,6.875
 "deafening essence of torment",essence,"[]",p20,30,7
-"deafening essence of torment",essence,"[]",p20,50,6.883333333333334
-"deafening essence of torment",essence,"[]",p20,100,6.744047619047619
+"deafening essence of torment",essence,"[]",p20,50,6.875
+"deafening essence of torment",essence,"[]",p20,100,6.809523809523809
 "deafening essence of torment",essence,"[]",p20,500,7.421081081081081
-"deafening essence of torment",essence,"[]",p5,0,5
+"deafening essence of torment",essence,"[]",p5,0,4
 "deafening essence of torment",essence,"[]",p5,9,6
 "deafening essence of torment",essence,"[]",p5,18,6.547619047619047
 "deafening essence of torment",essence,"[]",p5,30,6.547619047619047
@@ -1566,29 +1566,29 @@
 "deafening essence of torment",essence,"[]",p50,9,7
 "deafening essence of torment",essence,"[]",p50,18,7.432432432432432
 "deafening essence of torment",essence,"[]",p50,30,7.432432432432432
-"deafening essence of torment",essence,"[]",p50,50,7.53566066066066
-"deafening essence of torment",essence,"[]",p50,100,7
+"deafening essence of torment",essence,"[]",p50,50,7.432432432432432
+"deafening essence of torment",essence,"[]",p50,100,7.216216216216216
 "deafening essence of torment",essence,"[]",p50,500,7.432432432432432
 "deafening essence of torment",essence,"[]",p7,0,5
 "deafening essence of torment",essence,"[]",p7,9,6
 "deafening essence of torment",essence,"[]",p7,18,6.547619047619047
-"deafening essence of torment",essence,"[]",p7,30,6.547619047619047
+"deafening essence of torment",essence,"[]",p7,30,6.740773809523809
 "deafening essence of torment",essence,"[]",p7,50,6.547619047619047
 "deafening essence of torment",essence,"[]",p7,100,6.547619047619047
 "deafening essence of torment",essence,"[]",p7,500,7.416162162162163
-"deafening essence of torment",essence,"[]",totalQuantity,0,6030
-"deafening essence of torment",essence,"[]",totalQuantity,9,6030
-"deafening essence of torment",essence,"[]",totalQuantity,18,6030
-"deafening essence of torment",essence,"[]",totalQuantity,30,6030
-"deafening essence of torment",essence,"[]",totalQuantity,50,6030
-"deafening essence of torment",essence,"[]",totalQuantity,100,6030
+"deafening essence of torment",essence,"[]",totalQuantity,0,6692
+"deafening essence of torment",essence,"[]",totalQuantity,9,6692
+"deafening essence of torment",essence,"[]",totalQuantity,18,6692
+"deafening essence of torment",essence,"[]",totalQuantity,30,6692
+"deafening essence of torment",essence,"[]",totalQuantity,50,6692
+"deafening essence of torment",essence,"[]",totalQuantity,100,6692
 "deafening essence of torment",essence,"[]",totalQuantity,500,7217
-"deafening essence of torment",essence,"[]",totalValidListings,0,175
-"deafening essence of torment",essence,"[]",totalValidListings,9,81
-"deafening essence of torment",essence,"[]",totalValidListings,18,51
-"deafening essence of torment",essence,"[]",totalValidListings,30,37
+"deafening essence of torment",essence,"[]",totalValidListings,0,171
+"deafening essence of torment",essence,"[]",totalValidListings,9,87
+"deafening essence of torment",essence,"[]",totalValidListings,18,55
+"deafening essence of torment",essence,"[]",totalValidListings,30,38
 "deafening essence of torment",essence,"[]",totalValidListings,50,24
-"deafening essence of torment",essence,"[]",totalValidListings,100,9
+"deafening essence of torment",essence,"[]",totalValidListings,100,10
 "deafening essence of torment",essence,"[]",totalValidListings,500,3
 "deafening essence of fear",essence,"[]",p10,0,4
 "deafening essence of fear",essence,"[]",p10,9,5.47843137254902
@@ -1802,17 +1802,17 @@
 "essence of hysteria",essence,"[]",p5,0,22
 "essence of hysteria",essence,"[]",p5,9,34.375
 "essence of hysteria",essence,"[]",p5,18,34.375
-"essence of hysteria",essence,"[]",p50,0,30.55555555555555
+"essence of hysteria",essence,"[]",p50,0,34.375
 "essence of hysteria",essence,"[]",p50,9,35
 "essence of hysteria",essence,"[]",p50,18,34.375
 "essence of hysteria",essence,"[]",p7,0,22
 "essence of hysteria",essence,"[]",p7,9,34.375
 "essence of hysteria",essence,"[]",p7,18,34.375
-"essence of hysteria",essence,"[]",totalQuantity,0,692
-"essence of hysteria",essence,"[]",totalQuantity,9,692
-"essence of hysteria",essence,"[]",totalQuantity,18,692
-"essence of hysteria",essence,"[]",totalValidListings,0,111
-"essence of hysteria",essence,"[]",totalValidListings,9,14
+"essence of hysteria",essence,"[]",totalQuantity,0,737
+"essence of hysteria",essence,"[]",totalQuantity,9,737
+"essence of hysteria",essence,"[]",totalQuantity,18,737
+"essence of hysteria",essence,"[]",totalValidListings,0,106
+"essence of hysteria",essence,"[]",totalValidListings,9,16
 "essence of hysteria",essence,"[]",totalValidListings,18,5
 "deafening essence of scorn",essence,"[]",p10,0,7
 "deafening essence of scorn",essence,"[]",p10,9,10.11111111111111
@@ -1854,119 +1854,119 @@
 "deafening essence of scorn",essence,"[]",totalValidListings,18,18
 "deafening essence of scorn",essence,"[]",totalValidListings,30,7
 "deafening essence of scorn",essence,"[]",totalValidListings,50,5
-"deafening essence of hatred",essence,"[]",p10,0,3
+"deafening essence of hatred",essence,"[]",p10,0,4
 "deafening essence of hatred",essence,"[]",p10,9,5
-"deafening essence of hatred",essence,"[]",p10,18,5.538888888888889
-"deafening essence of hatred",essence,"[]",p10,30,5.922222222222222
-"deafening essence of hatred",essence,"[]",p10,50,5.988888888888889
-"deafening essence of hatred",essence,"[]",p10,100,5.733333333333333
+"deafening essence of hatred",essence,"[]",p10,18,5.5
+"deafening essence of hatred",essence,"[]",p10,30,5.733333333333333
+"deafening essence of hatred",essence,"[]",p10,50,6
+"deafening essence of hatred",essence,"[]",p10,100,5.888888888888889
 "deafening essence of hatred",essence,"[]",p10,500,6.731817524841916
 "deafening essence of hatred",essence,"[]",p15,0,4
 "deafening essence of hatred",essence,"[]",p15,9,5
-"deafening essence of hatred",essence,"[]",p15,18,5.979347826086956
+"deafening essence of hatred",essence,"[]",p15,18,5.897826086956522
 "deafening essence of hatred",essence,"[]",p15,30,6
-"deafening essence of hatred",essence,"[]",p15,50,6.2125
-"deafening essence of hatred",essence,"[]",p15,100,5.850000000000001
+"deafening essence of hatred",essence,"[]",p15,50,6
+"deafening essence of hatred",essence,"[]",p15,100,5.944444444444445
 "deafening essence of hatred",essence,"[]",p15,500,6.744311653116532
 "deafening essence of hatred",essence,"[]",p20,0,4
-"deafening essence of hatred",essence,"[]",p20,9,5
+"deafening essence of hatred",essence,"[]",p20,9,5.2
 "deafening essence of hatred",essence,"[]",p20,18,6
-"deafening essence of hatred",essence,"[]",p20,30,6.15
-"deafening essence of hatred",essence,"[]",p20,50,6.488095238095237
-"deafening essence of hatred",essence,"[]",p20,100,6.020634920634921
+"deafening essence of hatred",essence,"[]",p20,30,6
+"deafening essence of hatred",essence,"[]",p20,50,6
+"deafening essence of hatred",essence,"[]",p20,100,6
 "deafening essence of hatred",essence,"[]",p20,500,6.756805781391147
 "deafening essence of hatred",essence,"[]",p5,0,3
 "deafening essence of hatred",essence,"[]",p5,9,5
-"deafening essence of hatred",essence,"[]",p5,18,5.175
-"deafening essence of hatred",essence,"[]",p5,30,5.5
-"deafening essence of hatred",essence,"[]",p5,50,5.869444444444444
-"deafening essence of hatred",essence,"[]",p5,100,5.616666666666667
+"deafening essence of hatred",essence,"[]",p5,18,5
+"deafening essence of hatred",essence,"[]",p5,30,5.4
+"deafening essence of hatred",essence,"[]",p5,50,5.894444444444445
+"deafening essence of hatred",essence,"[]",p5,100,5.694444444444445
 "deafening essence of hatred",essence,"[]",p5,500,6.7193233965673
 "deafening essence of hatred",essence,"[]",p50,0,5
 "deafening essence of hatred",essence,"[]",p50,9,6.25
-"deafening essence of hatred",essence,"[]",p50,18,6.547619047619047
+"deafening essence of hatred",essence,"[]",p50,18,6.666666666666667
 "deafening essence of hatred",essence,"[]",p50,30,6.707317073170732
-"deafening essence of hatred",essence,"[]",p50,50,6.875
+"deafening essence of hatred",essence,"[]",p50,50,6.791158536585366
 "deafening essence of hatred",essence,"[]",p50,100,6.707317073170732
 "deafening essence of hatred",essence,"[]",p50,500,6.832561728395062
 "deafening essence of hatred",essence,"[]",p7,0,3
 "deafening essence of hatred",essence,"[]",p7,9,5
-"deafening essence of hatred",essence,"[]",p7,18,5.5
-"deafening essence of hatred",essence,"[]",p7,30,5.620555555555556
-"deafening essence of hatred",essence,"[]",p7,50,5.925555555555555
-"deafening essence of hatred",essence,"[]",p7,100,5.663333333333333
+"deafening essence of hatred",essence,"[]",p7,18,5
+"deafening essence of hatred",essence,"[]",p7,30,5.5
+"deafening essence of hatred",essence,"[]",p7,50,5.941111111111112
+"deafening essence of hatred",essence,"[]",p7,100,5.772222222222222
 "deafening essence of hatred",essence,"[]",p7,500,6.724321047877146
-"deafening essence of hatred",essence,"[]",totalQuantity,0,6146
-"deafening essence of hatred",essence,"[]",totalQuantity,9,6146
-"deafening essence of hatred",essence,"[]",totalQuantity,18,6146
-"deafening essence of hatred",essence,"[]",totalQuantity,30,6146
-"deafening essence of hatred",essence,"[]",totalQuantity,50,6146
-"deafening essence of hatred",essence,"[]",totalQuantity,100,6146
+"deafening essence of hatred",essence,"[]",totalQuantity,0,6611
+"deafening essence of hatred",essence,"[]",totalQuantity,9,6611
+"deafening essence of hatred",essence,"[]",totalQuantity,18,6611
+"deafening essence of hatred",essence,"[]",totalQuantity,30,6611
+"deafening essence of hatred",essence,"[]",totalQuantity,50,6611
+"deafening essence of hatred",essence,"[]",totalQuantity,100,6611
 "deafening essence of hatred",essence,"[]",totalQuantity,500,11964
-"deafening essence of hatred",essence,"[]",totalValidListings,0,175
-"deafening essence of hatred",essence,"[]",totalValidListings,9,71
-"deafening essence of hatred",essence,"[]",totalValidListings,18,48
-"deafening essence of hatred",essence,"[]",totalValidListings,30,34
-"deafening essence of hatred",essence,"[]",totalValidListings,50,20
-"deafening essence of hatred",essence,"[]",totalValidListings,100,7
+"deafening essence of hatred",essence,"[]",totalValidListings,0,166
+"deafening essence of hatred",essence,"[]",totalValidListings,9,75
+"deafening essence of hatred",essence,"[]",totalValidListings,18,55
+"deafening essence of hatred",essence,"[]",totalValidListings,30,37
+"deafening essence of hatred",essence,"[]",totalValidListings,50,22
+"deafening essence of hatred",essence,"[]",totalValidListings,100,11
 "deafening essence of hatred",essence,"[]",totalValidListings,500,4
 "essence of insanity",essence,"[]",p10,0,25
-"essence of insanity",essence,"[]",p10,9,34.375
-"essence of insanity",essence,"[]",p10,18,34.375
+"essence of insanity",essence,"[]",p10,9,33.97058823529412
+"essence of insanity",essence,"[]",p10,18,32.95
 "essence of insanity",essence,"[]",p10,30,34.37325
 "essence of insanity",essence,"[]",p10,50,34.37325
 "essence of insanity",essence,"[]",p15,0,25
 "essence of insanity",essence,"[]",p15,9,34.375
-"essence of insanity",essence,"[]",p15,18,34.375
+"essence of insanity",essence,"[]",p15,18,33.425
 "essence of insanity",essence,"[]",p15,30,34.373625
 "essence of insanity",essence,"[]",p15,50,34.373625
-"essence of insanity",essence,"[]",p20,0,25
+"essence of insanity",essence,"[]",p20,0,27
 "essence of insanity",essence,"[]",p20,9,34.375
-"essence of insanity",essence,"[]",p20,18,34.375
+"essence of insanity",essence,"[]",p20,18,33.9
 "essence of insanity",essence,"[]",p20,30,34.374
 "essence of insanity",essence,"[]",p20,50,34.374
 "essence of insanity",essence,"[]",p5,0,25
-"essence of insanity",essence,"[]",p5,9,33.86948529411764
-"essence of insanity",essence,"[]",p5,18,34.375
+"essence of insanity",essence,"[]",p5,9,32.31764705882352
+"essence of insanity",essence,"[]",p5,18,32.475
 "essence of insanity",essence,"[]",p5,30,34.372875
 "essence of insanity",essence,"[]",p5,50,34.372875
-"essence of insanity",essence,"[]",p50,0,34.1875
+"essence of insanity",essence,"[]",p50,0,34.375
 "essence of insanity",essence,"[]",p50,9,35
 "essence of insanity",essence,"[]",p50,18,34.375
 "essence of insanity",essence,"[]",p50,30,34.375
 "essence of insanity",essence,"[]",p50,50,36.83035714285714
 "essence of insanity",essence,"[]",p7,0,25
-"essence of insanity",essence,"[]",p7,9,34.375
-"essence of insanity",essence,"[]",p7,18,34.375
+"essence of insanity",essence,"[]",p7,9,32.87867647058823
+"essence of insanity",essence,"[]",p7,18,32.665
 "essence of insanity",essence,"[]",p7,30,34.373025
 "essence of insanity",essence,"[]",p7,50,34.373025
-"essence of insanity",essence,"[]",totalQuantity,0,568
-"essence of insanity",essence,"[]",totalQuantity,9,568
-"essence of insanity",essence,"[]",totalQuantity,18,568
+"essence of insanity",essence,"[]",totalQuantity,0,565
+"essence of insanity",essence,"[]",totalQuantity,9,565
+"essence of insanity",essence,"[]",totalQuantity,18,565
 "essence of insanity",essence,"[]",totalQuantity,30,953
 "essence of insanity",essence,"[]",totalQuantity,50,1246
 "essence of insanity",essence,"[]",totalValidListings,0,80
-"essence of insanity",essence,"[]",totalValidListings,9,16
-"essence of insanity",essence,"[]",totalValidListings,18,4
+"essence of insanity",essence,"[]",totalValidListings,9,19
+"essence of insanity",essence,"[]",totalValidListings,18,5
 "essence of insanity",essence,"[]",totalValidListings,30,4
 "essence of insanity",essence,"[]",totalValidListings,50,4
 "deafening essence of envy",essence,"[]",p10,0,7
 "deafening essence of envy",essence,"[]",p10,9,7.857142857142857
-"deafening essence of envy",essence,"[]",p10,18,7.857142857142857
-"deafening essence of envy",essence,"[]",p10,30,7.83531746031746
-"deafening essence of envy",essence,"[]",p10,50,7.76984126984127
+"deafening essence of envy",essence,"[]",p10,18,7.748015873015873
+"deafening essence of envy",essence,"[]",p10,30,7.857142857142857
+"deafening essence of envy",essence,"[]",p10,50,7.638888888888888
 "deafening essence of envy",essence,"[]",p10,100,7.638888888888888
-"deafening essence of envy",essence,"[]",p15,0,7.317251461988304
+"deafening essence of envy",essence,"[]",p15,0,7.515015015015014
 "deafening essence of envy",essence,"[]",p15,9,7.857142857142857
 "deafening essence of envy",essence,"[]",p15,18,7.857142857142857
 "deafening essence of envy",essence,"[]",p15,30,7.857142857142857
-"deafening essence of envy",essence,"[]",p15,50,7.857142857142857
+"deafening essence of envy",essence,"[]",p15,50,7.791666666666666
 "deafening essence of envy",essence,"[]",p15,100,7.638888888888888
 "deafening essence of envy",essence,"[]",p20,0,7.857142857142857
-"deafening essence of envy",essence,"[]",p20,9,8
+"deafening essence of envy",essence,"[]",p20,9,7.942857142857143
 "deafening essence of envy",essence,"[]",p20,18,7.857142857142857
-"deafening essence of envy",essence,"[]",p20,30,7.971428571428572
-"deafening essence of envy",essence,"[]",p20,50,7.903361344537815
+"deafening essence of envy",essence,"[]",p20,30,7.995798319327731
+"deafening essence of envy",essence,"[]",p20,50,7.857142857142857
 "deafening essence of envy",essence,"[]",p20,100,7.638888888888888
 "deafening essence of envy",essence,"[]",p5,0,7
 "deafening essence of envy",essence,"[]",p5,9,7.638888888888888
@@ -1975,28 +1975,28 @@
 "deafening essence of envy",essence,"[]",p5,50,7.638888888888888
 "deafening essence of envy",essence,"[]",p5,100,7.638888888888888
 "deafening essence of envy",essence,"[]",p50,0,8
-"deafening essence of envy",essence,"[]",p50,9,8.59375
-"deafening essence of envy",essence,"[]",p50,18,8.732358870967742
-"deafening essence of envy",essence,"[]",p50,30,8.870967741935484
+"deafening essence of envy",essence,"[]",p50,9,8.732358870967742
+"deafening essence of envy",essence,"[]",p50,18,8.870967741935484
+"deafening essence of envy",essence,"[]",p50,30,8.885483870967743
 "deafening essence of envy",essence,"[]",p50,50,8.9
-"deafening essence of envy",essence,"[]",p50,100,7.972689075630251
+"deafening essence of envy",essence,"[]",p50,100,7.863562091503267
 "deafening essence of envy",essence,"[]",p7,0,7
 "deafening essence of envy",essence,"[]",p7,9,7.638888888888888
-"deafening essence of envy",essence,"[]",p7,18,7.671626984126983
-"deafening essence of envy",essence,"[]",p7,30,7.645436507936507
-"deafening essence of envy",essence,"[]",p7,50,7.665079365079364
+"deafening essence of envy",essence,"[]",p7,18,7.638888888888888
+"deafening essence of envy",essence,"[]",p7,30,7.706547619047619
+"deafening essence of envy",essence,"[]",p7,50,7.638888888888888
 "deafening essence of envy",essence,"[]",p7,100,7.638888888888888
-"deafening essence of envy",essence,"[]",totalQuantity,0,4961
-"deafening essence of envy",essence,"[]",totalQuantity,9,4961
-"deafening essence of envy",essence,"[]",totalQuantity,18,4961
-"deafening essence of envy",essence,"[]",totalQuantity,30,4961
-"deafening essence of envy",essence,"[]",totalQuantity,50,4961
-"deafening essence of envy",essence,"[]",totalQuantity,100,4961
-"deafening essence of envy",essence,"[]",totalValidListings,0,149
-"deafening essence of envy",essence,"[]",totalValidListings,9,61
+"deafening essence of envy",essence,"[]",totalQuantity,0,5207
+"deafening essence of envy",essence,"[]",totalQuantity,9,5207
+"deafening essence of envy",essence,"[]",totalQuantity,18,5207
+"deafening essence of envy",essence,"[]",totalQuantity,30,5207
+"deafening essence of envy",essence,"[]",totalQuantity,50,5207
+"deafening essence of envy",essence,"[]",totalQuantity,100,5207
+"deafening essence of envy",essence,"[]",totalValidListings,0,157
+"deafening essence of envy",essence,"[]",totalValidListings,9,64
 "deafening essence of envy",essence,"[]",totalValidListings,18,46
-"deafening essence of envy",essence,"[]",totalValidListings,30,30
-"deafening essence of envy",essence,"[]",totalValidListings,50,17
+"deafening essence of envy",essence,"[]",totalValidListings,30,34
+"deafening essence of envy",essence,"[]",totalValidListings,50,19
 "deafening essence of envy",essence,"[]",totalValidListings,100,6
 "shrieking essence of torment",essence,"[]",p10,0,2
 "shrieking essence of torment",essence,"[]",p10,9,2
@@ -2046,102 +2046,102 @@
 "shrieking essence of torment",essence,"[]",totalValidListings,30,25
 "shrieking essence of torment",essence,"[]",totalValidListings,50,19
 "shrieking essence of torment",essence,"[]",totalValidListings,100,10
-"shrieking essence of sorrow",essence,"[]",p10,0,2.5
-"shrieking essence of sorrow",essence,"[]",p10,9,2.75
-"shrieking essence of sorrow",essence,"[]",p10,18,2.75
-"shrieking essence of sorrow",essence,"[]",p10,30,2.688888888888889
-"shrieking essence of sorrow",essence,"[]",p10,50,2.587037037037037
-"shrieking essence of sorrow",essence,"[]",p10,100,2.763888888888889
-"shrieking essence of sorrow",essence,"[]",p15,0,2.520833333333333
-"shrieking essence of sorrow",essence,"[]",p15,9,2.8125
-"shrieking essence of sorrow",essence,"[]",p15,18,2.772222222222223
-"shrieking essence of sorrow",essence,"[]",p15,30,2.751388888888889
-"shrieking essence of sorrow",essence,"[]",p15,50,2.75
-"shrieking essence of sorrow",essence,"[]",p15,100,2.807017543859649
-"shrieking essence of sorrow",essence,"[]",p20,0,2.622222222222222
-"shrieking essence of sorrow",essence,"[]",p20,9,2.91578947368421
-"shrieking essence of sorrow",essence,"[]",p20,18,2.876644736842105
-"shrieking essence of sorrow",essence,"[]",p20,30,2.824561403508772
-"shrieking essence of sorrow",essence,"[]",p20,50,2.761111111111111
-"shrieking essence of sorrow",essence,"[]",p20,100,2.894736842105263
-"shrieking essence of sorrow",essence,"[]",p5,0,2.033333333333333
-"shrieking essence of sorrow",essence,"[]",p5,9,2.537037037037037
-"shrieking essence of sorrow",essence,"[]",p5,18,2.527777777777778
-"shrieking essence of sorrow",essence,"[]",p5,30,2.516203703703704
-"shrieking essence of sorrow",essence,"[]",p5,50,2.50462962962963
+"shrieking essence of sorrow",essence,"[]",p10,0,2.472222222222222
+"shrieking essence of sorrow",essence,"[]",p10,9,2.523148148148148
+"shrieking essence of sorrow",essence,"[]",p10,18,2.546296296296296
+"shrieking essence of sorrow",essence,"[]",p10,30,2.523148148148148
+"shrieking essence of sorrow",essence,"[]",p10,50,2.509259259259259
+"shrieking essence of sorrow",essence,"[]",p10,100,2.758333333333333
+"shrieking essence of sorrow",essence,"[]",p15,0,2.5
+"shrieking essence of sorrow",essence,"[]",p15,9,2.75
+"shrieking essence of sorrow",essence,"[]",p15,18,2.75
+"shrieking essence of sorrow",essence,"[]",p15,30,2.699074074074074
+"shrieking essence of sorrow",essence,"[]",p15,50,2.607407407407407
+"shrieking essence of sorrow",essence,"[]",p15,100,2.776388888888889
+"shrieking essence of sorrow",essence,"[]",p20,0,2.537037037037037
+"shrieking essence of sorrow",essence,"[]",p20,9,2.777777777777778
+"shrieking essence of sorrow",essence,"[]",p20,18,2.777777777777778
+"shrieking essence of sorrow",essence,"[]",p20,30,2.75
+"shrieking essence of sorrow",essence,"[]",p20,50,2.75
+"shrieking essence of sorrow",essence,"[]",p20,100,2.777777777777778
+"shrieking essence of sorrow",essence,"[]",p5,0,2
+"shrieking essence of sorrow",essence,"[]",p5,9,2.5
+"shrieking essence of sorrow",essence,"[]",p5,18,2.5
+"shrieking essence of sorrow",essence,"[]",p5,30,2.5
+"shrieking essence of sorrow",essence,"[]",p5,50,2.5
 "shrieking essence of sorrow",essence,"[]",p5,100,2.75
 "shrieking essence of sorrow",essence,"[]",p50,0,3
 "shrieking essence of sorrow",essence,"[]",p50,9,3
 "shrieking essence of sorrow",essence,"[]",p50,18,3
-"shrieking essence of sorrow",essence,"[]",p50,30,3.083333333333333
-"shrieking essence of sorrow",essence,"[]",p50,50,3.395061728395062
-"shrieking essence of sorrow",essence,"[]",p50,100,3.447530864197531
-"shrieking essence of sorrow",essence,"[]",p7,0,2.336111111111111
-"shrieking essence of sorrow",essence,"[]",p7,9,2.652222222222222
-"shrieking essence of sorrow",essence,"[]",p7,18,2.595185185185185
-"shrieking essence of sorrow",essence,"[]",p7,30,2.541203703703703
-"shrieking essence of sorrow",essence,"[]",p7,50,2.525
-"shrieking essence of sorrow",essence,"[]",p7,100,2.751388888888889
-"shrieking essence of sorrow",essence,"[]",totalQuantity,0,4781
-"shrieking essence of sorrow",essence,"[]",totalQuantity,9,4781
-"shrieking essence of sorrow",essence,"[]",totalQuantity,18,4781
-"shrieking essence of sorrow",essence,"[]",totalQuantity,30,4781
-"shrieking essence of sorrow",essence,"[]",totalQuantity,50,4781
-"shrieking essence of sorrow",essence,"[]",totalQuantity,100,4781
-"shrieking essence of sorrow",essence,"[]",totalValidListings,0,64
-"shrieking essence of sorrow",essence,"[]",totalValidListings,9,37
-"shrieking essence of sorrow",essence,"[]",totalValidListings,18,33
-"shrieking essence of sorrow",essence,"[]",totalValidListings,30,28
+"shrieking essence of sorrow",essence,"[]",p50,30,3.027777777777778
+"shrieking essence of sorrow",essence,"[]",p50,50,3
+"shrieking essence of sorrow",essence,"[]",p50,100,3.225308641975309
+"shrieking essence of sorrow",essence,"[]",p7,0,2.028888888888889
+"shrieking essence of sorrow",essence,"[]",p7,9,2.5
+"shrieking essence of sorrow",essence,"[]",p7,18,2.50462962962963
+"shrieking essence of sorrow",essence,"[]",p7,30,2.5
+"shrieking essence of sorrow",essence,"[]",p7,50,2.5
+"shrieking essence of sorrow",essence,"[]",p7,100,2.75
+"shrieking essence of sorrow",essence,"[]",totalQuantity,0,4338
+"shrieking essence of sorrow",essence,"[]",totalQuantity,9,4338
+"shrieking essence of sorrow",essence,"[]",totalQuantity,18,4338
+"shrieking essence of sorrow",essence,"[]",totalQuantity,30,4338
+"shrieking essence of sorrow",essence,"[]",totalQuantity,50,4338
+"shrieking essence of sorrow",essence,"[]",totalQuantity,100,4338
+"shrieking essence of sorrow",essence,"[]",totalValidListings,0,60
+"shrieking essence of sorrow",essence,"[]",totalValidListings,9,36
+"shrieking essence of sorrow",essence,"[]",totalValidListings,18,31
+"shrieking essence of sorrow",essence,"[]",totalValidListings,30,26
 "shrieking essence of sorrow",essence,"[]",totalValidListings,50,23
-"shrieking essence of sorrow",essence,"[]",totalValidListings,100,16
+"shrieking essence of sorrow",essence,"[]",totalValidListings,100,14
 "shrieking essence of suffering",essence,"[]",p10,0,1
 "shrieking essence of suffering",essence,"[]",p10,9,1
 "shrieking essence of suffering",essence,"[]",p10,18,1
-"shrieking essence of suffering",essence,"[]",p10,30,1.51
-"shrieking essence of suffering",essence,"[]",p10,50,1.58
-"shrieking essence of suffering",essence,"[]",p10,100,1.76
+"shrieking essence of suffering",essence,"[]",p10,30,1.8
+"shrieking essence of suffering",essence,"[]",p10,50,1.875
+"shrieking essence of suffering",essence,"[]",p10,100,2.023076923076923
 "shrieking essence of suffering",essence,"[]",p15,0,1
 "shrieking essence of suffering",essence,"[]",p15,9,1
-"shrieking essence of suffering",essence,"[]",p15,18,1.025
-"shrieking essence of suffering",essence,"[]",p15,30,1.635
-"shrieking essence of suffering",essence,"[]",p15,50,1.763333333333333
-"shrieking essence of suffering",essence,"[]",p15,100,2.011538461538461
+"shrieking essence of suffering",essence,"[]",p15,18,1
+"shrieking essence of suffering",essence,"[]",p15,30,1.904166666666667
+"shrieking essence of suffering",essence,"[]",p15,50,1.9375
+"shrieking essence of suffering",essence,"[]",p15,100,2.092307692307692
 "shrieking essence of suffering",essence,"[]",p20,0,1
 "shrieking essence of suffering",essence,"[]",p20,9,1
-"shrieking essence of suffering",essence,"[]",p20,18,1.5
-"shrieking essence of suffering",essence,"[]",p20,30,1.85
-"shrieking essence of suffering",essence,"[]",p20,50,1.883333333333333
-"shrieking essence of suffering",essence,"[]",p20,100,2.092307692307692
-"shrieking essence of suffering",essence,"[]",p5,0,0.7846153846153847
-"shrieking essence of suffering",essence,"[]",p5,9,0.9
-"shrieking essence of suffering",essence,"[]",p5,18,1
-"shrieking essence of suffering",essence,"[]",p5,30,1.5
-"shrieking essence of suffering",essence,"[]",p5,50,1.5
-"shrieking essence of suffering",essence,"[]",p5,100,1.57
-"shrieking essence of suffering",essence,"[]",p50,0,1.916666666666667
+"shrieking essence of suffering",essence,"[]",p20,18,1
+"shrieking essence of suffering",essence,"[]",p20,30,1.983333333333333
+"shrieking essence of suffering",essence,"[]",p20,50,2
+"shrieking essence of suffering",essence,"[]",p20,100,2.142246642246642
+"shrieking essence of suffering",essence,"[]",p5,0,0.7666666666666667
+"shrieking essence of suffering",essence,"[]",p5,9,0.6166666666666667
+"shrieking essence of suffering",essence,"[]",p5,18,0.7833333333333333
+"shrieking essence of suffering",essence,"[]",p5,30,1.45
+"shrieking essence of suffering",essence,"[]",p5,50,1.75
+"shrieking essence of suffering",essence,"[]",p5,100,1.8
+"shrieking essence of suffering",essence,"[]",p50,0,1.977777777777778
 "shrieking essence of suffering",essence,"[]",p50,9,2
-"shrieking essence of suffering",essence,"[]",p50,18,2.182539682539682
+"shrieking essence of suffering",essence,"[]",p50,18,2.148962148962148
 "shrieking essence of suffering",essence,"[]",p50,30,2.341269841269841
-"shrieking essence of suffering",essence,"[]",p50,50,2.182539682539682
-"shrieking essence of suffering",essence,"[]",p50,100,2.546296296296296
+"shrieking essence of suffering",essence,"[]",p50,50,2.341269841269841
+"shrieking essence of suffering",essence,"[]",p50,100,2.5
 "shrieking essence of suffering",essence,"[]",p7,0,1
-"shrieking essence of suffering",essence,"[]",p7,9,1
-"shrieking essence of suffering",essence,"[]",p7,18,1
-"shrieking essence of suffering",essence,"[]",p7,30,1.5
-"shrieking essence of suffering",essence,"[]",p7,50,1.526
-"shrieking essence of suffering",essence,"[]",p7,100,1.598
-"shrieking essence of suffering",essence,"[]",totalQuantity,0,3958
-"shrieking essence of suffering",essence,"[]",totalQuantity,9,3958
-"shrieking essence of suffering",essence,"[]",totalQuantity,18,3958
-"shrieking essence of suffering",essence,"[]",totalQuantity,30,3958
-"shrieking essence of suffering",essence,"[]",totalQuantity,50,3958
-"shrieking essence of suffering",essence,"[]",totalQuantity,100,3958
+"shrieking essence of suffering",essence,"[]",p7,9,0.7933333333333334
+"shrieking essence of suffering",essence,"[]",p7,18,0.9633333333333334
+"shrieking essence of suffering",essence,"[]",p7,30,1.61
+"shrieking essence of suffering",essence,"[]",p7,50,1.8375
+"shrieking essence of suffering",essence,"[]",p7,100,1.92
+"shrieking essence of suffering",essence,"[]",totalQuantity,0,3535
+"shrieking essence of suffering",essence,"[]",totalQuantity,9,3535
+"shrieking essence of suffering",essence,"[]",totalQuantity,18,3535
+"shrieking essence of suffering",essence,"[]",totalQuantity,30,3535
+"shrieking essence of suffering",essence,"[]",totalQuantity,50,3535
+"shrieking essence of suffering",essence,"[]",totalQuantity,100,3535
 "shrieking essence of suffering",essence,"[]",totalValidListings,0,67
-"shrieking essence of suffering",essence,"[]",totalValidListings,9,37
+"shrieking essence of suffering",essence,"[]",totalValidListings,9,35
 "shrieking essence of suffering",essence,"[]",totalValidListings,18,28
-"shrieking essence of suffering",essence,"[]",totalValidListings,30,22
-"shrieking essence of suffering",essence,"[]",totalValidListings,50,19
-"shrieking essence of suffering",essence,"[]",totalValidListings,100,15
+"shrieking essence of suffering",essence,"[]",totalValidListings,30,20
+"shrieking essence of suffering",essence,"[]",totalValidListings,50,16
+"shrieking essence of suffering",essence,"[]",totalValidListings,100,13
 "deafening essence of loathing",essence,"[]",p10,0,11
 "deafening essence of loathing",essence,"[]",p10,9,12.92222222222222
 "deafening essence of loathing",essence,"[]",p10,18,13
@@ -2238,54 +2238,54 @@
 "deafening essence of suffering",essence,"[]",totalValidListings,30,40
 "deafening essence of suffering",essence,"[]",totalValidListings,50,19
 "deafening essence of suffering",essence,"[]",totalValidListings,100,9
-"shrieking essence of rage",essence,"[]",p10,0,2.775
+"shrieking essence of rage",essence,"[]",p10,0,2.600000000000001
 "shrieking essence of rage",essence,"[]",p10,9,3
 "shrieking essence of rage",essence,"[]",p10,18,3
 "shrieking essence of rage",essence,"[]",p10,30,3
-"shrieking essence of rage",essence,"[]",p10,50,3.141463414634146
-"shrieking essence of rage",essence,"[]",p10,100,3
+"shrieking essence of rage",essence,"[]",p10,50,3.366079494128275
+"shrieking essence of rage",essence,"[]",p10,100,3.318292682926829
 "shrieking essence of rage",essence,"[]",p15,0,3
 "shrieking essence of rage",essence,"[]",p15,9,3
 "shrieking essence of rage",essence,"[]",p15,18,3
 "shrieking essence of rage",essence,"[]",p15,30,3
-"shrieking essence of rage",essence,"[]",p15,50,3.357798855766336
-"shrieking essence of rage",essence,"[]",p15,100,3.176829268292683
+"shrieking essence of rage",essence,"[]",p15,50,3.392991568804578
+"shrieking essence of rage",essence,"[]",p15,100,3.36814965371876
 "shrieking essence of rage",essence,"[]",p20,0,3
 "shrieking essence of rage",essence,"[]",p20,9,3
 "shrieking essence of rage",essence,"[]",p20,18,3
-"shrieking essence of rage",essence,"[]",p20,30,3
-"shrieking essence of rage",essence,"[]",p20,50,3.386781090033123
-"shrieking essence of rage",essence,"[]",p20,100,3.353658536585366
-"shrieking essence of rage",essence,"[]",p5,0,2
+"shrieking essence of rage",essence,"[]",p20,30,3.022222222222222
+"shrieking essence of rage",essence,"[]",p20,50,3.458024691358025
+"shrieking essence of rage",essence,"[]",p20,100,3.386781090033123
+"shrieking essence of rage",essence,"[]",p5,0,1.9
 "shrieking essence of rage",essence,"[]",p5,9,3
-"shrieking essence of rage",essence,"[]",p5,18,2.92
+"shrieking essence of rage",essence,"[]",p5,18,3
 "shrieking essence of rage",essence,"[]",p5,30,3
-"shrieking essence of rage",essence,"[]",p5,50,3
-"shrieking essence of rage",essence,"[]",p5,100,3
-"shrieking essence of rage",essence,"[]",p50,0,3.027777777777778
-"shrieking essence of rage",essence,"[]",p50,9,3.5
-"shrieking essence of rage",essence,"[]",p50,18,3.819444444444444
-"shrieking essence of rage",essence,"[]",p50,30,3.820681126331811
-"shrieking essence of rage",essence,"[]",p50,50,3.888888888888889
-"shrieking essence of rage",essence,"[]",p50,100,3.819444444444444
+"shrieking essence of rage",essence,"[]",p5,50,3.229878048780488
+"shrieking essence of rage",essence,"[]",p5,100,3.159146341463415
+"shrieking essence of rage",essence,"[]",p50,0,3
+"shrieking essence of rage",essence,"[]",p50,9,3.820681126331811
+"shrieking essence of rage",essence,"[]",p50,18,3.888888888888889
+"shrieking essence of rage",essence,"[]",p50,30,3.821917808219178
+"shrieking essence of rage",essence,"[]",p50,50,3.944444444444445
+"shrieking essence of rage",essence,"[]",p50,100,3.820681126331811
 "shrieking essence of rage",essence,"[]",p7,0,2
 "shrieking essence of rage",essence,"[]",p7,9,3
 "shrieking essence of rage",essence,"[]",p7,18,3
 "shrieking essence of rage",essence,"[]",p7,30,3
-"shrieking essence of rage",essence,"[]",p7,50,3
-"shrieking essence of rage",essence,"[]",p7,100,3
-"shrieking essence of rage",essence,"[]",totalQuantity,0,3224
-"shrieking essence of rage",essence,"[]",totalQuantity,9,3224
-"shrieking essence of rage",essence,"[]",totalQuantity,18,3224
-"shrieking essence of rage",essence,"[]",totalQuantity,30,3224
-"shrieking essence of rage",essence,"[]",totalQuantity,50,3224
-"shrieking essence of rage",essence,"[]",totalQuantity,100,3224
-"shrieking essence of rage",essence,"[]",totalValidListings,0,66
-"shrieking essence of rage",essence,"[]",totalValidListings,9,41
-"shrieking essence of rage",essence,"[]",totalValidListings,18,33
-"shrieking essence of rage",essence,"[]",totalValidListings,30,24
-"shrieking essence of rage",essence,"[]",totalValidListings,50,15
-"shrieking essence of rage",essence,"[]",totalValidListings,100,11
+"shrieking essence of rage",essence,"[]",p7,50,3.321829268292683
+"shrieking essence of rage",essence,"[]",p7,100,3.222804878048781
+"shrieking essence of rage",essence,"[]",totalQuantity,0,2981
+"shrieking essence of rage",essence,"[]",totalQuantity,9,2981
+"shrieking essence of rage",essence,"[]",totalQuantity,18,2981
+"shrieking essence of rage",essence,"[]",totalQuantity,30,2981
+"shrieking essence of rage",essence,"[]",totalQuantity,50,2981
+"shrieking essence of rage",essence,"[]",totalQuantity,100,2981
+"shrieking essence of rage",essence,"[]",totalValidListings,0,59
+"shrieking essence of rage",essence,"[]",totalValidListings,9,36
+"shrieking essence of rage",essence,"[]",totalValidListings,18,29
+"shrieking essence of rage",essence,"[]",totalValidListings,30,23
+"shrieking essence of rage",essence,"[]",totalValidListings,50,14
+"shrieking essence of rage",essence,"[]",totalValidListings,100,10
 "shrieking essence of dread",essence,"[]",p10,0,3
 "shrieking essence of dread",essence,"[]",p10,9,2.902159896840748
 "shrieking essence of dread",essence,"[]",p10,18,2.902159896840748
@@ -2478,101 +2478,101 @@
 "screaming essence of woe",essence,"[]",totalValidListings,30,7
 "screaming essence of woe",essence,"[]",totalValidListings,50,4
 "screaming essence of woe",essence,"[]",totalValidListings,100,4
-"screaming essence of doubt",essence,"[]",p10,0,0.788888888888889
-"screaming essence of doubt",essence,"[]",p10,9,0.7714285714285715
-"screaming essence of doubt",essence,"[]",p10,18,0.7396825396825397
-"screaming essence of doubt",essence,"[]",p10,30,0.7714285714285715
-"screaming essence of doubt",essence,"[]",p10,50,0.7657142857142858
-"screaming essence of doubt",essence,"[]",p10,100,0.74
-"screaming essence of doubt",essence,"[]",p15,0,0.95
-"screaming essence of doubt",essence,"[]",p15,9,0.7966666666666667
-"screaming essence of doubt",essence,"[]",p15,18,0.78
-"screaming essence of doubt",essence,"[]",p15,30,0.7855555555555556
-"screaming essence of doubt",essence,"[]",p15,50,0.7914285714285715
-"screaming essence of doubt",essence,"[]",p15,100,0.7528571428571429
+"screaming essence of doubt",essence,"[]",p10,0,0.5428571428571429
+"screaming essence of doubt",essence,"[]",p10,9,0.5
+"screaming essence of doubt",essence,"[]",p10,18,0.6063492063492064
+"screaming essence of doubt",essence,"[]",p10,30,0.9428571428571428
+"screaming essence of doubt",essence,"[]",p10,50,0.8857142857142858
+"screaming essence of doubt",essence,"[]",p10,100,0.8
+"screaming essence of doubt",essence,"[]",p15,0,1
+"screaming essence of doubt",essence,"[]",p15,9,0.5642857142857143
+"screaming essence of doubt",essence,"[]",p15,18,0.8285714285714285
+"screaming essence of doubt",essence,"[]",p15,30,1
+"screaming essence of doubt",essence,"[]",p15,50,0.9714285714285714
+"screaming essence of doubt",essence,"[]",p15,100,0.8428571428571429
 "screaming essence of doubt",essence,"[]",p20,0,1
-"screaming essence of doubt",essence,"[]",p20,9,0.8
-"screaming essence of doubt",essence,"[]",p20,18,0.7955555555555556
-"screaming essence of doubt",essence,"[]",p20,30,0.7955555555555556
-"screaming essence of doubt",essence,"[]",p20,50,0.8400000000000001
-"screaming essence of doubt",essence,"[]",p20,100,0.7657142857142858
-"screaming essence of doubt",essence,"[]",p5,0,0.4685714285714286
-"screaming essence of doubt",essence,"[]",p5,9,0.6979047619047619
-"screaming essence of doubt",essence,"[]",p5,18,0.6160000000000001
-"screaming essence of doubt",essence,"[]",p5,30,0.7428571428571429
-"screaming essence of doubt",essence,"[]",p5,50,0.74
-"screaming essence of doubt",essence,"[]",p5,100,0.7271428571428572
+"screaming essence of doubt",essence,"[]",p20,9,0.8285714285714287
+"screaming essence of doubt",essence,"[]",p20,18,1
+"screaming essence of doubt",essence,"[]",p20,30,1
+"screaming essence of doubt",essence,"[]",p20,50,1
+"screaming essence of doubt",essence,"[]",p20,100,0.8857142857142858
+"screaming essence of doubt",essence,"[]",p5,0,0.4213333333333333
+"screaming essence of doubt",essence,"[]",p5,9,0.45
+"screaming essence of doubt",essence,"[]",p5,18,0.4328888888888889
+"screaming essence of doubt",essence,"[]",p5,30,0.8285714285714286
+"screaming essence of doubt",essence,"[]",p5,50,0.8
+"screaming essence of doubt",essence,"[]",p5,100,0.7571428571428571
 "screaming essence of doubt",essence,"[]",p50,0,1
 "screaming essence of doubt",essence,"[]",p50,9,1
 "screaming essence of doubt",essence,"[]",p50,18,1
 "screaming essence of doubt",essence,"[]",p50,30,1
 "screaming essence of doubt",essence,"[]",p50,50,1
-"screaming essence of doubt",essence,"[]",p50,100,0.9
-"screaming essence of doubt",essence,"[]",p7,0,0.7238095238095239
-"screaming essence of doubt",essence,"[]",p7,9,0.7352380952380952
-"screaming essence of doubt",essence,"[]",p7,18,0.7077333333333333
-"screaming essence of doubt",essence,"[]",p7,30,0.7542857142857143
-"screaming essence of doubt",essence,"[]",p7,50,0.7502857142857143
-"screaming essence of doubt",essence,"[]",p7,100,0.7322857142857143
-"screaming essence of doubt",essence,"[]",totalQuantity,0,3191
-"screaming essence of doubt",essence,"[]",totalQuantity,9,3191
-"screaming essence of doubt",essence,"[]",totalQuantity,18,3191
-"screaming essence of doubt",essence,"[]",totalQuantity,30,3191
-"screaming essence of doubt",essence,"[]",totalQuantity,50,3191
-"screaming essence of doubt",essence,"[]",totalQuantity,100,3191
-"screaming essence of doubt",essence,"[]",totalValidListings,0,46
-"screaming essence of doubt",essence,"[]",totalValidListings,9,20
-"screaming essence of doubt",essence,"[]",totalValidListings,18,15
-"screaming essence of doubt",essence,"[]",totalValidListings,30,10
+"screaming essence of doubt",essence,"[]",p50,100,1
+"screaming essence of doubt",essence,"[]",p7,0,0.48
+"screaming essence of doubt",essence,"[]",p7,9,0.4744444444444444
+"screaming essence of doubt",essence,"[]",p7,18,0.4768253968253968
+"screaming essence of doubt",essence,"[]",p7,30,0.8742857142857143
+"screaming essence of doubt",essence,"[]",p7,50,0.8342857142857143
+"screaming essence of doubt",essence,"[]",p7,100,0.7742857142857144
+"screaming essence of doubt",essence,"[]",totalQuantity,0,2340
+"screaming essence of doubt",essence,"[]",totalQuantity,9,2340
+"screaming essence of doubt",essence,"[]",totalQuantity,18,2340
+"screaming essence of doubt",essence,"[]",totalQuantity,30,2340
+"screaming essence of doubt",essence,"[]",totalQuantity,50,2340
+"screaming essence of doubt",essence,"[]",totalQuantity,100,2340
+"screaming essence of doubt",essence,"[]",totalValidListings,0,53
+"screaming essence of doubt",essence,"[]",totalValidListings,9,23
+"screaming essence of doubt",essence,"[]",totalValidListings,18,17
+"screaming essence of doubt",essence,"[]",totalValidListings,30,9
 "screaming essence of doubt",essence,"[]",totalValidListings,50,7
 "screaming essence of doubt",essence,"[]",totalValidListings,100,4
 "screaming essence of misery",essence,"[]",p10,0,1
-"screaming essence of misery",essence,"[]",p10,9,0.7333333333333334
-"screaming essence of misery",essence,"[]",p10,18,0.9
-"screaming essence of misery",essence,"[]",p10,30,0.8666666666666667
-"screaming essence of misery",essence,"[]",p10,50,0.8333333333333333
+"screaming essence of misery",essence,"[]",p10,9,0.95
+"screaming essence of misery",essence,"[]",p10,18,1
+"screaming essence of misery",essence,"[]",p10,30,1
+"screaming essence of misery",essence,"[]",p10,50,1.0375
 "screaming essence of misery",essence,"[]",p10,100,1
 "screaming essence of misery",essence,"[]",p15,0,1
-"screaming essence of misery",essence,"[]",p15,9,0.9333333333333333
+"screaming essence of misery",essence,"[]",p15,9,1
 "screaming essence of misery",essence,"[]",p15,18,1
-"screaming essence of misery",essence,"[]",p15,30,0.9666666666666666
-"screaming essence of misery",essence,"[]",p15,50,0.9166666666666666
+"screaming essence of misery",essence,"[]",p15,30,1
+"screaming essence of misery",essence,"[]",p15,50,1.05625
 "screaming essence of misery",essence,"[]",p15,100,1
 "screaming essence of misery",essence,"[]",p20,0,1
 "screaming essence of misery",essence,"[]",p20,9,1
 "screaming essence of misery",essence,"[]",p20,18,1
 "screaming essence of misery",essence,"[]",p20,30,1
-"screaming essence of misery",essence,"[]",p20,50,1
+"screaming essence of misery",essence,"[]",p20,50,1.075
 "screaming essence of misery",essence,"[]",p20,100,1
 "screaming essence of misery",essence,"[]",p5,0,1
-"screaming essence of misery",essence,"[]",p5,9,0.6
-"screaming essence of misery",essence,"[]",p5,18,0.7833333333333333
-"screaming essence of misery",essence,"[]",p5,30,0.7666666666666666
-"screaming essence of misery",essence,"[]",p5,50,0.75
+"screaming essence of misery",essence,"[]",p5,9,0.725
+"screaming essence of misery",essence,"[]",p5,18,1
+"screaming essence of misery",essence,"[]",p5,30,1
+"screaming essence of misery",essence,"[]",p5,50,1.01875
 "screaming essence of misery",essence,"[]",p5,100,1
-"screaming essence of misery",essence,"[]",p50,0,1
-"screaming essence of misery",essence,"[]",p50,9,1
-"screaming essence of misery",essence,"[]",p50,18,1
-"screaming essence of misery",essence,"[]",p50,30,1
-"screaming essence of misery",essence,"[]",p50,50,1.5
+"screaming essence of misery",essence,"[]",p50,0,1.125
+"screaming essence of misery",essence,"[]",p50,9,1.5625
+"screaming essence of misery",essence,"[]",p50,18,1.125
+"screaming essence of misery",essence,"[]",p50,30,1.125
+"screaming essence of misery",essence,"[]",p50,50,1.5625
 "screaming essence of misery",essence,"[]",p50,100,1.25
 "screaming essence of misery",essence,"[]",p7,0,1
-"screaming essence of misery",essence,"[]",p7,9,0.64
-"screaming essence of misery",essence,"[]",p7,18,0.83
-"screaming essence of misery",essence,"[]",p7,30,0.8066666666666666
-"screaming essence of misery",essence,"[]",p7,50,0.7833333333333333
+"screaming essence of misery",essence,"[]",p7,9,0.8150000000000001
+"screaming essence of misery",essence,"[]",p7,18,1
+"screaming essence of misery",essence,"[]",p7,30,1
+"screaming essence of misery",essence,"[]",p7,50,1.02625
 "screaming essence of misery",essence,"[]",p7,100,1
-"screaming essence of misery",essence,"[]",totalQuantity,0,3825
-"screaming essence of misery",essence,"[]",totalQuantity,9,3825
-"screaming essence of misery",essence,"[]",totalQuantity,18,3825
-"screaming essence of misery",essence,"[]",totalQuantity,30,3825
-"screaming essence of misery",essence,"[]",totalQuantity,50,3825
+"screaming essence of misery",essence,"[]",totalQuantity,0,1978
+"screaming essence of misery",essence,"[]",totalQuantity,9,1978
+"screaming essence of misery",essence,"[]",totalQuantity,18,1978
+"screaming essence of misery",essence,"[]",totalQuantity,30,1978
+"screaming essence of misery",essence,"[]",totalQuantity,50,1978
 "screaming essence of misery",essence,"[]",totalQuantity,100,2995
-"screaming essence of misery",essence,"[]",totalValidListings,0,45
-"screaming essence of misery",essence,"[]",totalValidListings,9,13
-"screaming essence of misery",essence,"[]",totalValidListings,18,8
-"screaming essence of misery",essence,"[]",totalValidListings,30,7
-"screaming essence of misery",essence,"[]",totalValidListings,50,6
+"screaming essence of misery",essence,"[]",totalValidListings,0,51
+"screaming essence of misery",essence,"[]",totalValidListings,9,10
+"screaming essence of misery",essence,"[]",totalValidListings,18,7
+"screaming essence of misery",essence,"[]",totalValidListings,30,5
+"screaming essence of misery",essence,"[]",totalValidListings,50,4
 "screaming essence of misery",essence,"[]",totalValidListings,100,4
 "screaming essence of fear",essence,"[]",p10,0,1
 "screaming essence of fear",essence,"[]",p10,9,1
@@ -2622,54 +2622,54 @@
 "screaming essence of fear",essence,"[]",totalValidListings,30,14
 "screaming essence of fear",essence,"[]",totalValidListings,50,9
 "screaming essence of fear",essence,"[]",totalValidListings,100,5
-"screaming essence of hatred",essence,"[]",p10,0,0.8888888888888888
-"screaming essence of hatred",essence,"[]",p10,9,0.8666666666666667
-"screaming essence of hatred",essence,"[]",p10,18,0.9244444444444444
-"screaming essence of hatred",essence,"[]",p10,30,0.8555555555555555
-"screaming essence of hatred",essence,"[]",p10,50,0.9155555555555556
-"screaming essence of hatred",essence,"[]",p10,100,0.8444444444444444
+"screaming essence of hatred",essence,"[]",p10,0,0.9866666666666667
+"screaming essence of hatred",essence,"[]",p10,9,0.9584541062801932
+"screaming essence of hatred",essence,"[]",p10,18,0.9731400966183574
+"screaming essence of hatred",essence,"[]",p10,30,0.9507246376811593
+"screaming essence of hatred",essence,"[]",p10,50,0.9708212560386473
+"screaming essence of hatred",essence,"[]",p10,100,0.9429951690821256
 "screaming essence of hatred",essence,"[]",p15,0,1
-"screaming essence of hatred",essence,"[]",p15,9,0.9688888888888888
-"screaming essence of hatred",essence,"[]",p15,18,0.991111111111111
-"screaming essence of hatred",essence,"[]",p15,30,0.9377777777777777
-"screaming essence of hatred",essence,"[]",p15,50,0.9733333333333333
-"screaming essence of hatred",essence,"[]",p15,100,0.8777777777777778
+"screaming essence of hatred",essence,"[]",p15,9,0.9855555555555555
+"screaming essence of hatred",essence,"[]",p15,18,0.9977777777777778
+"screaming essence of hatred",essence,"[]",p15,30,0.9742995169082125
+"screaming essence of hatred",essence,"[]",p15,50,0.98
+"screaming essence of hatred",essence,"[]",p15,100,0.9678743961352657
 "screaming essence of hatred",essence,"[]",p20,0,1
 "screaming essence of hatred",essence,"[]",p20,9,1
 "screaming essence of hatred",essence,"[]",p20,18,1
-"screaming essence of hatred",essence,"[]",p20,30,0.9866666666666667
-"screaming essence of hatred",essence,"[]",p20,50,0.991111111111111
-"screaming essence of hatred",essence,"[]",p20,100,0.9111111111111111
-"screaming essence of hatred",essence,"[]",p5,0,0.7777777777777778
-"screaming essence of hatred",essence,"[]",p5,9,0.7944444444444445
-"screaming essence of hatred",essence,"[]",p5,18,0.8
-"screaming essence of hatred",essence,"[]",p5,30,0.7556489262371615
-"screaming essence of hatred",essence,"[]",p5,50,0.85
-"screaming essence of hatred",essence,"[]",p5,100,0.8111111111111111
+"screaming essence of hatred",essence,"[]",p20,30,0.991111111111111
+"screaming essence of hatred",essence,"[]",p20,50,0.9955555555555555
+"screaming essence of hatred",essence,"[]",p20,100,0.9797101449275362
+"screaming essence of hatred",essence,"[]",p5,0,0.8722222222222222
+"screaming essence of hatred",essence,"[]",p5,9,0.8583333333333334
+"screaming essence of hatred",essence,"[]",p5,18,0.9120772946859903
+"screaming essence of hatred",essence,"[]",p5,30,0.8630252100840335
+"screaming essence of hatred",essence,"[]",p5,50,0.9429951690821256
+"screaming essence of hatred",essence,"[]",p5,100,0.9159420289855073
 "screaming essence of hatred",essence,"[]",p50,0,1
 "screaming essence of hatred",essence,"[]",p50,9,1
 "screaming essence of hatred",essence,"[]",p50,18,1
 "screaming essence of hatred",essence,"[]",p50,30,1
 "screaming essence of hatred",essence,"[]",p50,50,1
 "screaming essence of hatred",essence,"[]",p50,100,1
-"screaming essence of hatred",essence,"[]",p7,0,0.8250000000000001
-"screaming essence of hatred",essence,"[]",p7,9,0.8233333333333334
-"screaming essence of hatred",essence,"[]",p7,18,0.8533333333333333
-"screaming essence of hatred",essence,"[]",p7,30,0.7988888888888889
-"screaming essence of hatred",essence,"[]",p7,50,0.8788888888888888
-"screaming essence of hatred",essence,"[]",p7,100,0.8244444444444444
-"screaming essence of hatred",essence,"[]",totalQuantity,0,4942
-"screaming essence of hatred",essence,"[]",totalQuantity,9,4942
-"screaming essence of hatred",essence,"[]",totalQuantity,18,4942
-"screaming essence of hatred",essence,"[]",totalQuantity,30,4942
-"screaming essence of hatred",essence,"[]",totalQuantity,50,4942
-"screaming essence of hatred",essence,"[]",totalQuantity,100,4942
-"screaming essence of hatred",essence,"[]",totalValidListings,0,56
-"screaming essence of hatred",essence,"[]",totalValidListings,9,27
-"screaming essence of hatred",essence,"[]",totalValidListings,18,25
-"screaming essence of hatred",essence,"[]",totalValidListings,30,18
-"screaming essence of hatred",essence,"[]",totalValidListings,50,14
-"screaming essence of hatred",essence,"[]",totalValidListings,100,7
+"screaming essence of hatred",essence,"[]",p7,0,0.9491787439613526
+"screaming essence of hatred",essence,"[]",p7,9,0.891207729468599
+"screaming essence of hatred",essence,"[]",p7,18,0.9522705314009662
+"screaming essence of hatred",essence,"[]",p7,30,0.9089855072463768
+"screaming essence of hatred",essence,"[]",p7,50,0.9646376811594203
+"screaming essence of hatred",essence,"[]",p7,100,0.9267632850241545
+"screaming essence of hatred",essence,"[]",totalQuantity,0,4276
+"screaming essence of hatred",essence,"[]",totalQuantity,9,4276
+"screaming essence of hatred",essence,"[]",totalQuantity,18,4276
+"screaming essence of hatred",essence,"[]",totalQuantity,30,4276
+"screaming essence of hatred",essence,"[]",totalQuantity,50,4276
+"screaming essence of hatred",essence,"[]",totalQuantity,100,4276
+"screaming essence of hatred",essence,"[]",totalValidListings,0,55
+"screaming essence of hatred",essence,"[]",totalValidListings,9,30
+"screaming essence of hatred",essence,"[]",totalValidListings,18,27
+"screaming essence of hatred",essence,"[]",totalValidListings,30,19
+"screaming essence of hatred",essence,"[]",totalValidListings,50,15
+"screaming essence of hatred",essence,"[]",totalValidListings,100,8
 "screaming essence of sorrow",essence,"[]",p10,0,1
 "screaming essence of sorrow",essence,"[]",p10,9,1
 "screaming essence of sorrow",essence,"[]",p10,18,1
@@ -2802,32 +2802,32 @@
 "screaming essence of dread",essence,"[]",p20,100,1
 "screaming essence of dread",essence,"[]",p5,0,1
 "screaming essence of dread",essence,"[]",p5,9,1
-"screaming essence of dread",essence,"[]",p5,18,0.9555555555555556
-"screaming essence of dread",essence,"[]",p5,30,0.8888888888888888
+"screaming essence of dread",essence,"[]",p5,18,1
+"screaming essence of dread",essence,"[]",p5,30,1
 "screaming essence of dread",essence,"[]",p5,50,0.8555555555555556
 "screaming essence of dread",essence,"[]",p5,100,0.8333333333333334
-"screaming essence of dread",essence,"[]",p50,0,1
-"screaming essence of dread",essence,"[]",p50,9,1.202380952380952
-"screaming essence of dread",essence,"[]",p50,18,1
+"screaming essence of dread",essence,"[]",p50,0,1.258409785932721
+"screaming essence of dread",essence,"[]",p50,9,1.258409785932721
+"screaming essence of dread",essence,"[]",p50,18,1.18348623853211
 "screaming essence of dread",essence,"[]",p50,30,1
 "screaming essence of dread",essence,"[]",p50,50,1
 "screaming essence of dread",essence,"[]",p50,100,1
 "screaming essence of dread",essence,"[]",p7,0,1
 "screaming essence of dread",essence,"[]",p7,9,1
 "screaming essence of dread",essence,"[]",p7,18,1
-"screaming essence of dread",essence,"[]",p7,30,0.9333333333333333
+"screaming essence of dread",essence,"[]",p7,30,1
 "screaming essence of dread",essence,"[]",p7,50,0.8866666666666667
 "screaming essence of dread",essence,"[]",p7,100,0.8555555555555556
-"screaming essence of dread",essence,"[]",totalQuantity,0,3734
-"screaming essence of dread",essence,"[]",totalQuantity,9,3734
-"screaming essence of dread",essence,"[]",totalQuantity,18,3734
-"screaming essence of dread",essence,"[]",totalQuantity,30,3734
+"screaming essence of dread",essence,"[]",totalQuantity,0,981
+"screaming essence of dread",essence,"[]",totalQuantity,9,981
+"screaming essence of dread",essence,"[]",totalQuantity,18,981
+"screaming essence of dread",essence,"[]",totalQuantity,30,981
 "screaming essence of dread",essence,"[]",totalQuantity,50,3734
 "screaming essence of dread",essence,"[]",totalQuantity,100,3734
-"screaming essence of dread",essence,"[]",totalValidListings,0,67
-"screaming essence of dread",essence,"[]",totalValidListings,9,24
-"screaming essence of dread",essence,"[]",totalValidListings,18,17
-"screaming essence of dread",essence,"[]",totalValidListings,30,11
+"screaming essence of dread",essence,"[]",totalValidListings,0,50
+"screaming essence of dread",essence,"[]",totalValidListings,9,14
+"screaming essence of dread",essence,"[]",totalValidListings,18,9
+"screaming essence of dread",essence,"[]",totalValidListings,30,5
 "screaming essence of dread",essence,"[]",totalValidListings,50,8
 "screaming essence of dread",essence,"[]",totalValidListings,100,6
 "wailing essence of greed",essence,"[]",p10,0,1
@@ -2842,14 +2842,14 @@
 "wailing essence of greed",essence,"[]",p5,0,1
 "wailing essence of greed",essence,"[]",p5,9,1
 "wailing essence of greed",essence,"[]",p5,18,1
-"wailing essence of greed",essence,"[]",p50,0,2
+"wailing essence of greed",essence,"[]",p50,0,2.375
 "wailing essence of greed",essence,"[]",p50,9,1
 "wailing essence of greed",essence,"[]",p50,18,1
 "wailing essence of greed",essence,"[]",p7,0,1
 "wailing essence of greed",essence,"[]",p7,9,1
 "wailing essence of greed",essence,"[]",p7,18,1
-"wailing essence of greed",essence,"[]",totalQuantity,0,242
-"wailing essence of greed",essence,"[]",totalQuantity,9,242
+"wailing essence of greed",essence,"[]",totalQuantity,0,234
+"wailing essence of greed",essence,"[]",totalQuantity,9,234
 "wailing essence of greed",essence,"[]",totalQuantity,18,362
 "wailing essence of greed",essence,"[]",totalValidListings,0,42
 "wailing essence of greed",essence,"[]",totalValidListings,9,7
@@ -2906,10 +2906,10 @@
 "weeping essence of sorrow",essence,"[]",p15,0,1
 "weeping essence of sorrow",essence,"[]",p20,0,1
 "weeping essence of sorrow",essence,"[]",p5,0,1
-"weeping essence of sorrow",essence,"[]",p50,0,3
+"weeping essence of sorrow",essence,"[]",p50,0,2.375
 "weeping essence of sorrow",essence,"[]",p7,0,1
-"weeping essence of sorrow",essence,"[]",totalQuantity,0,100
-"weeping essence of sorrow",essence,"[]",totalValidListings,0,41
+"weeping essence of sorrow",essence,"[]",totalQuantity,0,93
+"weeping essence of sorrow",essence,"[]",totalValidListings,0,40
 "wailing essence of spite",essence,"[]",p10,0,1
 "wailing essence of spite",essence,"[]",p15,0,1
 "wailing essence of spite",essence,"[]",p20,0,1
@@ -2966,101 +2966,101 @@
 "shrieking essence of greed",essence,"[]",totalValidListings,30,33
 "shrieking essence of greed",essence,"[]",totalValidListings,50,22
 "shrieking essence of greed",essence,"[]",totalValidListings,100,10
-"shrieking essence of loathing",essence,"[]",p10,0,3.9
+"shrieking essence of loathing",essence,"[]",p10,0,3
 "shrieking essence of loathing",essence,"[]",p10,9,4
 "shrieking essence of loathing",essence,"[]",p10,18,4
-"shrieking essence of loathing",essence,"[]",p10,30,5.392156862745098
-"shrieking essence of loathing",essence,"[]",p10,50,4.257692307692308
+"shrieking essence of loathing",essence,"[]",p10,30,4.266666666666667
+"shrieking essence of loathing",essence,"[]",p10,50,4.461111111111111
 "shrieking essence of loathing",essence,"[]",p10,100,5.36104826546003
 "shrieking essence of loathing",essence,"[]",p15,0,4
 "shrieking essence of loathing",essence,"[]",p15,9,4
 "shrieking essence of loathing",essence,"[]",p15,18,4
-"shrieking essence of loathing",essence,"[]",p15,30,5.392156862745098
-"shrieking essence of loathing",essence,"[]",p15,50,5.030769230769231
+"shrieking essence of loathing",essence,"[]",p15,30,4.466666666666667
+"shrieking essence of loathing",essence,"[]",p15,50,4.497222222222222
 "shrieking essence of loathing",essence,"[]",p15,100,5.396078431372549
 "shrieking essence of loathing",essence,"[]",p20,0,4
 "shrieking essence of loathing",essence,"[]",p20,9,4
-"shrieking essence of loathing",essence,"[]",p20,18,4
-"shrieking essence of loathing",essence,"[]",p20,30,5.423529411764706
-"shrieking essence of loathing",essence,"[]",p20,50,5.329939668174962
+"shrieking essence of loathing",essence,"[]",p20,18,4.088888888888889
+"shrieking essence of loathing",essence,"[]",p20,30,4.618518518518519
+"shrieking essence of loathing",essence,"[]",p20,50,4.973076923076923
 "shrieking essence of loathing",essence,"[]",p20,100,5.423529411764706
-"shrieking essence of loathing",essence,"[]",p5,0,3
+"shrieking essence of loathing",essence,"[]",p5,0,2
 "shrieking essence of loathing",essence,"[]",p5,9,4
 "shrieking essence of loathing",essence,"[]",p5,18,4
-"shrieking essence of loathing",essence,"[]",p5,30,5.350678733031675
-"shrieking essence of loathing",essence,"[]",p5,50,4
+"shrieking essence of loathing",essence,"[]",p5,30,4
+"shrieking essence of loathing",essence,"[]",p5,50,4.288888888888889
 "shrieking essence of loathing",essence,"[]",p5,100,5.324754901960785
-"shrieking essence of loathing",essence,"[]",p50,0,4
-"shrieking essence of loathing",essence,"[]",p50,9,5.392156862745098
-"shrieking essence of loathing",essence,"[]",p50,18,5.513071895424837
-"shrieking essence of loathing",essence,"[]",p50,30,6
-"shrieking essence of loathing",essence,"[]",p50,50,5.555555555555555
+"shrieking essence of loathing",essence,"[]",p50,0,4.444444444444445
+"shrieking essence of loathing",essence,"[]",p50,9,5.092592592592593
+"shrieking essence of loathing",essence,"[]",p50,18,5.431372549019608
+"shrieking essence of loathing",essence,"[]",p50,30,5.470588235294118
+"shrieking essence of loathing",essence,"[]",p50,50,5.513071895424837
 "shrieking essence of loathing",essence,"[]",p50,100,5.777777777777778
-"shrieking essence of loathing",essence,"[]",p7,0,3.03
+"shrieking essence of loathing",essence,"[]",p7,0,3
 "shrieking essence of loathing",essence,"[]",p7,9,4
 "shrieking essence of loathing",essence,"[]",p7,18,4
-"shrieking essence of loathing",essence,"[]",p7,30,5.375565610859729
-"shrieking essence of loathing",essence,"[]",p7,50,4
+"shrieking essence of loathing",essence,"[]",p7,30,4.053333333333334
+"shrieking essence of loathing",essence,"[]",p7,50,4.404444444444445
 "shrieking essence of loathing",essence,"[]",p7,100,5.339272247360483
-"shrieking essence of loathing",essence,"[]",totalQuantity,0,2345
-"shrieking essence of loathing",essence,"[]",totalQuantity,9,2345
-"shrieking essence of loathing",essence,"[]",totalQuantity,18,2345
-"shrieking essence of loathing",essence,"[]",totalQuantity,30,2345
-"shrieking essence of loathing",essence,"[]",totalQuantity,50,2345
-"shrieking essence of loathing",essence,"[]",totalQuantity,100,2345
+"shrieking essence of loathing",essence,"[]",totalQuantity,0,2361
+"shrieking essence of loathing",essence,"[]",totalQuantity,9,2361
+"shrieking essence of loathing",essence,"[]",totalQuantity,18,2361
+"shrieking essence of loathing",essence,"[]",totalQuantity,30,2361
+"shrieking essence of loathing",essence,"[]",totalQuantity,50,2361
+"shrieking essence of loathing",essence,"[]",totalQuantity,100,2361
 "shrieking essence of loathing",essence,"[]",totalValidListings,0,59
 "shrieking essence of loathing",essence,"[]",totalValidListings,9,31
 "shrieking essence of loathing",essence,"[]",totalValidListings,18,22
-"shrieking essence of loathing",essence,"[]",totalValidListings,30,13
-"shrieking essence of loathing",essence,"[]",totalValidListings,50,13
+"shrieking essence of loathing",essence,"[]",totalValidListings,30,17
+"shrieking essence of loathing",essence,"[]",totalValidListings,50,14
 "shrieking essence of loathing",essence,"[]",totalValidListings,100,8
 "shrieking essence of zeal",essence,"[]",p10,0,3
-"shrieking essence of zeal",essence,"[]",p10,9,3.079588014981273
-"shrieking essence of zeal",essence,"[]",p10,18,3.109134170522141
+"shrieking essence of zeal",essence,"[]",p10,9,3.089887640449438
+"shrieking essence of zeal",essence,"[]",p10,18,3.186120290812954
 "shrieking essence of zeal",essence,"[]",p10,30,3.089887640449438
 "shrieking essence of zeal",essence,"[]",p10,50,3.089887640449438
 "shrieking essence of zeal",essence,"[]",p10,100,3.079588014981273
 "shrieking essence of zeal",essence,"[]",p15,0,3
-"shrieking essence of zeal",essence,"[]",p15,9,3.099510905485789
-"shrieking essence of zeal",essence,"[]",p15,18,3.299259259259259
-"shrieking essence of zeal",essence,"[]",p15,30,3.166873760740251
-"shrieking essence of zeal",essence,"[]",p15,50,3.138003965631196
+"shrieking essence of zeal",essence,"[]",p15,9,3.214990085922009
+"shrieking essence of zeal",essence,"[]",p15,18,3.295588235294117
+"shrieking essence of zeal",essence,"[]",p15,30,3.28235294117647
+"shrieking essence of zeal",essence,"[]",p15,50,3.166873760740251
 "shrieking essence of zeal",essence,"[]",p15,100,3.089887640449438
 "shrieking essence of zeal",essence,"[]",p20,0,3
-"shrieking essence of zeal",essence,"[]",p20,9,3.327436456063907
-"shrieking essence of zeal",essence,"[]",p20,18,3.479938271604939
-"shrieking essence of zeal",essence,"[]",p20,30,3.389771241830065
-"shrieking essence of zeal",essence,"[]",p20,50,3.28235294117647
+"shrieking essence of zeal",essence,"[]",p20,9,3.319012345679012
+"shrieking essence of zeal",essence,"[]",p20,18,3.395061728395062
+"shrieking essence of zeal",essence,"[]",p20,30,3.3
+"shrieking essence of zeal",essence,"[]",p20,50,3.389771241830065
 "shrieking essence of zeal",essence,"[]",p20,100,3.089887640449438
-"shrieking essence of zeal",essence,"[]",p5,0,2.688888888888889
-"shrieking essence of zeal",essence,"[]",p5,9,3.019444444444444
+"shrieking essence of zeal",essence,"[]",p5,0,2.883333333333333
+"shrieking essence of zeal",essence,"[]",p5,9,3.030555555555556
 "shrieking essence of zeal",essence,"[]",p5,18,3.089887640449438
-"shrieking essence of zeal",essence,"[]",p5,30,3.083021223470662
-"shrieking essence of zeal",essence,"[]",p5,50,3.081304619225968
+"shrieking essence of zeal",essence,"[]",p5,30,3.089887640449438
+"shrieking essence of zeal",essence,"[]",p5,50,3.083021223470662
 "shrieking essence of zeal",essence,"[]",p5,100,3.067571785268415
 "shrieking essence of zeal",essence,"[]",p50,0,4
-"shrieking essence of zeal",essence,"[]",p50,9,4.115384615384615
-"shrieking essence of zeal",essence,"[]",p50,18,4.263822115384615
-"shrieking essence of zeal",essence,"[]",p50,30,4.296875
-"shrieking essence of zeal",essence,"[]",p50,50,4.592881944444445
+"shrieking essence of zeal",essence,"[]",p50,9,4
+"shrieking essence of zeal",essence,"[]",p50,18,4.115384615384615
+"shrieking essence of zeal",essence,"[]",p50,30,4.230769230769231
+"shrieking essence of zeal",essence,"[]",p50,50,4.296875
 "shrieking essence of zeal",essence,"[]",p50,100,3.789613970588235
 "shrieking essence of zeal",essence,"[]",p7,0,3
-"shrieking essence of zeal",essence,"[]",p7,9,3.049444444444445
+"shrieking essence of zeal",essence,"[]",p7,9,3.061392009987516
 "shrieking essence of zeal",essence,"[]",p7,18,3.089887640449438
 "shrieking essence of zeal",essence,"[]",p7,30,3.089887640449438
 "shrieking essence of zeal",essence,"[]",p7,50,3.089887640449438
 "shrieking essence of zeal",essence,"[]",p7,100,3.072378277153558
-"shrieking essence of zeal",essence,"[]",totalQuantity,0,2375
-"shrieking essence of zeal",essence,"[]",totalQuantity,9,2375
-"shrieking essence of zeal",essence,"[]",totalQuantity,18,2375
-"shrieking essence of zeal",essence,"[]",totalQuantity,30,2375
-"shrieking essence of zeal",essence,"[]",totalQuantity,50,2375
-"shrieking essence of zeal",essence,"[]",totalQuantity,100,2375
-"shrieking essence of zeal",essence,"[]",totalValidListings,0,53
-"shrieking essence of zeal",essence,"[]",totalValidListings,9,28
-"shrieking essence of zeal",essence,"[]",totalValidListings,18,22
-"shrieking essence of zeal",essence,"[]",totalValidListings,30,17
-"shrieking essence of zeal",essence,"[]",totalValidListings,50,16
+"shrieking essence of zeal",essence,"[]",totalQuantity,0,2592
+"shrieking essence of zeal",essence,"[]",totalQuantity,9,2592
+"shrieking essence of zeal",essence,"[]",totalQuantity,18,2592
+"shrieking essence of zeal",essence,"[]",totalQuantity,30,2592
+"shrieking essence of zeal",essence,"[]",totalQuantity,50,2592
+"shrieking essence of zeal",essence,"[]",totalQuantity,100,2592
+"shrieking essence of zeal",essence,"[]",totalValidListings,0,58
+"shrieking essence of zeal",essence,"[]",totalValidListings,9,32
+"shrieking essence of zeal",essence,"[]",totalValidListings,18,26
+"shrieking essence of zeal",essence,"[]",totalValidListings,30,21
+"shrieking essence of zeal",essence,"[]",totalValidListings,50,17
 "shrieking essence of zeal",essence,"[]",totalValidListings,100,8
 "wailing essence of hatred",essence,"[]",p10,0,1
 "wailing essence of hatred",essence,"[]",p10,9,1
@@ -3074,66 +3074,66 @@
 "wailing essence of hatred",essence,"[]",p5,0,1
 "wailing essence of hatred",essence,"[]",p5,9,1
 "wailing essence of hatred",essence,"[]",p5,18,1
-"wailing essence of hatred",essence,"[]",p50,0,1
+"wailing essence of hatred",essence,"[]",p50,0,2
 "wailing essence of hatred",essence,"[]",p50,9,1
 "wailing essence of hatred",essence,"[]",p50,18,1
 "wailing essence of hatred",essence,"[]",p7,0,1
 "wailing essence of hatred",essence,"[]",p7,9,1
 "wailing essence of hatred",essence,"[]",p7,18,1
-"wailing essence of hatred",essence,"[]",totalQuantity,0,543
-"wailing essence of hatred",essence,"[]",totalQuantity,9,543
-"wailing essence of hatred",essence,"[]",totalQuantity,18,543
+"wailing essence of hatred",essence,"[]",totalQuantity,0,423
+"wailing essence of hatred",essence,"[]",totalQuantity,9,423
+"wailing essence of hatred",essence,"[]",totalQuantity,18,423
 "wailing essence of hatred",essence,"[]",totalValidListings,0,45
-"wailing essence of hatred",essence,"[]",totalValidListings,9,10
+"wailing essence of hatred",essence,"[]",totalValidListings,9,9
 "wailing essence of hatred",essence,"[]",totalValidListings,18,7
-"shrieking essence of spite",essence,"[]",p10,0,2
+"shrieking essence of spite",essence,"[]",p10,0,1.98
 "shrieking essence of spite",essence,"[]",p10,9,2
 "shrieking essence of spite",essence,"[]",p10,18,2.763888888888889
-"shrieking essence of spite",essence,"[]",p10,30,2.824561403508772
+"shrieking essence of spite",essence,"[]",p10,30,2.812865497076023
 "shrieking essence of spite",essence,"[]",p10,50,2.761111111111111
-"shrieking essence of spite",essence,"[]",p10,100,2.75
+"shrieking essence of spite",essence,"[]",p10,100,2.747277227722772
 "shrieking essence of spite",essence,"[]",p15,0,2
 "shrieking essence of spite",essence,"[]",p15,9,2
 "shrieking essence of spite",essence,"[]",p15,18,2.865497076023392
-"shrieking essence of spite",essence,"[]",p15,30,2.957894736842105
+"shrieking essence of spite",essence,"[]",p15,30,2.942105263157894
 "shrieking essence of spite",essence,"[]",p15,50,2.789473684210527
-"shrieking essence of spite",essence,"[]",p15,100,2.763888888888889
+"shrieking essence of spite",essence,"[]",p15,100,2.759722222222222
 "shrieking essence of spite",essence,"[]",p20,0,2
-"shrieking essence of spite",essence,"[]",p20,9,2.289108910891089
+"shrieking essence of spite",essence,"[]",p20,9,2.433663366336634
 "shrieking essence of spite",essence,"[]",p20,18,3
 "shrieking essence of spite",essence,"[]",p20,30,3
 "shrieking essence of spite",essence,"[]",p20,50,2.871345029239766
-"shrieking essence of spite",essence,"[]",p20,100,2.777777777777778
-"shrieking essence of spite",essence,"[]",p5,0,1.425
+"shrieking essence of spite",essence,"[]",p20,100,2.772222222222223
+"shrieking essence of spite",essence,"[]",p5,0,1
 "shrieking essence of spite",essence,"[]",p5,9,2
 "shrieking essence of spite",essence,"[]",p5,18,2.729579207920792
-"shrieking essence of spite",essence,"[]",p5,30,2.755555555555556
+"shrieking essence of spite",essence,"[]",p5,30,2.754166666666667
 "shrieking essence of spite",essence,"[]",p5,50,2.741831683168317
-"shrieking essence of spite",essence,"[]",p5,100,2.736386138613861
+"shrieking essence of spite",essence,"[]",p5,100,2.735024752475248
 "shrieking essence of spite",essence,"[]",p50,0,3
 "shrieking essence of spite",essence,"[]",p50,9,3
-"shrieking essence of spite",essence,"[]",p50,18,3.055555555555556
+"shrieking essence of spite",essence,"[]",p50,18,3.046296296296297
 "shrieking essence of spite",essence,"[]",p50,30,3.055555555555556
 "shrieking essence of spite",essence,"[]",p50,50,3.819444444444444
-"shrieking essence of spite",essence,"[]",p50,100,3.065934065934066
-"shrieking essence of spite",essence,"[]",p7,0,1.896
+"shrieking essence of spite",essence,"[]",p50,100,3.032967032967033
+"shrieking essence of spite",essence,"[]",p7,0,1.524
 "shrieking essence of spite",essence,"[]",p7,9,2
 "shrieking essence of spite",essence,"[]",p7,18,2.743193069306931
-"shrieking essence of spite",essence,"[]",p7,30,2.768888888888889
+"shrieking essence of spite",essence,"[]",p7,30,2.766944444444445
 "shrieking essence of spite",essence,"[]",p7,50,2.749455445544554
-"shrieking essence of spite",essence,"[]",p7,100,2.741831683168317
-"shrieking essence of spite",essence,"[]",totalQuantity,0,3218
-"shrieking essence of spite",essence,"[]",totalQuantity,9,3218
-"shrieking essence of spite",essence,"[]",totalQuantity,18,3218
-"shrieking essence of spite",essence,"[]",totalQuantity,30,3218
-"shrieking essence of spite",essence,"[]",totalQuantity,50,3218
-"shrieking essence of spite",essence,"[]",totalQuantity,100,3218
-"shrieking essence of spite",essence,"[]",totalValidListings,0,58
-"shrieking essence of spite",essence,"[]",totalValidListings,9,33
+"shrieking essence of spite",essence,"[]",p7,100,2.739925742574258
+"shrieking essence of spite",essence,"[]",totalQuantity,0,3195
+"shrieking essence of spite",essence,"[]",totalQuantity,9,3195
+"shrieking essence of spite",essence,"[]",totalQuantity,18,3195
+"shrieking essence of spite",essence,"[]",totalQuantity,30,3195
+"shrieking essence of spite",essence,"[]",totalQuantity,50,3195
+"shrieking essence of spite",essence,"[]",totalQuantity,100,3195
+"shrieking essence of spite",essence,"[]",totalValidListings,0,59
+"shrieking essence of spite",essence,"[]",totalValidListings,9,34
 "shrieking essence of spite",essence,"[]",totalValidListings,18,26
-"shrieking essence of spite",essence,"[]",totalValidListings,30,25
+"shrieking essence of spite",essence,"[]",totalValidListings,30,24
 "shrieking essence of spite",essence,"[]",totalValidListings,50,15
-"shrieking essence of spite",essence,"[]",totalValidListings,100,11
+"shrieking essence of spite",essence,"[]",totalValidListings,100,10
 "shrieking essence of envy",essence,"[]",p10,0,3
 "shrieking essence of envy",essence,"[]",p10,9,4.824561403508771
 "shrieking essence of envy",essence,"[]",p10,18,4.824561403508771
@@ -3271,10 +3271,10 @@
 "screaming essence of anger",essence,"[]",totalValidListings,50,7
 "screaming essence of anger",essence,"[]",totalValidListings,100,4
 "screaming essence of wrath",essence,"[]",p10,0,1
-"screaming essence of wrath",essence,"[]",p10,9,0.8999999999999999
-"screaming essence of wrath",essence,"[]",p10,18,0.9666666666666667
+"screaming essence of wrath",essence,"[]",p10,9,1
+"screaming essence of wrath",essence,"[]",p10,18,1
 "screaming essence of wrath",essence,"[]",p10,30,1
-"screaming essence of wrath",essence,"[]",p10,50,0.9666666666666667
+"screaming essence of wrath",essence,"[]",p10,50,1
 "screaming essence of wrath",essence,"[]",p10,100,0.9444444444444444
 "screaming essence of wrath",essence,"[]",p15,0,1
 "screaming essence of wrath",essence,"[]",p15,9,1
@@ -3288,35 +3288,35 @@
 "screaming essence of wrath",essence,"[]",p20,30,1
 "screaming essence of wrath",essence,"[]",p20,50,1
 "screaming essence of wrath",essence,"[]",p20,100,1
-"screaming essence of wrath",essence,"[]",p5,0,0.861111111111111
-"screaming essence of wrath",essence,"[]",p5,9,0.8888888888888888
-"screaming essence of wrath",essence,"[]",p5,18,0.8888888888888888
-"screaming essence of wrath",essence,"[]",p5,30,0.95
-"screaming essence of wrath",essence,"[]",p5,50,0.9277777777777777
+"screaming essence of wrath",essence,"[]",p5,0,0.7555555555555555
+"screaming essence of wrath",essence,"[]",p5,9,0.9750000000000001
+"screaming essence of wrath",essence,"[]",p5,18,1
+"screaming essence of wrath",essence,"[]",p5,30,1
+"screaming essence of wrath",essence,"[]",p5,50,1
 "screaming essence of wrath",essence,"[]",p5,100,0.9166666666666666
 "screaming essence of wrath",essence,"[]",p50,0,1
 "screaming essence of wrath",essence,"[]",p50,9,1
 "screaming essence of wrath",essence,"[]",p50,18,1
-"screaming essence of wrath",essence,"[]",p50,30,1.111111111111111
+"screaming essence of wrath",essence,"[]",p50,30,1
 "screaming essence of wrath",essence,"[]",p50,50,1
 "screaming essence of wrath",essence,"[]",p50,100,1
-"screaming essence of wrath",essence,"[]",p7,0,0.8888888888888888
-"screaming essence of wrath",essence,"[]",p7,9,0.8888888888888888
-"screaming essence of wrath",essence,"[]",p7,18,0.91
-"screaming essence of wrath",essence,"[]",p7,30,0.9744444444444444
-"screaming essence of wrath",essence,"[]",p7,50,0.9433333333333334
+"screaming essence of wrath",essence,"[]",p7,0,0.9822222222222223
+"screaming essence of wrath",essence,"[]",p7,9,1
+"screaming essence of wrath",essence,"[]",p7,18,1
+"screaming essence of wrath",essence,"[]",p7,30,1
+"screaming essence of wrath",essence,"[]",p7,50,1
 "screaming essence of wrath",essence,"[]",p7,100,0.9277777777777777
-"screaming essence of wrath",essence,"[]",totalQuantity,0,3536
-"screaming essence of wrath",essence,"[]",totalQuantity,9,3536
-"screaming essence of wrath",essence,"[]",totalQuantity,18,3536
-"screaming essence of wrath",essence,"[]",totalQuantity,30,3536
-"screaming essence of wrath",essence,"[]",totalQuantity,50,3536
+"screaming essence of wrath",essence,"[]",totalQuantity,0,2308
+"screaming essence of wrath",essence,"[]",totalQuantity,9,2308
+"screaming essence of wrath",essence,"[]",totalQuantity,18,2308
+"screaming essence of wrath",essence,"[]",totalQuantity,30,2308
+"screaming essence of wrath",essence,"[]",totalQuantity,50,2308
 "screaming essence of wrath",essence,"[]",totalQuantity,100,3536
-"screaming essence of wrath",essence,"[]",totalValidListings,0,56
-"screaming essence of wrath",essence,"[]",totalValidListings,9,22
-"screaming essence of wrath",essence,"[]",totalValidListings,18,18
-"screaming essence of wrath",essence,"[]",totalValidListings,30,12
-"screaming essence of wrath",essence,"[]",totalValidListings,50,8
+"screaming essence of wrath",essence,"[]",totalValidListings,0,57
+"screaming essence of wrath",essence,"[]",totalValidListings,9,20
+"screaming essence of wrath",essence,"[]",totalValidListings,18,14
+"screaming essence of wrath",essence,"[]",totalValidListings,30,11
+"screaming essence of wrath",essence,"[]",totalValidListings,50,7
 "screaming essence of wrath",essence,"[]",totalValidListings,100,6
 "muttering essence of greed",essence,"[]",p10,0,1
 "muttering essence of greed",essence,"[]",p15,0,1
@@ -3570,55 +3570,55 @@
 "muttering essence of torment",essence,"[]",p15,0,1
 "muttering essence of torment",essence,"[]",p20,0,1
 "muttering essence of torment",essence,"[]",p5,0,1
-"muttering essence of torment",essence,"[]",p50,0,1
+"muttering essence of torment",essence,"[]",p50,0,1.5
 "muttering essence of torment",essence,"[]",p7,0,1
-"muttering essence of torment",essence,"[]",totalQuantity,0,55
-"muttering essence of torment",essence,"[]",totalValidListings,0,35
+"muttering essence of torment",essence,"[]",totalQuantity,0,61
+"muttering essence of torment",essence,"[]",totalValidListings,0,38
 "deafening essence of dread",essence,"[]",p10,0,3
-"deafening essence of dread",essence,"[]",p10,9,5.586956521739131
-"deafening essence of dread",essence,"[]",p10,18,6
-"deafening essence of dread",essence,"[]",p10,30,6.237209302325581
-"deafening essence of dread",essence,"[]",p10,50,6.416279069767442
-"deafening essence of dread",essence,"[]",p10,100,6.395348837209302
+"deafening essence of dread",essence,"[]",p10,9,5.989130434782608
+"deafening essence of dread",essence,"[]",p10,18,5.98695652173913
+"deafening essence of dread",essence,"[]",p10,30,6.355813953488372
+"deafening essence of dread",essence,"[]",p10,50,6.523809523809524
+"deafening essence of dread",essence,"[]",p10,100,6.4562569213732
 "deafening essence of dread",essence,"[]",p15,0,4
-"deafening essence of dread",essence,"[]",p15,9,5.997826086956522
-"deafening essence of dread",essence,"[]",p15,18,6.316279069767441
-"deafening essence of dread",essence,"[]",p15,30,6.395348837209302
-"deafening essence of dread",essence,"[]",p15,50,6.47906976744186
-"deafening essence of dread",essence,"[]",p15,100,6.395348837209302
+"deafening essence of dread",essence,"[]",p15,9,6
+"deafening essence of dread",essence,"[]",p15,18,6.03953488372093
+"deafening essence of dread",essence,"[]",p15,30,6.431976744186047
+"deafening essence of dread",essence,"[]",p15,50,6.587543554006968
+"deafening essence of dread",essence,"[]",p15,100,6.486710963455149
 "deafening essence of dread",essence,"[]",p20,0,4
-"deafening essence of dread",essence,"[]",p20,9,6.395348837209302
+"deafening essence of dread",essence,"[]",p20,9,6.25
 "deafening essence of dread",essence,"[]",p20,18,6.395348837209302
-"deafening essence of dread",essence,"[]",p20,30,6.416279069767442
-"deafening essence of dread",essence,"[]",p20,50,6.519047619047619
-"deafening essence of dread",essence,"[]",p20,100,6.395348837209302
+"deafening essence of dread",essence,"[]",p20,30,6.538095238095237
+"deafening essence of dread",essence,"[]",p20,50,6.707317073170732
+"deafening essence of dread",essence,"[]",p20,100,6.517165005537097
 "deafening essence of dread",essence,"[]",p5,0,3
-"deafening essence of dread",essence,"[]",p5,9,5
-"deafening essence of dread",essence,"[]",p5,18,5.978260869565217
-"deafening essence of dread",essence,"[]",p5,30,5.984782608695652
-"deafening essence of dread",essence,"[]",p5,50,6.395348837209302
-"deafening essence of dread",essence,"[]",p5,100,6.395348837209302
+"deafening essence of dread",essence,"[]",p5,9,5.703748890860691
+"deafening essence of dread",essence,"[]",p5,18,5.868456078083407
+"deafening essence of dread",essence,"[]",p5,30,5.988043478260869
+"deafening essence of dread",essence,"[]",p5,50,6.473837209302325
+"deafening essence of dread",essence,"[]",p5,100,6.425802879291251
 "deafening essence of dread",essence,"[]",p50,0,5
-"deafening essence of dread",essence,"[]",p50,9,6.875
+"deafening essence of dread",essence,"[]",p50,9,6.915760869565217
 "deafening essence of dread",essence,"[]",p50,18,6.875
-"deafening essence of dread",essence,"[]",p50,30,6.875
+"deafening essence of dread",essence,"[]",p50,30,6.963141025641026
 "deafening essence of dread",essence,"[]",p50,50,6.875
-"deafening essence of dread",essence,"[]",p50,100,6.627468060394889
+"deafening essence of dread",essence,"[]",p50,100,6.707317073170732
 "deafening essence of dread",essence,"[]",p7,0,3
-"deafening essence of dread",essence,"[]",p7,9,5
-"deafening essence of dread",essence,"[]",p7,18,5.983478260869565
-"deafening essence of dread",essence,"[]",p7,30,5.996086956521739
-"deafening essence of dread",essence,"[]",p7,50,6.395348837209302
-"deafening essence of dread",essence,"[]",p7,100,6.395348837209302
-"deafening essence of dread",essence,"[]",totalQuantity,0,4420
-"deafening essence of dread",essence,"[]",totalQuantity,9,4420
-"deafening essence of dread",essence,"[]",totalQuantity,18,4420
-"deafening essence of dread",essence,"[]",totalQuantity,30,4420
-"deafening essence of dread",essence,"[]",totalQuantity,50,4420
-"deafening essence of dread",essence,"[]",totalQuantity,100,4420
-"deafening essence of dread",essence,"[]",totalValidListings,0,128
-"deafening essence of dread",essence,"[]",totalValidListings,9,47
-"deafening essence of dread",essence,"[]",totalValidListings,18,33
-"deafening essence of dread",essence,"[]",totalValidListings,30,27
-"deafening essence of dread",essence,"[]",totalValidListings,50,13
-"deafening essence of dread",essence,"[]",totalValidListings,100,6
+"deafening essence of dread",essence,"[]",p7,9,5.978260869565217
+"deafening essence of dread",essence,"[]",p7,18,5.978260869565217
+"deafening essence of dread",essence,"[]",p7,30,6.011860465116279
+"deafening essence of dread",essence,"[]",p7,50,6.502380952380952
+"deafening essence of dread",essence,"[]",p7,100,6.437984496124031
+"deafening essence of dread",essence,"[]",totalQuantity,0,4625
+"deafening essence of dread",essence,"[]",totalQuantity,9,4625
+"deafening essence of dread",essence,"[]",totalQuantity,18,4625
+"deafening essence of dread",essence,"[]",totalQuantity,30,4625
+"deafening essence of dread",essence,"[]",totalQuantity,50,4625
+"deafening essence of dread",essence,"[]",totalQuantity,100,4625
+"deafening essence of dread",essence,"[]",totalValidListings,0,136
+"deafening essence of dread",essence,"[]",totalValidListings,9,46
+"deafening essence of dread",essence,"[]",totalValidListings,18,35
+"deafening essence of dread",essence,"[]",totalValidListings,30,30
+"deafening essence of dread",essence,"[]",totalValidListings,50,16
+"deafening essence of dread",essence,"[]",totalValidListings,100,5
