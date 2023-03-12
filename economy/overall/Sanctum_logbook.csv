@@ -2,58 +2,42 @@
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p20,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p5,0,10
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p50,0,17.5
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p50,0,20
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p7,0,10
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,49
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,32
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p10,0,9.9
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p20,0,10
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p5,0,9.45
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p50,0,10
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p7,0,9.63
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,23
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,10
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,63
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,38
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p10,0,10
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p20,0,11.2
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p5,0,9.65
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p50,0,45
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p7,0,9.91
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,20
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,14
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p15,0,11.4
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p20,0,13.8
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p5,0,9.9
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p50,0,20
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p7,0,10
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,29
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,19
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p10,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p15,0,43.4
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p20,0,45
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p15,0,40
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p20,0,44.4
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p5,0,40
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p50,0,50
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p7,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,118
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,40
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p10,0,52
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p15,0,60
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p20,0,60
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p5,0,50
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p50,0,71.5
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p7,0,50
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,148
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,37
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,121
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,48
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p10,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p20,0,10
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p5,0,9.4
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p50,0,11
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p7,0,10
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,89
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p5,0,8.4
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p50,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p7,0,9.36
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,96
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,49
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p10,0,35
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p10,0,32
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p15,0,35
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p20,0,35
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p5,0,35
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p50,0,49
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p7,0,35
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,15
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,11
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p5,0,24
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p50,0,40
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p7,0,29.6
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,20
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,15
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p10,0,39
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p15,0,43.5
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p20,0,45.8
@@ -62,86 +46,94 @@
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p7,0,36.3
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,8
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,7
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p10,0,34
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p15,0,36
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p20,0,38
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p5,0,32
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p10,0,35
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p15,0,37.5
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p20,0,40
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p5,0,32.5
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p50,0,45
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p7,0,32.8
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,7
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,5
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p10,0,31.6
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p15,0,33.6
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p20,0,36.8
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p5,0,30.8
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p50,0,50
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p7,0,31.12
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,13
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,9
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",p7,0,33.5
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,8
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":76},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,6
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p10,0,30
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p15,0,30.5
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p20,0,32
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p5,0,25
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p50,0,40
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p7,0,30
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,21
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,16
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p10,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p20,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p5,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p50,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p7,0,10
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,9
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,8
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,9
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p50,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,10
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,7
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,7
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,10
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,9
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p10,0,11
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p15,0,11.5
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p20,0,12
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p5,0,10.5
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p50,0,27.5
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",p7,0,10.7
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,6
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":80},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,6
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p10,0,60
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p15,0,60
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p20,0,64
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p5,0,52.5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p5,0,60
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p50,0,70
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p7,0,57.5
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,81
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p7,0,60
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,84
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,26
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p10,0,30.6
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p15,0,31.9
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p20,0,33.8
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p5,0,28.25
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p50,0,40.83333333333333
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p7,0,29.55
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,21
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,14
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,33
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,35
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,35.8
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p10,0,31
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p15,0,32
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p20,0,32
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p5,0,28.75
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p50,0,40
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p7,0,30.1
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,24
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,16
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,30
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,33.5
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,35
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,30
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p50,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,30.6
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,26
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,17
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p10,0,43
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p15,0,47
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p20,0,51
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p5,0,39
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p50,0,57.07142857142857
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p7,0,40.6
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,16
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,6
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,30
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,30
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,19
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p10,0,38
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p15,0,39.5
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p20,0,42.2
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p5,0,36.5
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p50,0,57
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p7,0,37.1
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,17
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,7
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,35
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,35
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,36.6
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,33
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,37.4
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,33.25
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p50,0,50
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,34.2
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,15
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,13
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,52
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,53
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,54
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,51
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,34.55
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,17
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,14
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,52.5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,53.75
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,55
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,51.25
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p50,0,60
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,51.4
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,5
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,51.75
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,6
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,6
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p10,0,47.5
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p15,0,48.75
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p20,0,50
@@ -158,6 +150,14 @@
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":70},{""key"":""corrupted""},{""key"":""split""}]",p7,0,36.4
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":70},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,5
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":70},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":68},{""key"":""corrupted""},{""key"":""split""}]",p10,0,27
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":68},{""key"":""corrupted""},{""key"":""split""}]",p15,0,28
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":68},{""key"":""corrupted""},{""key"":""split""}]",p20,0,29
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":68},{""key"":""corrupted""},{""key"":""split""}]",p5,0,26
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":68},{""key"":""corrupted""},{""key"":""split""}]",p50,0,37
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":68},{""key"":""corrupted""},{""key"":""split""}]",p7,0,26.4
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":68},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":68},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,5
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":75},{""key"":""corrupted""},{""key"":""split""}]",p10,0,31
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":75},{""key"":""corrupted""},{""key"":""split""}]",p15,0,34
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":75},{""key"":""corrupted""},{""key"":""split""}]",p20,0,35
@@ -174,46 +174,46 @@
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p7,0,16.4
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,5
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,5
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p10,0,9.6
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p15,0,9.9
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p20,0,11
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p5,0,9.3
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p50,0,15
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p7,0,9.42
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,8
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,7
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,52
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,58
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,64
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,46
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p50,0,75
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,48.4
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,9
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,9
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p10,0,9.7
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10.25
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p20,0,12
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p5,0,9.35
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p50,0,17.5
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p7,0,9.49
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,9
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,8
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,53.5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,56.4
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,58.2
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,46.75
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p50,0,72.5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,49.45
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,10
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p10,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p20,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p5,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p50,0,20
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p7,0,10
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,102
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,56
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,81
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,45
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p10,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p20,0,10
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p5,0,10
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p50,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p50,0,16.5
 "druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",p7,0,10
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,60
-"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,35
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p10,0,34
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p15,0,38.5
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p20,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p5,0,29.5
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p50,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p7,0,31.3
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,10
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,7
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,65
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,40
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":73},{""key"":""corrupted""},{""key"":""split""}]",p10,0,32.8
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":73},{""key"":""corrupted""},{""key"":""split""}]",p15,0,34.2
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":73},{""key"":""corrupted""},{""key"":""split""}]",p20,0,35.6
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":73},{""key"":""corrupted""},{""key"":""split""}]",p5,0,31.4
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":73},{""key"":""corrupted""},{""key"":""split""}]",p50,0,40
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":73},{""key"":""corrupted""},{""key"":""split""}]",p7,0,31.96
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":73},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":73},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,5
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p10,0,47.4
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p15,0,48.6
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p20,0,49.2
@@ -222,54 +222,54 @@
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",p7,0,46.68
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,9
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":78},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,7
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p10,0,66
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p15,0,71.5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p10,0,62.2
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p15,0,71.8
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p20,0,75
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p5,0,58.25
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p50,0,79
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p7,0,61.55
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,33
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,12
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p5,0,53.40000000000001
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p50,0,80
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p7,0,56.76000000000001
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,35
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,13
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p10,0,40
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p15,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p20,0,43.4
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p5,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p50,0,51
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p20,0,40.33333333333334
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p5,0,37.75
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p50,0,51.125
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p7,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,56
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,27
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,65
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,32
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p10,0,43
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p15,0,44.5
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p20,0,45
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p20,0,45.5
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p5,0,41.5
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p50,0,47.5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p50,0,50
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p7,0,42.1
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,8
 "knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,7
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p10,0,40
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p15,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p20,0,42
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p5,0,40
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p20,0,40
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p5,0,39.2
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p50,0,50
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p7,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,135
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,34
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,35.8
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,37.4
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,32
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,149
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,45
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p10,0,30
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p15,0,31.75
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p20,0,34
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p5,0,30
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p50,0,40
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,32.8
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,14
-"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,9
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",p7,0,30
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalQuantity,0,16
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":84},{""key"":""corrupted"",""value"":true},{""key"":""split""}]",totalValidListings,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p10,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p20,0,11.8
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p20,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p5,0,10
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p50,0,20
 "order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",p7,0,10
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,7
-"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,7
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,9
+"order of the chalice logbook",logbook,"[{""key"":""ilvl"",""value"":82},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,9
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p10,0,35
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p15,0,35
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p20,0,35
@@ -278,11 +278,43 @@
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",p7,0,34.2
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,15
 "black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":79},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,13
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p10,0,54.5
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p15,0,56.75
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p20,0,59
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p5,0,52.25
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p50,0,67.499995
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p7,0,53.15
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,6
-"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,6
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p10,0,53
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p15,0,54.5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p20,0,55.8
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p5,0,51.5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p50,0,59.99999
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",p7,0,52.1
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,7
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":81},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,7
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p10,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p20,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p5,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p50,0,50
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",p7,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,6
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":86},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,5
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p10,0,55
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p15,0,60
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p20,0,60
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p5,0,50
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p50,0,75
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",p7,0,50
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,158
+"knights of the sun logbook",logbook,"[{""key"":""ilvl"",""value"":83},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,41
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p10,0,34
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p15,0,38.5
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p20,0,40
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p5,0,29.5
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p50,0,40
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",p7,0,31.3
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,10
+"black scythe mercenaries logbook",logbook,"[{""key"":""ilvl"",""value"":77},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,7
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p10,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p15,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p20,0,10
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p5,0,9.6
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p50,0,13
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",p7,0,9.84
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalQuantity,0,26
+"druids of the broken circle logbook",logbook,"[{""key"":""ilvl"",""value"":85},{""key"":""corrupted""},{""key"":""split""}]",totalValidListings,0,13
