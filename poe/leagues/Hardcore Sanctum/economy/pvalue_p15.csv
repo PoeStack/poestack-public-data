@@ -1,1091 +1,1164 @@
-"pinpoint support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,3.4
-"the supreme truth",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.6
-"spellslinger support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,9.4
-"null and void",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"victario's acuity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,7.6
-"the grey spire",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.6
-"marylene's fallacy",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.2
-"frigid fossil",fossil,"[]",p15,30,1.725
-"rusted bestiary scarab",scarab,"[]",p15,18,0.9555555555555555
-"doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,62.5
-"soul strike",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"wheel of the stormsail",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"goredrill",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"wailing essence of rage",essence,"[]",p15,0,1
+"orb of scouring",currency,"[]",p15,500,0.6581683002507877
+"orb of annulment",currency,"[]",p15,18,14.12
+"general's cry support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,1
+"rusted breach scarab",scarab,"[]",p15,0,1.5
+"drillneck",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.6
+"maligaro's lens",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"rusted bestiary scarab",scarab,"[]",p15,30,0.9555555555555555
+"rusted breach scarab",scarab,"[]",p15,30,1.725
+"rusted breach scarab",scarab,"[]",p15,50,1.56
 "singular scouting report",scouting report,"[]",p15,0,5
-"hope",card,"[]",p15,0,1
-"the sword king's salute",card,"[]",p15,0,3.4
-"blood of the karui",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.4
+"veil of the night",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"anomalous zealotry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,25
+"rogue's marker",currency,"[]",p15,30,0.002255497521801869
+"shrieking essence of fear",essence,"[]",p15,50,2.938888888888889
+"tainted jeweller's orb",currency,"[]",p15,30,1.78
+"orb of augmentation",currency,"[]",p15,30,0.05054963357761492
+"shrieking essence of anguish",essence,"[]",p15,100,1.34
+"the ignomon",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "orb of binding",currency,"[]",p15,30,0.15875
-"orb of binding",currency,"[]",p15,0,0.17
-"alivia's grace",card,"[]",p15,0,1
-"eternal damnation",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,756.3
-"orb of binding",currency,"[]",p15,50,0.15875
-"orb of binding",currency,"[]",p15,100,0.15875
-"summon skeletons",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""23""}]",p15,0,4.6
-"orb of binding",currency,"[]",p15,18,0.15875
-"orb of binding",currency,"[]",p15,9,0.17
 "snakebite",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "sacrifice at dawn",fragment,"[]",p15,18,0.3733333333333334
-"wraithlord",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"orb of binding",currency,"[]",p15,50,0.15875
+"orb of binding",currency,"[]",p15,100,0.15875
+"vulconus",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,8
+"ondar's clasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"teal oil",oil,"[]",p15,30,0.97
+"willowgift",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
+"perseverance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,14.8
+"the dragon's heart",card,"[]",p15,0,283.72
+"al-hezmin's crest",fragment,"[]",p15,0,8.6
+"chromatic orb",currency,"[]",p15,100,0.4727578947368421
+"greater eldritch ichor",currency,"[]",p15,0,4.76
+"callinellus malleus",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"relentless fury",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "gang's momentum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"hand of thought and motion",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,8.5
+"tainted orb of fusing",currency,"[]",p15,0,82
+"rusted legion scarab",scarab,"[]",p15,18,1
+"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.5
+"shrieking essence of spite",essence,"[]",p15,30,3.45
+"hand of thought and motion",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7.6
+"shrieking essence of torment",essence,"[]",p15,30,3.225
+"eternal damnation",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,756.3
+"sign of the sin eater",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"tainted chromatic orb",currency,"[]",p15,9,9.45
+"rusted blight scarab",scarab,"[]",p15,18,2
 "seismic trap",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,1
 "powerful chaotic resonator",resonator,"[]",p15,50,1.225
-"sign of the sin eater",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"crest of perandus",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
 "fertile mind",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,4.779999999999999
-"rigwald's curse",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"crest of perandus",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
 "nuro's harp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "dense fossil",fossil,"[]",p15,0,4
-"azure oil",oil,"[]",p15,18,0.775
-"chromatic orb",currency,"[]",p15,30,0.4725052631578947
 "forbidden flame",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,205.8688888888889
 "shrieking essence of zeal",essence,"[]",p15,9,4
-"shrieking essence of torment",essence,"[]",p15,9,3
 "gilded fossil",fossil,"[]",p15,0,2.6
-"black oil",oil,"[]",p15,9,8.3
-"vaal scouting report",scouting report,"[]",p15,9,2.045
-"chromatic orb",currency,"[]",p15,9,0.4725052631578947
-"vaal scouting report",scouting report,"[]",p15,18,2.675
-"chromatic orb",currency,"[]",p15,18,0.4725052631578947
-"vaal scouting report",scouting report,"[]",p15,0,2
-"replica iron commander",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,15
 "sanctified fossil",fossil,"[]",p15,0,8.6
-"unstable catalyst",currency,"[]",p15,0,3
+"chromatic orb",currency,"[]",p15,30,0.4727578947368421
+"shrieking essence of torment",essence,"[]",p15,9,3
+"black oil",oil,"[]",p15,9,7.2
+"vaal scouting report",scouting report,"[]",p15,9,2.045
+"chromatic orb",currency,"[]",p15,9,0.4727578947368421
+"vaal scouting report",scouting report,"[]",p15,18,2.675
+"chromatic orb",currency,"[]",p15,18,0.4727578947368421
+"vaal scouting report",scouting report,"[]",p15,0,2
+"assassin's favour",card,"[]",p15,0,1
 "metallic fossil",fossil,"[]",p15,30,2
 "pyre",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,8.1
-"mark of the red covenant",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
-"oro's sacrifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
-"kaltenhalt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"assassin's favour",card,"[]",p15,0,1
 "the screaming eagle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"screaming essence of doubt",essence,"[]",p15,18,0.6749999999999999
-"screaming essence of doubt",essence,"[]",p15,0,0.8499999999999999
-"sidhebreath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"verdant oil",oil,"[]",p15,0,0.7466666666666666
-"brush, paint and palette",card,"[]",p15,0,6.8
-"heatshiver",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,5.2
-"screaming essence of doubt",essence,"[]",p15,9,0.7333333333333333
-"gilded metamorph scarab",scarab,"[]",p15,0,3.6
-"screaming essence of doubt",essence,"[]",p15,30,0.6749999999999999
-"al dhih",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.5
-"tainted blacksmith's whetstone",currency,"[]",p15,30,0.2470238095238095
-"wild crystallised lifeforce",currency,"[]",p15,1000,0.03229999892039642
+"oro's sacrifice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
+"unstable catalyst",currency,"[]",p15,0,3
+"mark of the red covenant",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
+"wild crystallised lifeforce",currency,"[]",p15,1000,0.03256698821007502
 "lesser eldritch ember",currency,"[]",p15,18,2.88375
-"daresso's defiance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.2
-"onslaught support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""0""}]",p15,0,1
-"amorphous delirium orb",delirium orb,"[]",p15,0,8
-"minions deal 10% increased damage large cluster jewel",cluster,"[{""key"":""ilvl"",""value"":83},{""key"":""passives"",""value"":12}]",p15,0,31.875
-"awakened sextant",currency,"[]",p15,50,1.32
+"gilded metamorph scarab",scarab,"[]",p15,0,3.6
 "lesser eldritch ember",currency,"[]",p15,9,2.88375
+"screaming essence of doubt",essence,"[]",p15,18,0.6749999999999999
 "lesser eldritch ember",currency,"[]",p15,30,2.88
-"valyrium",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.2
 "lesser eldritch ember",currency,"[]",p15,0,2.8875
+"screaming essence of doubt",essence,"[]",p15,0,0.8499999999999999
+"verdant oil",oil,"[]",p15,0,0.7666666666666666
 "lesser eldritch ember",currency,"[]",p15,50,2.8675
-"shrieking essence of suffering",essence,"[]",p15,50,1.7
-"shrieking essence of suffering",essence,"[]",p15,30,2
-"dense fossil",fossil,"[]",p15,30,4
-"awakened sextant",currency,"[]",p15,0,1.38
 "orb of alteration",currency,"[]",p15,30,0.165563495149826
-"cinderswallow urn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
-"awakened sextant",currency,"[]",p15,30,1.335
-"the wasp nest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"awakened sextant",currency,"[]",p15,100,1.305
 "orb of alteration",currency,"[]",p15,0,0.165563495149826
 "orb of alteration",currency,"[]",p15,18,0.165563495149826
+"orb of alteration",currency,"[]",p15,9,0.165563495149826
+"screaming essence of doubt",essence,"[]",p15,9,0.7333333333333333
+"heatshiver",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,5.2
+"wither",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,6.272
+"screaming essence of doubt",essence,"[]",p15,30,0.6749999999999999
+"al dhih",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.8
+"kaltenhalt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"sidhebreath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"daresso's defiance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.2
+"amorphous delirium orb",delirium orb,"[]",p15,0,8.75
+"dense fossil",fossil,"[]",p15,30,4
+"brush, paint and palette",card,"[]",p15,0,6.8
+"tainted blacksmith's whetstone",currency,"[]",p15,30,0.2488095238095238
+"onslaught support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""0""}]",p15,0,1
+"minions deal 10% increased damage large cluster jewel",cluster,"[{""key"":""ilvl"",""value"":83},{""key"":""passives"",""value"":12}]",p15,0,31.875
+"awakened sextant",currency,"[]",p15,50,1.32
+"cinderswallow urn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
+"the wasp nest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"shrieking essence of suffering",essence,"[]",p15,50,1.7
 "lethal pride",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,100
 "polished bestiary scarab",scarab,"[]",p15,0,3.2
-"orb of alteration",currency,"[]",p15,50,0.165563495149826
 "maligaro's restraint",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"shrieking essence of suffering",essence,"[]",p15,30,2
 "redbeak",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"orb of alteration",currency,"[]",p15,9,0.165563495149826
+"wild crystallised lifeforce",currency,"[]",p15,100,0.0327438370846731
+"awakened sextant",currency,"[]",p15,0,1.38
+"awakened sextant",currency,"[]",p15,30,1.335
+"awakened sextant",currency,"[]",p15,100,1.305
 "elegant hubris",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,12.4
-"kondo's pride",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"oskarm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.5
-"shrieking essence of anguish",essence,"[]",p15,9,2
-"wither",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,6.272
-"wild crystallised lifeforce",currency,"[]",p15,100,0.03317394742669778
 "fertile catalyst",currency,"[]",p15,0,10
 "awakened sextant",currency,"[]",p15,18,1.35
 "sacrifice at dawn",fragment,"[]",p15,0,0.3833333333333334
 "awakened sextant",currency,"[]",p15,9,1.35
-"wild crystallised lifeforce",currency,"[]",p15,0,0.03361092167984846
-"wild crystallised lifeforce",currency,"[]",p15,18,0.03317394742669778
-"goblinedge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"rat's nest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"vaal orb",currency,"[]",p15,100,0.6099497126436781
-"vaal orb",currency,"[]",p15,9,0.6798850574712644
-"shrieking essence of anguish",essence,"[]",p15,0,1.983333333333333
-"wild crystallised lifeforce",currency,"[]",p15,9,0.03317394742669778
+"wild crystallised lifeforce",currency,"[]",p15,0,0.03292068595927117
+"oskarm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.5
+"wild crystallised lifeforce",currency,"[]",p15,18,0.0327438370846731
+"wild crystallised lifeforce",currency,"[]",p15,9,0.0327438370846731
 "thief's torment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
+"fracturing shard",currency,"[]",p15,0,57.81875
+"kondo's pride",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"vaal orb",currency,"[]",p15,100,0.6099497126436781
+"rat's nest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"shrieking essence of anguish",essence,"[]",p15,50,2
+"vaal orb",currency,"[]",p15,9,0.6798850574712644
+"shrieking essence of anguish",essence,"[]",p15,9,2
+"shuddering fossil",fossil,"[]",p15,0,7.6
 "lion's roar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"polished ambush scarab",scarab,"[]",p15,0,3.54
+"polished ambush scarab",scarab,"[]",p15,0,3.675
 "rusted torment scarab",scarab,"[]",p15,9,0.9388888888888889
-"tainted blacksmith's whetstone",currency,"[]",p15,50,0.2452380952380953
 "orb of fusing",currency,"[]",p15,50,0.6665889953075785
-"algor mortis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,9
+"ahn's might",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.6
+"algor mortis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,9.3
+"goblinedge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"obscurantis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.1
 "orb of fusing",currency,"[]",p15,18,0.6665889953075785
 "12% increased trap damageadded small passive skills grant: 12% increased mine damage medium cluster jewel",cluster,"[{""key"":""ilvl"",""value"":83},{""key"":""passives"",""value"":5}]",p15,0,17
 "orb of fusing",currency,"[]",p15,0,0.6666666666666666
-"innsbury edge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"fracturing shard",currency,"[]",p15,0,57.81875
-"bound fossil",fossil,"[]",p15,0,4.625
-"shrieking essence of anger",essence,"[]",p15,18,2.733333333333333
-"shrieking essence of anguish",essence,"[]",p15,50,1.88
-"shuddering fossil",fossil,"[]",p15,0,7
-"ahn's might",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.6
-"turbulent catalyst",currency,"[]",p15,18,0.9
-"obscurantis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
 "fencoil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"rusted shaper scarab",scarab,"[]",p15,30,0.9555555555555555
-"death's oath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7.5
-"summon raging spirit",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""1-18""}]",p15,0,3.8
+"innsbury edge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"bound fossil",fossil,"[]",p15,0,4.625
+"shrieking essence of anguish",essence,"[]",p15,0,2
+"tainted blacksmith's whetstone",currency,"[]",p15,50,0.2470238095238095
 "screaming essence of fear",essence,"[]",p15,9,1.469444444444444
 "deafening essence of scorn",essence,"[]",p15,0,3.05
-"hyrri's truth",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.65
+"hyrri's truth",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.8
 "deafening essence of misery",essence,"[]",p15,0,6.975
 "gift to the goddess",fragment,"[]",p15,0,222
-"simulacrum splinter",fragment,"[]",p15,50,0.2
-"regal orb",currency,"[]",p15,9,1
-"regal orb",currency,"[]",p15,0,1
-"nomic's storm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"potent chaotic resonator",resonator,"[]",p15,0,1.1
-"tainted blacksmith's whetstone",currency,"[]",p15,9,0.2625
-"the druggery",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"tainted blacksmith's whetstone",currency,"[]",p15,18,0.2625
+"turbulent catalyst",currency,"[]",p15,18,0.9008333333333334
+"rusted shaper scarab",scarab,"[]",p15,30,0.9555555555555555
+"shrieking essence of anger",essence,"[]",p15,18,2.733333333333333
 "crown of the pale king",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"orb of regret",currency,"[]",p15,0,0.8468181818181818
 "intrinsic catalyst",currency,"[]",p15,100,1.46
 "shadows and dust",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,20.5
+"summon raging spirit",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""1-18""}]",p15,0,3.8
 "soul tether",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7.05
+"simulacrum splinter",fragment,"[]",p15,50,0.2
 "gilded bestiary scarab",scarab,"[]",p15,0,3.2
-"simulacrum splinter",fragment,"[]",p15,0,0.2066666666666667
-"simulacrum splinter",fragment,"[]",p15,30,0.2
-"kongor's undying rage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
-"opalescent oil",oil,"[]",p15,0,15
-"circle of fear",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,13.6
-"shrieking essence of doubt",essence,"[]",p15,0,1.91
-"aurumvorax",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"shrieking essence of doubt",essence,"[]",p15,9,1.85
-"seething fury",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,63.75
-"orb of regret",currency,"[]",p15,30,0.8590909090909091
+"death's oath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7.5
+"potent chaotic resonator",resonator,"[]",p15,0,1.1
+"the druggery",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"simulacrum splinter",fragment,"[]",p15,0,0.2266666666666667
+"orb of regret",currency,"[]",p15,0,0.8713636363636363
+"orb of regret",currency,"[]",p15,30,1
 "screaming invitation",invitation,"[]",p15,0,118
 "solaris lorica",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.375
-"abrasive catalyst",currency,"[]",p15,30,0.89
-"vivid crystallised lifeforce",currency,"[]",p15,18,0.04292557111274871
-"shrieking essence of suffering",essence,"[]",p15,0,2
-"orb of regret",currency,"[]",p15,9,0.8590909090909091
-"primal crystallised lifeforce",currency,"[]",p15,0,0.03878796186057276
+"abrasive catalyst",currency,"[]",p15,30,0.9
+"simulacrum splinter",fragment,"[]",p15,30,0.2
+"primal crystallised lifeforce",currency,"[]",p15,0,0.03914330107209428
+"regal orb",currency,"[]",p15,9,1
 "gilded legion scarab",scarab,"[]",p15,0,4
-"abrasive catalyst",currency,"[]",p15,18,0.89
-"primal crystallised lifeforce",currency,"[]",p15,30,0.03818646232439336
-"shrieking essence of suffering",essence,"[]",p15,9,2
+"abrasive catalyst",currency,"[]",p15,18,0.9
+"primal crystallised lifeforce",currency,"[]",p15,30,0.03878796186057276
 "slivertongue",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
-"tabula rasa",unique,"[{""key"":""sixLink"",""value"":true},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,26
 "shrieking essence of wrath",essence,"[]",p15,18,2.45
+"regal orb",currency,"[]",p15,0,1
 "shaper's seed",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.25
-"divergent berserk",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,41.3
+"divergent berserk",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,43.4
 "deafening essence of zeal",essence,"[]",p15,0,6.375
-"vivid crystallised lifeforce",currency,"[]",p15,0,0.04292557111274871
+"kongor's undying rage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"vivid crystallised lifeforce",currency,"[]",p15,0,0.04189830508474576
 "shrieking essence of misery",essence,"[]",p15,9,4
-"ungil's gauche",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"nomic's storm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "shrieking essence of misery",essence,"[]",p15,0,4
-"eternal bonds",card,"[]",p15,0,30
+"opalescent oil",oil,"[]",p15,0,15
+"tainted blacksmith's whetstone",currency,"[]",p15,9,0.3
+"circle of fear",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,13.6
+"tainted blacksmith's whetstone",currency,"[]",p15,18,0.3
+"shrieking essence of suffering",essence,"[]",p15,0,2
+"orb of regret",currency,"[]",p15,9,1
+"shrieking essence of doubt",essence,"[]",p15,0,1.97
+"shrieking essence of suffering",essence,"[]",p15,9,2
+"aurumvorax",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"shrieking essence of doubt",essence,"[]",p15,9,1.91
+"seething fury",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,63.75
+"vivid crystallised lifeforce",currency,"[]",p15,18,0.04189830508474576
+"tabula rasa",unique,"[{""key"":""sixLink"",""value"":true},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,26
+"ungil's gauche",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "piscator's vigil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"explorer's scouting report",scouting report,"[]",p15,0,2
-"rusted sulphite scarab",scarab,"[]",p15,0,1
+"eternal bonds",card,"[]",p15,0,30
 "tabula rasa",unique,"[{""key"":""sixLink"",""value"":true},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,25
 "shrieking essence of loathing",essence,"[]",p15,9,3.45
 "goldrim",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10
-"rise of the phoenix",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"rise of the phoenix",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.05
+"explorer's scouting report",scouting report,"[]",p15,0,1.94
+"rusted sulphite scarab",scarab,"[]",p15,0,1
+"crown of the inward eye",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,16.25
+"cane of unravelling",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.1
+"the restless ward",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.4
 "screaming essence of anguish",essence,"[]",p15,18,1
-"shrieking essence of envy",essence,"[]",p15,9,6.9
-"crown of the inward eye",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,16
 "vaal righteous fire",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""vaal righteous fire""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,1
 "shrieking essence of woe",essence,"[]",p15,0,3
-"ventor's gamble",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,6.999999999999998
-"cane of unravelling",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.1
-"primal crystallised lifeforce",currency,"[]",p15,9,0.03843262264905124
-"primal crystallised lifeforce",currency,"[]",p15,18,0.03818646232439336
-"primal crystallised lifeforce",currency,"[]",p15,500,0.0379948914431673
-"surveyor's compass",currency,"[]",p15,0,3.6
-"azure oil",oil,"[]",p15,30,0.775
-"the restless ward",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.05
-"shrieking essence of scorn",essence,"[]",p15,0,2
-"jorrhast's blacksteel",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.8
-"wideswing",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"ventor's gamble",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.533333333333333
+"primal crystallised lifeforce",currency,"[]",p15,9,0.03914330107209428
+"primal crystallised lifeforce",currency,"[]",p15,18,0.03878796186057276
+"shrieking essence of envy",essence,"[]",p15,9,8
 "enkindling orb",currency,"[]",p15,30,0.5
+"azure oil",oil,"[]",p15,30,0.79
+"surveyor's compass",currency,"[]",p15,0,3.6
+"primal crystallised lifeforce",currency,"[]",p15,500,0.03818646232439336
 "shrieking essence of spite",essence,"[]",p15,0,3
+"shrieking essence of scorn",essence,"[]",p15,0,2
 "bloodbond",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.05
-"ashrend",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"shrieking essence of anger",essence,"[]",p15,0,2.519444444444444
 "death's hand",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"shrieking essence of wrath",essence,"[]",p15,0,2.75
 "ngamahu's flame",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.4
-"shrieking essence of suffering",essence,"[]",p15,18,2
+"jorrhast's blacksteel",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"wideswing",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "the bringer of rain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"the ascetic",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
+"polished breach scarab",scarab,"[]",p15,9,1.96
+"cold iron point",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,9.6
+"screaming essence of woe",essence,"[]",p15,18,1.5
+"ashrend",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"shrieking essence of dread",essence,"[]",p15,0,6
+"screaming essence of woe",essence,"[]",p15,9,1.225
+"shrieking essence of anger",essence,"[]",p15,0,2.519444444444444
+"screaming essence of woe",essence,"[]",p15,0,1.75
+"shrieking essence of suffering",essence,"[]",p15,18,2
+"shrieking essence of anguish",essence,"[]",p15,30,1.911111111111111
+"bubonic trail",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"shrieking essence of dread",essence,"[]",p15,9,7
+"shrieking essence of greed",essence,"[]",p15,0,5
+"heartbound loop",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.35
+"shrieking essence of wrath",essence,"[]",p15,0,2.75
+"shrieking essence of greed",essence,"[]",p15,9,5
 "orb of alteration",currency,"[]",p15,500,0.1665505433491045
-"orb of scouring",currency,"[]",p15,9,0.5843137254901961
+"screaming essence of contempt",essence,"[]",p15,9,1.3
 "the stormheart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "screaming essence of scorn",essence,"[]",p15,0,1
-"the ascetic",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
-"heartbound loop",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.35
-"polished breach scarab",scarab,"[]",p15,9,1.945
-"orb of scouring",currency,"[]",p15,0,0.5843137254901961
-"enkindling orb",currency,"[]",p15,100,0.5
-"shrieking essence of wrath",essence,"[]",p15,9,2.675
-"warlord's mark",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,4.6
-"shrieking essence of doubt",essence,"[]",p15,30,1.605
-"cold iron point",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,9.3
-"rusted torment scarab",scarab,"[]",p15,0,1
-"enkindling orb",currency,"[]",p15,9,0.5
-"orb of scouring",currency,"[]",p15,18,0.5843137254901961
-"ancient orb",currency,"[]",p15,9,9.6
-"ancient orb",currency,"[]",p15,0,10
-"screaming essence of woe",essence,"[]",p15,18,1.5
-"vivid crystallised lifeforce",currency,"[]",p15,100,0.04263518966908797
-"vivid crystallised lifeforce",currency,"[]",p15,500,0.04635714285714286
-"shrieking essence of sorrow",essence,"[]",p15,0,2.9
-"glassblower's bauble",currency,"[]",p15,18,0.6951923076923077
-"shrieking essence of sorrow",essence,"[]",p15,9,3
-"aberrant fossil",fossil,"[]",p15,9,3
-"vivid crystallised lifeforce",currency,"[]",p15,9,0.04292557111274871
-"shrieking essence of anger",essence,"[]",p15,9,2.45
-"shrieking essence of dread",essence,"[]",p15,0,6.35
-"screaming essence of woe",essence,"[]",p15,9,1.225
-"wurm's molt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"glassblower's bauble",currency,"[]",p15,0,0.7038461538461538
-"screaming essence of woe",essence,"[]",p15,0,1.75
-"shrieking essence of anguish",essence,"[]",p15,30,1.894444444444445
-"bubonic trail",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"shrieking essence of fear",essence,"[]",p15,18,2.911111111111111
-"shrieking essence of dread",essence,"[]",p15,9,6.825
-"shrieking essence of fear",essence,"[]",p15,0,2.944444444444445
-"divine orb",currency,"[]",p15,0,222
-"shrieking essence of greed",essence,"[]",p15,0,5
-"vaal orb",currency,"[]",p15,50,0.6798850574712644
-"shrieking essence of hatred",essence,"[]",p15,0,2.177777777777778
-"orb of unmaking",currency,"[]",p15,100,1.346666666666666
-"tainted chromatic orb",currency,"[]",p15,0,8.95
-"lavianga's wisdom",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"shrieking essence of fear",essence,"[]",p15,9,2.927777777777778
-"remnant of corruption",essence,"[]",p15,0,1
-"shrieking essence of greed",essence,"[]",p15,9,5
-"screaming essence of contempt",essence,"[]",p15,9,1.3
-"glassblower's bauble",currency,"[]",p15,30,0.7375
-"instilling orb",currency,"[]",p15,9,0.8
-"orb of unmaking",currency,"[]",p15,9,1.366666666666666
-"sacred orb",currency,"[]",p15,0,31.45
-"orb of unmaking",currency,"[]",p15,50,1.346666666666666
 "shrieking essence of woe",essence,"[]",p15,18,3
 "screaming essence of torment",essence,"[]",p15,9,1
 "screaming essence of contempt",essence,"[]",p15,30,1.225
-"orb of unmaking",currency,"[]",p15,30,1.366666666666666
-"orb of fusing",currency,"[]",p15,30,0.6665889953075785
-"essence of insanity",essence,"[]",p15,0,32.6
-"orb of unmaking",currency,"[]",p15,0,1.321666666666667
-"shrieking essence of misery",essence,"[]",p15,30,2.725
+"essence of insanity",essence,"[]",p15,0,33.05
+"shrieking essence of wrath",essence,"[]",p15,9,2.675
 "screaming essence of contempt",essence,"[]",p15,0,1.375
+"orb of scouring",currency,"[]",p15,0,0.5850490196078432
 "screaming essence of contempt",essence,"[]",p15,18,1.225
-"shrieking essence of envy",essence,"[]",p15,0,7.2
 "shrieking essence of woe",essence,"[]",p15,30,3
+"enkindling orb",currency,"[]",p15,100,0.5
 "screaming essence of hatred",essence,"[]",p15,0,1.375
-"orb of unmaking",currency,"[]",p15,18,1.366666666666666
 "brute force solution",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,2.6
 "screaming essence of hatred",essence,"[]",p15,9,1.225
-"tear of purity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.2
-"wild crystallised lifeforce",currency,"[]",p15,50,0.03317394742669778
-"intrinsic catalyst",currency,"[]",p15,9,1.558333333333333
-"stacked deck",currency,"[]",p15,0,2.006363636363636
-"shrieking essence of torment",essence,"[]",p15,0,2.9
+"warlord's mark",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,4.6
+"wild crystallised lifeforce",currency,"[]",p15,50,0.0327438370846731
+"intrinsic catalyst",currency,"[]",p15,9,1.583333333333333
+"shrieking essence of doubt",essence,"[]",p15,30,2
+"enkindling orb",currency,"[]",p15,9,0.5
+"shrieking essence of torment",essence,"[]",p15,0,3
+"orb of scouring",currency,"[]",p15,18,0.5850490196078432
 "heatshiver",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.55
+"ancient orb",currency,"[]",p15,9,9.375
 "careful planning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,4.5
 "wanderlust",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
-"shrieking essence of spite",essence,"[]",p15,9,3
-"intrinsic catalyst",currency,"[]",p15,0,1.558333333333333
-"shrieking essence of zeal",essence,"[]",p15,0,4
+"ancient orb",currency,"[]",p15,0,9.825
+"intrinsic catalyst",currency,"[]",p15,0,1.583333333333333
 "intrinsic catalyst",currency,"[]",p15,30,1.508333333333333
-"portal",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,3.5
+"portal",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,3.8
 "screaming essence of fear",essence,"[]",p15,0,1.399999999999999
-"shrieking essence of spite",essence,"[]",p15,18,3
+"rusted torment scarab",scarab,"[]",p15,0,1
 "shrieking essence of torment",essence,"[]",p15,18,3
 "brutus' lead sprinkler",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,15
-"tainted blacksmith's whetstone",currency,"[]",p15,0,0.2791666666666667
+"shrieking essence of hatred",essence,"[]",p15,9,2.894444444444444
+"divine orb",currency,"[]",p15,0,222
+"shrieking essence of sorrow",essence,"[]",p15,0,2.9
+"vivid crystallised lifeforce",currency,"[]",p15,100,0.0411864406779661
+"vivid crystallised lifeforce",currency,"[]",p15,500,0.04121739130434783
+"vivid crystallised lifeforce",currency,"[]",p15,9,0.04189830508474576
+"shrieking essence of anger",essence,"[]",p15,9,2.45
+"glassblower's bauble",currency,"[]",p15,18,0.7038461538461538
+"vaal orb",currency,"[]",p15,50,0.6798850574712644
+"shrieking essence of sorrow",essence,"[]",p15,9,3
+"aberrant fossil",fossil,"[]",p15,9,3
+"shrieking essence of misery",essence,"[]",p15,30,2.725
+"shrieking essence of hatred",essence,"[]",p15,0,2.311111111111111
+"orb of unmaking",currency,"[]",p15,100,1.356666666666666
+"instilling orb",currency,"[]",p15,9,0.8
+"wurm's molt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"glassblower's bauble",currency,"[]",p15,0,0.7125
+"shrieking essence of envy",essence,"[]",p15,0,7.5
+"orb of unmaking",currency,"[]",p15,9,1.376666666666666
+"sacred orb",currency,"[]",p15,0,34.15
+"orb of unmaking",currency,"[]",p15,50,1.356666666666666
+"orb of unmaking",currency,"[]",p15,30,1.376666666666666
+"orb of fusing",currency,"[]",p15,30,0.6665889953075785
+"orb of unmaking",currency,"[]",p15,0,1.326666666666666
+"orb of unmaking",currency,"[]",p15,18,1.376666666666666
+"shrieking essence of fear",essence,"[]",p15,18,2.927777777777778
+"stacked deck",currency,"[]",p15,0,2
+"shrieking essence of fear",essence,"[]",p15,0,2.961111111111111
+"tear of purity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.2
+"shrieking essence of zeal",essence,"[]",p15,0,4
+"tainted chromatic orb",currency,"[]",p15,0,8.95
+"lavianga's wisdom",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "shrieking essence of contempt",essence,"[]",p15,9,2.98
-"shrieking essence of hatred",essence,"[]",p15,9,3
+"remnant of corruption",essence,"[]",p15,0,1
+"shrieking essence of fear",essence,"[]",p15,9,2.944444444444445
 "shrieking essence of rage",essence,"[]",p15,9,2.5
-"victario's charity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
 "shrieking essence of rage",essence,"[]",p15,0,2.5
+"glassblower's bauble",currency,"[]",p15,30,0.7508720930232559
 "victario's influence",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,45.625
 "obliteration",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"jeweller's orb",currency,"[]",p15,18,0.1662371134020619
-"gilded abyss scarab",scarab,"[]",p15,0,5
-"jeweller's orb",currency,"[]",p15,9,0.1662371134020619
-"shrieking essence of rage",essence,"[]",p15,30,2.5
-"immortal flesh",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7
+"shrieking essence of spite",essence,"[]",p15,9,3
 "crown of thorns",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
 "deafening essence of fear",essence,"[]",p15,0,6
-"shrieking essence of scorn",essence,"[]",p15,9,2
-"sire of shards",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.15
-"orb of regret",currency,"[]",p15,50,0.8468181818181818
-"singularity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7.305
-"auxium",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.2
-"prismweave",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.583333333333333
-"lifesprig",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.65
-"three-step assault",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.175
-"turbulent catalyst",currency,"[]",p15,9,0.9008333333333334
+"sire of shards",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
+"shrieking essence of spite",essence,"[]",p15,18,3
+"orb of regret",currency,"[]",p15,50,0.8590909090909091
 "orb of horizons",currency,"[]",p15,30,0.8
+"tainted blacksmith's whetstone",currency,"[]",p15,0,0.2916666666666666
 "orb of horizons",currency,"[]",p15,18,0.8
 "screaming essence of greed",essence,"[]",p15,0,2.75
-"bated breath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.8
+"bated breath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
 "orb of horizons",currency,"[]",p15,0,0.8
 "orb of horizons",currency,"[]",p15,50,0.8
-"tainted jeweller's orb",currency,"[]",p15,9,1.96
-"facebreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.1
-"glassblower's bauble",currency,"[]",p15,50,0.7375
+"vivid crystallised lifeforce",currency,"[]",p15,1000,0.04069565217391304
+"vivid crystallised lifeforce",currency,"[]",p15,50,0.04154237288135593
+"deafening essence of suffering",essence,"[]",p15,0,4
+"jeweller's orb",currency,"[]",p15,18,0.1662371134020619
+"victario's charity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"immortal flesh",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,6.833333333333334
+"shrieking essence of rage",essence,"[]",p15,18,2.75
+"gilded abyss scarab",scarab,"[]",p15,0,5.045
+"shrieking essence of rage",essence,"[]",p15,30,2.5
+"singularity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7.305
+"jeweller's orb",currency,"[]",p15,9,0.1662371134020619
+"auxium",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.2
+"lifesprig",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.5
 "rusted shaper scarab",scarab,"[]",p15,0,1
-"ewar's mirage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"turbulent catalyst",currency,"[]",p15,0,0.9083333333333334
-"vivid crystallised lifeforce",currency,"[]",p15,1000,0.04635714285714286
-"vivid crystallised lifeforce",currency,"[]",p15,50,0.04345146379044684
-"shrieking essence of anguish",essence,"[]",p15,18,1.927777777777778
+"turbulent catalyst",currency,"[]",p15,9,0.9033333333333333
+"tainted jeweller's orb",currency,"[]",p15,9,2
+"shrieking essence of anguish",essence,"[]",p15,18,1.944444444444445
 "rusted shaper scarab",scarab,"[]",p15,9,0.9888888888888889
 "polished legion scarab",scarab,"[]",p15,0,2.2
-"deafening essence of suffering",essence,"[]",p15,0,4
+"shrieking essence of scorn",essence,"[]",p15,9,2
+"prismweave",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.583333333333333
+"glassblower's bauble",currency,"[]",p15,50,0.7508720930232559
+"ewar's mirage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "the tempestuous steel",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"primal crystallised lifeforce",currency,"[]",p15,50,0.03818646232439336
-"rusted breach scarab",scarab,"[]",p15,0,1.35
-"alberon's warpath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.6
-"the ignomon",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"shrieking essence of rage",essence,"[]",p15,18,2.75
-"quill rain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
+"turbulent catalyst",currency,"[]",p15,0,0.9108333333333334
+"primal crystallised lifeforce",currency,"[]",p15,50,0.03843262264905124
 "skullhead",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
+"alberon's warpath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.2
+"quill rain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
+"three-step assault",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.175
+"facebreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "mindspiral",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"gilded shaper scarab",scarab,"[]",p15,0,2.95
-"the consuming dark",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"chaos orb",currency,"[]",p15,30,1.004411764705882
-"chaos orb",currency,"[]",p15,0,1.005429864253394
-"divine vessel",fragment,"[]",p15,0,3.233333333333333
-"chaos orb",currency,"[]",p15,18,1.004411764705882
-"deafening essence of woe",essence,"[]",p15,0,7.35
-"coralito's signature",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"deafening essence of woe",essence,"[]",p15,0,7.5
+"divine vessel",fragment,"[]",p15,0,3.333333333333333
+"gilded shaper scarab",scarab,"[]",p15,0,3
 "heartbreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.8
+"coralito's signature",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "the baron",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"chaos orb",currency,"[]",p15,500,1.008075870777649
+"deafening essence of envy",essence,"[]",p15,0,10
+"deafening essence of anger",essence,"[]",p15,0,5.45
+"karui ward",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.125
+"secondary regrading lens",currency,"[]",p15,0,228.34
+"rusted breach scarab",scarab,"[]",p15,9,1.05
+"shrieking essence of misery",essence,"[]",p15,18,3.4
+"the consuming dark",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"perseverance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"skin of the lords",unique,"[{""key"":""sixLink"",""value"":true},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,36
+"chaos orb",currency,"[]",p15,30,1.005429864253394
+"devoto's devotion",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.25
+"exalted orb",currency,"[]",p15,0,32
+"chaos orb",currency,"[]",p15,0,1.006447963800905
+"demon stitcher",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.1
+"shrieking essence of contempt",essence,"[]",p15,0,3
+"vaal orb",currency,"[]",p15,500,0.8001229972135144
+"chaos orb",currency,"[]",p15,18,1.005429864253394
+"orb of annulment",currency,"[]",p15,0,11.9
+"shrieking essence of contempt",essence,"[]",p15,18,2.98
+"eternal damnation",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,344.1
+"chaos orb",currency,"[]",p15,500,1.01194149216037
 "chaos orb",currency,"[]",p15,50,1.006787330316742
-"grand spectrum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,16.25
-"rusted breach scarab",scarab,"[]",p15,9,2
+"skin of the loyal",unique,"[{""key"":""sixLink"",""value"":true},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,50
+"rusted elder scarab",scarab,"[]",p15,9,1
+"grand spectrum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,12
+"council of cats",card,"[]",p15,0,4.6
+"shrieking essence of hatred",essence,"[]",p15,18,2.8
+"glorious vanity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,46.5
+"dying breath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "general's cry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""general's cry support""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,6
 "empire's grasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.35
-"deafening essence of envy",essence,"[]",p15,0,10
-"shrieking essence of misery",essence,"[]",p15,18,3.4
-"deafening essence of anger",essence,"[]",p15,0,5.45
+"polished legion scarab",scarab,"[]",p15,9,2.75
+"deafening essence of misery",essence,"[]",p15,9,6.3
 "sin trek",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.15
-"wild crystallised lifeforce",currency,"[]",p15,500,0.0327369731735471
-"demon stitcher",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.1
+"regal orb",currency,"[]",p15,100,1.15
+"wild crystallised lifeforce",currency,"[]",p15,500,0.03256698821007502
+"string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,7.75
 "explorer's scouting report",scouting report,"[]",p15,9,1.81
 "the primordial chain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"silver oil",oil,"[]",p15,0,39.5
-"wild crystallised lifeforce",currency,"[]",p15,30,0.03317394742669778
-"karui ward",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.05
-"vaal orb",currency,"[]",p15,500,0.8001229972135144
+"goldwyrm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.95
+"soul mantle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.35
+"impresence",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,41.25
+"silver oil",oil,"[]",p15,0,41
+"wild crystallised lifeforce",currency,"[]",p15,30,0.0327438370846731
 "ming's heart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,8.95
-"skin of the loyal",unique,"[{""key"":""sixLink"",""value"":true},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,50
 "screaming essence of fear",essence,"[]",p15,18,1.469444444444444
 "screaming essence of fear",essence,"[]",p15,30,1.469444444444444
-"secondary regrading lens",currency,"[]",p15,0,228.34
-"rusted elder scarab",scarab,"[]",p15,9,1
-"shrieking essence of hatred",essence,"[]",p15,18,2.955555555555556
-"dying breath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"geofri's crest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
-"polished legion scarab",scarab,"[]",p15,9,2.75
-"perseverance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "efficient training",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"skin of the lords",unique,"[{""key"":""sixLink"",""value"":true},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,36
-"malachai's loop",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.5
-"devoto's devotion",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.175
 "lioneye's remorse",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10
-"darkness enthroned",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7.6
-"forbidden taste",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.95
-"exalted orb",currency,"[]",p15,0,32
-"rusted elder scarab",scarab,"[]",p15,0,1
-"essence of delirium",essence,"[]",p15,0,32.675
-"night's hold",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"shrieking essence of contempt",essence,"[]",p15,0,3
-"orb of annulment",currency,"[]",p15,0,11.825
-"shrieking essence of contempt",essence,"[]",p15,18,2.98
-"ambu's charge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.8
-"stacked deck",currency,"[]",p15,9,2
-"chromatic orb",currency,"[]",p15,50,0.4725052631578947
-"eternal damnation",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,333
-"orb of annulment",currency,"[]",p15,9,11.525
-"screaming essence of sorrow",essence,"[]",p15,0,1.875
-"chromatic orb",currency,"[]",p15,0,0.4727578947368421
-"council of cats",card,"[]",p15,0,4.6
-"the jinxed juju",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,20.35
-"glorious vanity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,46.5
-"enkindling orb",currency,"[]",p15,0,0.5
-"deafening essence of misery",essence,"[]",p15,9,6.45
-"regal orb",currency,"[]",p15,100,1.15
-"chaos orb",currency,"[]",p15,9,1.005429864253394
-"doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,6
-"string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,9.5
-"goldwyrm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.95
-"rusted blight scarab",scarab,"[]",p15,0,2
-"noxious catalyst",currency,"[]",p15,0,1
-"diviner's delirium orb",delirium orb,"[]",p15,0,9.5
-"paradoxica",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,40
-"rusted blight scarab",scarab,"[]",p15,18,2
-"soul mantle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.35
-"tribute to the goddess",fragment,"[]",p15,0,8.35
-"screaming essence of wrath",essence,"[]",p15,0,1
-"rusted blight scarab",scarab,"[]",p15,9,2
-"voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"rogue's marker",currency,"[]",p15,10000,0.002237194578358068
-"bisco's collar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.95
-"impresence",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,41.25
+"darkness enthroned",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7.466666666666667
 "elevore",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "the wise oak",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.4
-"rogue's marker",currency,"[]",p15,30,0.002245514931927975
-"rogue's marker",currency,"[]",p15,0,0.002245514931927975
-"trolltimber spire",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"rusted blight scarab",scarab,"[]",p15,30,2
-"rogue's marker",currency,"[]",p15,100,0.002225549752180186
-"rogue's marker",currency,"[]",p15,9,0.002245514931927975
-"glassblower's bauble",currency,"[]",p15,100,0.71875
-"shrieking essence of doubt",essence,"[]",p15,50,1.72
-"metallic fossil",fossil,"[]",p15,9,2
-"shrieking essence of woe",essence,"[]",p15,9,3
-"shrieking essence of dread",essence,"[]",p15,18,7
-"obliteration",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,5
-"accelerating catalyst",currency,"[]",p15,0,2.975
-"greater eldritch ember",currency,"[]",p15,18,3.9
+"ambu's charge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.95
+"forbidden taste",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.95
+"rusted elder scarab",scarab,"[]",p15,0,1
+"essence of delirium",essence,"[]",p15,0,30.375
+"geofri's crest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
+"malachai's loop",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.5
+"chaos orb",currency,"[]",p15,9,1.006447963800905
+"night's hold",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"stacked deck",currency,"[]",p15,9,1.991379310344828
+"chromatic orb",currency,"[]",p15,50,0.4727578947368421
+"orb of annulment",currency,"[]",p15,9,11.6
+"tribute to the goddess",fragment,"[]",p15,0,8.35
+"screaming essence of sorrow",essence,"[]",p15,0,1.875
+"rusted blight scarab",scarab,"[]",p15,9,2
+"voidbringer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"bisco's collar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,6.4
+"chromatic orb",currency,"[]",p15,0,0.4730105263157895
 "dendrobate",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.35
-"orb of transmutation",currency,"[]",p15,9,0.03011098779134295
-"determination",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""typeLine"",""value"":""determination""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,5
-"imbued catalyst",currency,"[]",p15,0,0.9333333333333333
+"the jinxed juju",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,20.35
+"doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.8
+"rusted blight scarab",scarab,"[]",p15,0,2
+"noxious catalyst",currency,"[]",p15,0,1
+"ghostwrithe",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"diviner's delirium orb",delirium orb,"[]",p15,0,9.5
+"circle of guilt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,19.8
+"orb of horizons",currency,"[]",p15,9,0.8
+"pristine fossil",fossil,"[]",p15,0,3
+"paradoxica",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,40
+"enkindling orb",currency,"[]",p15,0,0.5
+"reckless defence",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"metallic fossil",fossil,"[]",p15,9,2
+"screaming essence of wrath",essence,"[]",p15,0,1
+"carnage heart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"shrieking essence of woe",essence,"[]",p15,9,3
+"screaming essence of anguish",essence,"[]",p15,9,0.9555555555555555
+"shrieking essence of dread",essence,"[]",p15,18,7
+"shrieking essence of scorn",essence,"[]",p15,30,1.875
+"obliteration",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,5
+"rogue's marker",currency,"[]",p15,10000,0.002237194578358068
+"accelerating catalyst",currency,"[]",p15,0,2.975
+"screaming essence of anguish",essence,"[]",p15,0,1
+"the rat cage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
+"trolltimber spire",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"rogue's marker",currency,"[]",p15,0,0.002255497521801869
+"imbued catalyst",currency,"[]",p15,0,0.9458333333333334
 "blessed orb",currency,"[]",p15,100,0.4
-"greater eldritch ember",currency,"[]",p15,9,3.9
+"orb of chance",currency,"[]",p15,100,0.1412474849094567
 "dense fossil",fossil,"[]",p15,9,4
 "screaming essence of torment",essence,"[]",p15,0,1
 "blessed orb",currency,"[]",p15,9,0.4
-"ghostwrithe",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"circle of guilt",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,19.8
-"orb of transmutation",currency,"[]",p15,500,0.03011098779134295
-"orb of horizons",currency,"[]",p15,9,0.8
 "verdant oil",oil,"[]",p15,9,0.6799999999999999
-"verdant oil",oil,"[]",p15,100,0.62
+"verdant oil",oil,"[]",p15,100,0.6499999999999999
 "verdant oil",oil,"[]",p15,30,0.6799999999999999
-"greater eldritch ember",currency,"[]",p15,0,3.9
-"remnant of corruption",essence,"[]",p15,50,1.3
-"greater eldritch ember",currency,"[]",p15,30,3.9
-"azure oil",oil,"[]",p15,0,0.8400000000000001
-"imbued catalyst",currency,"[]",p15,9,0.915
+"imbued catalyst",currency,"[]",p15,9,0.9208333333333334
 "blessed orb",currency,"[]",p15,30,0.4
-"pristine fossil",fossil,"[]",p15,0,3
-"turbulent catalyst",currency,"[]",p15,30,0.9
-"azure oil",oil,"[]",p15,9,0.775
 "blessed orb",currency,"[]",p15,18,0.4
-"powerful chaotic resonator",resonator,"[]",p15,9,1
-"orb of transmutation",currency,"[]",p15,0,0.03011098779134295
+"rogue's marker",currency,"[]",p15,100,0.002225549752180186
+"rusted blight scarab",scarab,"[]",p15,30,2
+"rogue's marker",currency,"[]",p15,9,0.002255497521801869
+"prime chaotic resonator",resonator,"[]",p15,0,46.8
+"maloney's nightfall",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "leer cast",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
-"eye of malice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.399999999999999
-"tainted mythic orb",currency,"[]",p15,0,64.9
-"remnant of corruption",essence,"[]",p15,18,1.3
-"reckless defence",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"orb of augmentation",currency,"[]",p15,0,0.05179880079946702
-"carnage heart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"shrieking essence of loathing",essence,"[]",p15,0,4
-"screaming essence of anguish",essence,"[]",p15,9,0.9555555555555555
+"winterheart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"tainted mythic orb",currency,"[]",p15,0,67.7
 "militant faith",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,80.5
-"offering to the goddess",fragment,"[]",p15,18,2.85
+"glassblower's bauble",currency,"[]",p15,100,0.7375
+"shrieking essence of doubt",essence,"[]",p15,50,1.72
+"greater eldritch ember",currency,"[]",p15,18,3.9
+"soul's wick",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1.5
+"orb of transmutation",currency,"[]",p15,9,0.03011098779134295
+"frost bomb",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""divergent frost bomb""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,19.6
+"determination",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""typeLine"",""value"":""determination""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,5
+"offering to the goddess",fragment,"[]",p15,18,3.9
 "saffell's frame",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,79.5
-"shrieking essence of scorn",essence,"[]",p15,30,1.8
-"deafening essence of dread",essence,"[]",p15,0,7
-"screaming essence of anguish",essence,"[]",p15,0,1
-"offering to the goddess",fragment,"[]",p15,0,3
-"offering to the goddess",fragment,"[]",p15,9,2.85
+"warped timepiece",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"offering to the goddess",fragment,"[]",p15,0,3.65
+"gluttony",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"offering to the goddess",fragment,"[]",p15,9,3.9
+"lucent fossil",fossil,"[]",p15,0,2
+"serrated fossil",fossil,"[]",p15,0,3
 "lioneye's paws",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"memory vault",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.8775
-"verdant oil",oil,"[]",p15,50,0.6499999999999999
-"the rat cage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
-"explorer's scouting report",scouting report,"[]",p15,30,1.675
-"pyroshock clasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"greater eldritch ember",currency,"[]",p15,9,3.9
+"orb of transmutation",currency,"[]",p15,500,0.03011098779134295
+"remnant of corruption",essence,"[]",p15,50,1.3
+"greater eldritch ember",currency,"[]",p15,0,3.9
+"greater eldritch ember",currency,"[]",p15,30,3.9
+"turbulent catalyst",currency,"[]",p15,30,0.9008333333333334
+"azure oil",oil,"[]",p15,0,0.87
+"azure oil",oil,"[]",p15,9,0.79
+"abrasive catalyst",currency,"[]",p15,9,0.9258333333333334
+"powerful chaotic resonator",resonator,"[]",p15,9,1
 "explorer's scouting report",scouting report,"[]",p15,18,1.675
 "willclash",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "mercenary's lot",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
-"orb of chance",currency,"[]",p15,100,0.1412474849094567
-"prime chaotic resonator",resonator,"[]",p15,0,46.8
-"maloney's nightfall",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"siegebreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.5
+"chaos orb",currency,"[]",p15,1000,1.006787330316742
+"midnight bargain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"ascent from flesh",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"pristine fossil",fossil,"[]",p15,9,4
+"shrieking essence of hatred",essence,"[]",p15,30,2.666666666666667
+"orb of transmutation",currency,"[]",p15,0,0.03011098779134295
+"eye of malice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.399999999999999
+"pyroshock clasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"remnant of corruption",essence,"[]",p15,18,1.3
+"orb of augmentation",currency,"[]",p15,0,0.05179880079946702
+"shrieking essence of loathing",essence,"[]",p15,0,4
+"deafening essence of dread",essence,"[]",p15,0,7
+"memory vault",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.8775
+"veiled chaos orb",currency,"[]",p15,0,14.95
+"scorched fossil",fossil,"[]",p15,0,1
+"shrieking essence of scorn",essence,"[]",p15,18,1.95
+"screaming essence of anger",essence,"[]",p15,0,1.8
+"verdant oil",oil,"[]",p15,50,0.6799999999999999
 "icetomb",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "eldritch exalted orb",currency,"[]",p15,0,29.5
-"ascent from flesh",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"midnight bargain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"pristine fossil",fossil,"[]",p15,9,4
-"shrieking essence of hatred",essence,"[]",p15,30,2.938888888888889
-"veiled chaos orb",currency,"[]",p15,0,14.95
-"winterheart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"scorched fossil",fossil,"[]",p15,0,1
 "belt of the deceiver",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
 "gilded elder scarab",scarab,"[]",p15,0,4
-"soul's wick",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1.35
-"frost bomb",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""divergent frost bomb""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,19.6
-"warped timepiece",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"rusted bestiary scarab",scarab,"[]",p15,9,0.9555555555555555
-"gluttony",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"lucent fossil",fossil,"[]",p15,0,2
-"polished shaper scarab",scarab,"[]",p15,9,1.725
-"screaming essence of anger",essence,"[]",p15,0,1.8
-"shrieking essence of scorn",essence,"[]",p15,18,1.875
-"noxious catalyst",currency,"[]",p15,9,1
-"polished shaper scarab",scarab,"[]",p15,0,1.95
-"serrated fossil",fossil,"[]",p15,0,3
-"screaming essence of misery",essence,"[]",p15,0,1.875
-"rusted bestiary scarab",scarab,"[]",p15,30,0.9555555555555555
-"abrasive catalyst",currency,"[]",p15,9,0.91
 "leper's alms",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"starkonja's head",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "screaming essence of suffering",essence,"[]",p15,18,0.7916666666666666
 "the hunger",card,"[]",p15,0,220.425
+"rusted bestiary scarab",scarab,"[]",p15,9,0.9555555555555555
+"polished shaper scarab",scarab,"[]",p15,9,1.8
 "southbound",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.8
+"noxious catalyst",currency,"[]",p15,9,1
+"moonsorrow",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"polished shaper scarab",scarab,"[]",p15,0,2
+"natural hierarchy",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"sacrifice at dusk",fragment,"[]",p15,0,0.3833333333333334
+"thrillsteel",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.175
+"bitterbind point",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
+"screaming essence of misery",essence,"[]",p15,0,1.875
+"screaming essence of suffering",essence,"[]",p15,0,0.8499999999999999
+"starkonja's head",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"arcanist brand",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""arcanist brand support""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,7
+"screaming essence of suffering",essence,"[]",p15,9,0.8499999999999999
 "agnerod west",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"the blood thorn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
 "frigid fossil",fossil,"[]",p15,9,1.025
 "rusted bestiary scarab",scarab,"[]",p15,0,1
-"polished blight scarab",scarab,"[]",p15,0,2.75
-"siegebreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.35
+"chernobog's pillar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.05
+"polished blight scarab",scarab,"[]",p15,0,2.9
 "rusted ambush scarab",scarab,"[]",p15,0,3.6
-"sacrifice at dusk",fragment,"[]",p15,0,0.3833333333333334
-"thrillsteel",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.025
-"spellslinger",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""spellslinger support""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,10.2
-"chaos orb",currency,"[]",p15,1000,1.006787330316742
-"screaming essence of dread",essence,"[]",p15,0,1.6
-"bitterbind point",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
-"screaming essence of wrath",essence,"[]",p15,9,1.225
-"rusted breach scarab",scarab,"[]",p15,18,1.725
-"screaming essence of suffering",essence,"[]",p15,0,0.8499999999999999
-"arcanist brand",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""arcanist brand support""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,7
-"frigid fossil",fossil,"[]",p15,0,1
-"screaming essence of suffering",essence,"[]",p15,9,0.8499999999999999
-"chernobog's pillar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"orb of alteration",currency,"[]",p15,100,0.165563495149826
-"perandus blazon",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "soulwrest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"lochtonial caress",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.65
+"screaming essence of dread",essence,"[]",p15,0,1.6
+"spellslinger",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""typeLine"",""value"":""spellslinger support""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,10.2
 "screaming essence of zeal",essence,"[]",p15,0,2
+"screaming essence of wrath",essence,"[]",p15,9,1.225
+"rusted breach scarab",scarab,"[]",p15,18,1.89
 "einhar's memory of the sacred grove",atlas memory,"[]",p15,0,179.77
 "metallic fossil",fossil,"[]",p15,0,1.2
-"rusted metamorph scarab",scarab,"[]",p15,0,0.9888888888888889
-"shadows and dust",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.25
-"blightwell",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"prismatic fossil",fossil,"[]",p15,0,3
-"moonsorrow",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"natural hierarchy",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"the blood thorn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"rusted shaper scarab",scarab,"[]",p15,50,1
-"sepia oil",oil,"[]",p15,30,0.5
-"perquil's toe",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"orb of transmutation",currency,"[]",p15,30,0.03011098779134295
-"simulacrum splinter",fragment,"[]",p15,9,0.2
-"blessed orb",currency,"[]",p15,0,0.4
+"frigid fossil",fossil,"[]",p15,0,1
+"orb of alteration",currency,"[]",p15,100,0.165563495149826
+"perandus blazon",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "zeel's amplifier",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "aberrant fossil",fossil,"[]",p15,0,3
-"rusted legion scarab",scarab,"[]",p15,18,1
+"prismatic fossil",fossil,"[]",p15,0,3
+"rusted shaper scarab",scarab,"[]",p15,50,1
+"lochtonial caress",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.65
+"sepia oil",oil,"[]",p15,30,0.5083333333333333
+"rusted metamorph scarab",scarab,"[]",p15,0,0.9888888888888889
+"perquil's toe",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"shadows and dust",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"blightwell",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"simulacrum splinter",fragment,"[]",p15,9,0.2
+"orb of transmutation",currency,"[]",p15,30,0.03011098779134295
 "clear oil",oil,"[]",p15,0,0.5
-"the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.5
+"blessed orb",currency,"[]",p15,0,0.4
 "white wind",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "screaming essence of rage",essence,"[]",p15,0,1
 "greed's embrace",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.95
+"torchoak step",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"rigwald's command",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.95
+"carnage heart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,9.375
+"turbulent catalyst",currency,"[]",p15,50,0.9
+"feastbind",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"clear oil",oil,"[]",p15,30,0.5
+"teal oil",oil,"[]",p15,50,0.97
+"maligaro's cruelty",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "eldritch orb of annulment",currency,"[]",p15,0,66
 "the golden rule",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,4.65
-"turbulent catalyst",currency,"[]",p15,50,0.9
-"clear oil",oil,"[]",p15,30,0.5
 "fragility",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"torchoak step",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"teal oil",oil,"[]",p15,50,0.97
-"rigwald's command",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.95
-"clear oil",oil,"[]",p15,9,0.5
-"doedre's scorn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "sacrifice at dawn",fragment,"[]",p15,100,1
+"doedre's scorn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "rusted abyss scarab",scarab,"[]",p15,9,1.225
-"carnage heart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,9.375
 "rusted abyss scarab",scarab,"[]",p15,0,1.375
-"chayula's pure breachstone",fragment,"[]",p15,0,186.2
+"vis mortis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"chayula's pure breachstone",fragment,"[]",p15,0,218.16
 "orb of horizons",currency,"[]",p15,100,0.725
-"indigo oil",oil,"[]",p15,9,1.708333333333333
-"chin sol",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.05
-"indigo oil",oil,"[]",p15,18,1.708333333333333
-"feastbind",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"maligaro's cruelty",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"amber oil",oil,"[]",p15,18,0.6799999999999999
-"vis mortis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.4
-"gilded breach scarab",scarab,"[]",p15,0,5
+"indigo oil",oil,"[]",p15,9,1.883333333333333
+"rusted metamorph scarab",scarab,"[]",p15,9,0.9888888888888889
+"chin sol",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"indigo oil",oil,"[]",p15,18,1.883333333333333
 "divine vessel",fragment,"[]",p15,9,3.4
-"amber oil",oil,"[]",p15,9,0.6799999999999999
-"rusted metamorph scarab",scarab,"[]",p15,9,0.9722222222222222
-"amber oil",oil,"[]",p15,50,0.6499999999999999
+"gilded breach scarab",scarab,"[]",p15,0,5
+"amber oil",oil,"[]",p15,18,0.7066666666666667
+"amber oil",oil,"[]",p15,9,0.7066666666666667
+"amber oil",oil,"[]",p15,50,0.6799999999999999
 "orb of alteration",currency,"[]",p15,1000,0.1665505433491045
+"fidelitas' spike",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "teal oil",oil,"[]",p15,18,0.97
-"fidelitas' spike",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "inertia",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "10% increased spell damage large cluster jewel",cluster,"[{""key"":""ilvl"",""value"":83},{""key"":""passives"",""value"":8}]",p15,0,10
-"sepia oil",oil,"[]",p15,0,0.5
-"rusted legion scarab",scarab,"[]",p15,0,1.2
 "prismatic catalyst",currency,"[]",p15,0,19.6
+"sepia oil",oil,"[]",p15,0,0.5083333333333333
+"rusted legion scarab",scarab,"[]",p15,0,1.2
 "wailing essence of anger",essence,"[]",p15,0,1
-"orb of chance",currency,"[]",p15,30,0.1412474849094567
-"the writhing jar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.875
-"rusted legion scarab",scarab,"[]",p15,9,1
-"polished breach scarab",scarab,"[]",p15,0,1.975
 "primitive chaotic resonator",resonator,"[]",p15,9,1.8
-"sepia oil",oil,"[]",p15,18,0.5
 "primitive chaotic resonator",resonator,"[]",p15,0,1.8
+"the writhing jar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.875
+"orb of chance",currency,"[]",p15,30,0.1412474849094567
+"remnant of corruption",essence,"[]",p15,9,1
+"rusted legion scarab",scarab,"[]",p15,9,1
+"polished breach scarab",scarab,"[]",p15,0,1.99
+"wailing essence of woe",essence,"[]",p15,0,1
+"primal crystallised lifeforce",currency,"[]",p15,100,0.03843262264905124
+"primal crystallised lifeforce",currency,"[]",p15,1000,0.03818646232439336
+"sepia oil",oil,"[]",p15,18,0.5083333333333333
+"wailing essence of sorrow",essence,"[]",p15,0,1
 "shuddering fossil",fossil,"[]",p15,9,13.35
 "fluid motion",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,5.35
-"wailing essence of rage",essence,"[]",p15,0,1
-"violet oil",oil,"[]",p15,0,2.2
-"remnant of corruption",essence,"[]",p15,9,1
-"amber oil",oil,"[]",p15,0,0.6799999999999999
-"southbound",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,8
-"gilded blight scarab",scarab,"[]",p15,0,4.9
-"teal oil",oil,"[]",p15,30,0.97
-"vaal scouting report",scouting report,"[]",p15,30,2.54
-"wailing essence of woe",essence,"[]",p15,0,1
-"primal crystallised lifeforce",currency,"[]",p15,100,0.03818646232439336
-"primal crystallised lifeforce",currency,"[]",p15,1000,0.03780332056194125
-"wailing essence of sorrow",essence,"[]",p15,0,1
+"triad grip",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.675
 "romira's banquet",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"violet oil",oil,"[]",p15,0,2.35
 "shavronne's pace",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"ephemeral edge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,15
+"ephemeral edge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,15.25
+"gilded blight scarab",scarab,"[]",p15,0,4.9
+"amber oil",oil,"[]",p15,0,0.7066666666666667
 "grip of the council",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
-"black sun crest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.85
+"southbound",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,8
+"vaal scouting report",scouting report,"[]",p15,30,2.54
 "the sorrow of the divine",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "deafening essence of spite",essence,"[]",p15,0,6
-"triad grip",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.675
-"fundamental fossil",fossil,"[]",p15,0,3
+"black sun crest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"debeon's dirge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "taproot",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "lucent fossil",fossil,"[]",p15,9,1.975
 "megalomaniac",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,16.75
 "crimson oil",oil,"[]",p15,9,3
-"icefang orbit",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.2
-"tinkerskin",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.25
-"crimson oil",oil,"[]",p15,0,3
-"debeon's dirge",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"to dust",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1.3
+"fundamental fossil",fossil,"[]",p15,0,3
 "extractor mentis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"sinvicta's mettle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"the overflowing chalice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"lucent fossil",fossil,"[]",p15,18,2
+"tinkerskin",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.699999999999999
+"icefang orbit",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.2
+"crimson oil",oil,"[]",p15,0,3
+"sinvicta's mettle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.05
+"lucent fossil",fossil,"[]",p15,18,1.9
+"to dust",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1.525
 "offering to the goddess",fragment,"[]",p15,30,4
 "prismatic eclipse",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "the blood reaper",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.05
-"deafening essence of greed",essence,"[]",p15,0,10
-"tainted jeweller's orb",currency,"[]",p15,0,2
-"sacrifice at dusk",fragment,"[]",p15,30,0.3633333333333333
-"glassblower's bauble",currency,"[]",p15,9,0.7038461538461538
 "victario's acuity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
 "deafening essence of anguish",essence,"[]",p15,0,3
+"tainted jeweller's orb",currency,"[]",p15,0,2
 "clear oil",oil,"[]",p15,100,0.5
+"sacrifice at dusk",fragment,"[]",p15,30,0.3633333333333333
+"glassblower's bauble",currency,"[]",p15,9,0.7125
 "cane of kulemak",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,33.75
-"noxious catalyst",currency,"[]",p15,50,1
-"immortal resolve",card,"[]",p15,0,6.8
-"violet oil",oil,"[]",p15,30,1.725
-"petrified blood",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,5.072
-"violet oil",oil,"[]",p15,9,1.8
-"fertile catalyst",currency,"[]",p15,9,12.25
-"le heup of all",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,10
-"frigid fossil",fossil,"[]",p15,18,1.5
-"orb of augmentation",currency,"[]",p15,30,0.05054963357761492
 "shrieking essence of sorrow",essence,"[]",p15,18,2.875
-"sepia oil",oil,"[]",p15,100,0.5
 "impossible escape",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,120.75
-"imbued catalyst",currency,"[]",p15,50,0.9075000000000001
-"the primordial chain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,13
-"imbued catalyst",currency,"[]",p15,18,0.91
-"orb of chance",currency,"[]",p15,500,0.1423541247484909
-"orb of chance",currency,"[]",p15,0,0.1412474849094567
+"noxious catalyst",currency,"[]",p15,50,1
+"the primordial chain",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,9.25
+"violet oil",oil,"[]",p15,30,1.725
 "sacrifice at dusk",fragment,"[]",p15,50,0.3633333333333333
-"rusted torment scarab",scarab,"[]",p15,18,0.9388888888888889
-"orb of chance",currency,"[]",p15,9,0.1412474849094567
-"orb of chance",currency,"[]",p15,18,0.1412474849094567
-"orb of chance",currency,"[]",p15,50,0.1412474849094567
+"violet oil",oil,"[]",p15,9,1.8
+"petrified blood",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,5.072
 "sacrifice at dusk",fragment,"[]",p15,18,0.3633333333333333
-"legacy of fury",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,99
-"eldritch chaos orb",currency,"[]",p15,0,71
-"imbued catalyst",currency,"[]",p15,30,0.9075000000000001
-"the coming calamity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.2
-"blessed orb",currency,"[]",p15,50,0.4
-"azure oil",oil,"[]",p15,50,0.76
+"azure oil",oil,"[]",p15,50,0.775
+"fertile catalyst",currency,"[]",p15,9,12.25
 "berek's pass",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
 "powerlessness",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
 "screaming essence of suffering",essence,"[]",p15,30,0.6749999999999999
-"blunderbore",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10.5
-"orb of chance",currency,"[]",p15,1000,0.1666666666666667
 "bones of ullr",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"pacifism",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
-"jagged fossil",fossil,"[]",p15,0,1.825
-"shrieking essence of fear",essence,"[]",p15,30,2.888888888888889
-"polished metamorph scarab",scarab,"[]",p15,0,2
-"teal oil",oil,"[]",p15,100,0.88
-"vivid crystallised lifeforce",currency,"[]",p15,30,0.04345146379044684
-"violet oil",oil,"[]",p15,18,1.725
-"remnant of corruption",essence,"[]",p15,30,1.3
+"shrieking essence of fear",essence,"[]",p15,30,2.894444444444444
+"le heup of all",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,10
+"frigid fossil",fossil,"[]",p15,18,1.5
 "energised armour",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,4.35
-"forbidden shako",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,38
 "crown of eyes",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,11
-"dyadian dawn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,40
-"jagged fossil",fossil,"[]",p15,18,2.725
-"powerful chaotic resonator",resonator,"[]",p15,30,1.45
+"forbidden shako",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,38
 "powerful chaotic resonator",resonator,"[]",p15,18,0.99
-"rogue's marker",currency,"[]",p15,50,0.002245514931927975
+"powerful chaotic resonator",resonator,"[]",p15,30,1.45
 "metallic fossil",fossil,"[]",p15,18,1.49
 "the highwayman",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.2
-"tainted chaos orb",currency,"[]",p15,0,37.25
+"tainted chaos orb",currency,"[]",p15,0,37.7
 "tempering catalyst",currency,"[]",p15,0,3
 "march of the legion",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "deafening essence of sorrow",essence,"[]",p15,0,6.75
-"exalted orb",currency,"[]",p15,9,33.2
+"exalted orb",currency,"[]",p15,9,35.9
+"rusted torment scarab",scarab,"[]",p15,18,0.9388888888888889
+"sepia oil",oil,"[]",p15,100,0.5
+"the overflowing chalice",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"imbued catalyst",currency,"[]",p15,50,0.91
+"imbued catalyst",currency,"[]",p15,18,0.9125000000000001
+"orb of chance",currency,"[]",p15,500,0.1423541247484909
+"orb of chance",currency,"[]",p15,0,0.1412474849094567
+"orb of chance",currency,"[]",p15,9,0.1412474849094567
+"orb of chance",currency,"[]",p15,18,0.1412474849094567
+"orb of chance",currency,"[]",p15,50,0.1412474849094567
+"legacy of fury",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,99
+"eldritch chaos orb",currency,"[]",p15,0,71
+"blunderbore",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10.5
+"polished metamorph scarab",scarab,"[]",p15,0,2
+"imbued catalyst",currency,"[]",p15,30,0.91
+"the coming calamity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.2
+"blessed orb",currency,"[]",p15,50,0.4
+"orb of chance",currency,"[]",p15,1000,0.1666666666666667
+"pacifism",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
+"jagged fossil",fossil,"[]",p15,0,1.825
+"teal oil",oil,"[]",p15,100,0.88
+"vivid crystallised lifeforce",currency,"[]",p15,30,0.04154237288135593
+"violet oil",oil,"[]",p15,18,1.725
+"dyadian dawn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,40
+"summon skitterbots",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,3.4
+"jagged fossil",fossil,"[]",p15,18,2.725
+"rogue's marker",currency,"[]",p15,50,0.002255497521801869
+"rusted legion scarab",scarab,"[]",p15,30,1
 "algor mortis",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,27.5
 "rusted cartography scarab",scarab,"[]",p15,0,0.9888888888888889
-"summon skitterbots",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,3.4
-"rusted legion scarab",scarab,"[]",p15,30,1
-"rogue's marker",currency,"[]",p15,18,0.002245514931927975
+"rogue's marker",currency,"[]",p15,18,0.002255497521801869
 "rogue's marker",currency,"[]",p15,1000,0.002215982721382289
 "voideye",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"jeweller's orb",currency,"[]",p15,30,0.1662371134020619
-"vixen's entrapment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,93.5
-"self-flagellation",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,6.642857142857142
 "cherrubim's maleficence",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"eye of chayula",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"venopuncture",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.4
-"blackheart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.75
-"lesser eldritch ichor",currency,"[]",p15,9,2
-"the patient",card,"[]",p15,0,10.4
-"blackgleam",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
 "doedre's elixir",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"eye of chayula",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"vixen's entrapment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,95
+"self-flagellation",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,6.642857142857142
+"venopuncture",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.7
+"lesser eldritch ichor",currency,"[]",p15,9,2
+"blackheart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.75
+"the patient",card,"[]",p15,0,10.4
 "ngamahu's sign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
-"lesser eldritch ichor",currency,"[]",p15,0,2
 "hrimnor's resolve",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"pristine fossil",fossil,"[]",p15,18,4
-"writhing invitation",invitation,"[]",p15,0,4.6
-"the deep one's hide",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"rusted expedition scarab",scarab,"[]",p15,18,1
-"ichimonji",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.5
-"volkuur's guidance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.15
-"noxious catalyst",currency,"[]",p15,30,1
 "twyzel",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"jeweller's orb",currency,"[]",p15,0,0.1662371134020619
-"rusted expedition scarab",scarab,"[]",p15,0,1
-"rusted expedition scarab",scarab,"[]",p15,30,1
+"blackgleam",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
+"lesser eldritch ichor",currency,"[]",p15,0,1.75
+"pristine fossil",fossil,"[]",p15,18,4
 "stone of lazhwar",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"shrieking essence of anger",essence,"[]",p15,30,2.733333333333333
-"yoke of suffering",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,21
-"indigo oil",oil,"[]",p15,50,2
 "circle of nostalgia",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,146.1
-"violet oil",oil,"[]",p15,50,1.725
-"abrasive catalyst",currency,"[]",p15,0,0.9333333333333333
+"abrasive catalyst",currency,"[]",p15,0,0.9458333333333334
 "jeweller's orb",currency,"[]",p15,500,0.182579381443299
 "jeweller's orb",currency,"[]",p15,50,0.1662371134020619
-"regal orb",currency,"[]",p15,50,1.016216216216216
+"the deep one's hide",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "teal oil",oil,"[]",p15,0,1
-"fevered mind",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,5.2
+"ichimonji",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.5
+"rusted expedition scarab",scarab,"[]",p15,18,1
 "teal oil",oil,"[]",p15,9,0.97
-"abrasive catalyst",currency,"[]",p15,50,0.89
-"essence worm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"jeweller's orb",currency,"[]",p15,1000,0.1960333333333334
-"watcher's eye",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,221
-"carcass jack",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.05
+"watcher's eye",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,221.15
+"abrasive catalyst",currency,"[]",p15,50,0.9
 "foxshade",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"rusted breach scarab",scarab,"[]",p15,30,2
-"lioneye's vision",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
-"lesser eldritch ember",currency,"[]",p15,100,2.85625
-"silverbranch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.9
-"tasalio's sign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
-"viridi's veil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,222
-"rogue's marker",currency,"[]",p15,500,0.002225549752180186
+"volkuur's guidance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.15
+"noxious catalyst",currency,"[]",p15,30,1
+"rusted expedition scarab",scarab,"[]",p15,0,1
+"rusted expedition scarab",scarab,"[]",p15,30,1
+"yoke of suffering",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,21
+"shrieking essence of anger",essence,"[]",p15,30,2.733333333333333
+"indigo oil",oil,"[]",p15,50,1.533333333333333
 "orb of transmutation",currency,"[]",p15,100,0.03011098779134295
+"violet oil",oil,"[]",p15,50,1.725
+"essence worm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"carcass jack",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.05
 "orb of transmutation",currency,"[]",p15,18,0.03011098779134295
 "the queen's hunger",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,15
-"touch of anguish",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"berek's grip",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.05
-"incandescent invitation",invitation,"[]",p15,0,108.25
-"rusted breach scarab",scarab,"[]",p15,50,2
+"berek's grip",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.366666666666667
 "mark of the doubting knight",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
-"meginord's girdle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"lioneye's vision",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.1
 "orb of transmutation",currency,"[]",p15,50,0.03011098779134295
+"regal orb",currency,"[]",p15,50,1.016216216216216
 "realmshaper",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"frostbreath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"lesser eldritch ember",currency,"[]",p15,100,2.85625
 "the beast fur shawl",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"polished abyss scarab",scarab,"[]",p15,0,2.54
-"valako's sign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.9
-"determination",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,5
-"kaom's sign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.1
+"silverbranch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.9
+"fevered mind",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,5.2
 "dawnstrider",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,13.75
 "briskwrap",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"sacrifice at dawn",fragment,"[]",p15,50,0.3733333333333334
-"golden oil",oil,"[]",p15,0,107.25
-"facebreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,18.4
-"orb of transmutation",currency,"[]",p15,1000,0.02999445061043285
+"jeweller's orb",currency,"[]",p15,1000,0.1960333333333334
+"tasalio's sign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.2
 "march of the legion",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,13.33333333333333
-"maw of conquest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "steppan eard",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.2
-"giantsbane",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"surgebinders",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"screaming essence of torment",essence,"[]",p15,18,1.05
 "storm cloud",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.8
 "indigo oil",oil,"[]",p15,0,2
-"black oil",oil,"[]",p15,0,6.4
+"black oil",oil,"[]",p15,0,6.699999999999999
 "abberath's horn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"hiltless",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"sacrifice at dusk",fragment,"[]",p15,9,0.3633333333333333
-"sundance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.45
-"the ivory tower",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,20
-"deafening essence of doubt",essence,"[]",p15,0,3
+"viridi's veil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,222
 "balefire",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "faminebind",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "thousand teeth temu",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
 "mokou's embrace",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"screaming essence of hatred",essence,"[]",p15,18,1.225
-"gilded cartography scarab",scarab,"[]",p15,0,3.6
-"eye of innocence",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.2
-"amber oil",oil,"[]",p15,100,0.62
-"doomfletch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.75
-"painseeker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"timeclasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.75
-"sacrifice at dawn",fragment,"[]",p15,9,0.3733333333333334
-"ahn's heritage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.4
 "victario's influence",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"magnum opus",card,"[]",p15,0,11.75
-"advancing fortress",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"tempering catalyst",currency,"[]",p15,9,3
+"amber oil",oil,"[]",p15,100,0.6499999999999999
 "apep's rage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,30
 "kiara's determination",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"the aylardex",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"amber oil",oil,"[]",p15,30,0.6799999999999999
-"the pariah",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.9
+"amber oil",oil,"[]",p15,30,0.7066666666666667
 "malachai's simula",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"rogue's marker",currency,"[]",p15,500,0.002225549752180186
+"kaom's sign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.1
 "sibyl's lament",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"lakishu's blade",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"vaal righteous fire",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,1.6
-"shackles of the wretched",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"orb of augmentation",currency,"[]",p15,9,0.05179880079946702
 "lesser eldritch ichor",currency,"[]",p15,18,2
-"orb of regret",currency,"[]",p15,18,0.8590909090909091
-"orb of augmentation",currency,"[]",p15,100,0.05054963357761492
-"le heup of all",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,8.799999999999999
-"orb of regret",currency,"[]",p15,100,0.8132264213799231
-"polished elder scarab",scarab,"[]",p15,0,2.6
-"scorched fossil",fossil,"[]",p15,18,1.5
-"bloodgrip",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"cybil's paw",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"orb of regret",currency,"[]",p15,18,1
+"orb of regret",currency,"[]",p15,100,1
+"polished elder scarab",scarab,"[]",p15,0,2.75
+"scorched fossil",fossil,"[]",p15,18,1.725
+"bloodgrip",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"sacrifice at dawn",fragment,"[]",p15,50,0.3733333333333334
+"golden oil",oil,"[]",p15,0,107.7
 "abyssus",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,6.9
+"orb of transmutation",currency,"[]",p15,1000,0.02999445061043285
+"incandescent invitation",invitation,"[]",p15,0,108.25
 "veruso's battering rams",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"deafening essence of rage",essence,"[]",p15,9,6.6
+"meginord's girdle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"frostbreath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"polished abyss scarab",scarab,"[]",p15,0,2.54
+"maw of conquest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"giantsbane",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"surgebinders",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"summon ice golem",gem,"[{""key"":""lvl"",""value"":""21""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,7
+"hiltless",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"sacrifice at dusk",fragment,"[]",p15,9,0.3633333333333333
+"sundance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.025
+"gilded cartography scarab",scarab,"[]",p15,0,3.6
+"eye of innocence",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.024999999999999
+"doomfletch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.75
+"sacrifice at dawn",fragment,"[]",p15,9,0.3733333333333334
+"magnum opus",card,"[]",p15,0,11.75
+"valako's sign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.9
+"determination",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,5
+"storm secret",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.2
+"mortal hope",fragment,"[]",p15,0,4
+"advancing fortress",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"tempering catalyst",currency,"[]",p15,9,3
+"the aylardex",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.025
+"the pariah",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.9
+"lakishu's blade",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"orb of augmentation",currency,"[]",p15,9,0.05179880079946702
+"screaming essence of torment",essence,"[]",p15,18,1.05
+"orb of augmentation",currency,"[]",p15,100,0.05054963357761492
 "deft fossil",fossil,"[]",p15,0,2.76
-"agnerod north",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"scorched fossil",fossil,"[]",p15,9,1.375
-"enkindling orb",currency,"[]",p15,18,0.5
-"daresso's salute",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"agnerod north",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.125
+"cybil's paw",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"touch of anguish",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"polished torment scarab",scarab,"[]",p15,0,1.8
+"the ivory tower",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,19.5
+"deafening essence of doubt",essence,"[]",p15,0,3
+"scorched fossil",fossil,"[]",p15,9,1.3
 "ezomyte peak",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "gifts from above",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
 "alva's memory of reverse incursion",atlas memory,"[]",p15,0,6.8
-"hyrri's bite",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"deafening essence of suffering",essence,"[]",p15,9,3.45
-"regal orb",currency,"[]",p15,30,1.001351351351351
+"screaming essence of hatred",essence,"[]",p15,18,1.225
 "instilling orb",currency,"[]",p15,50,0.8
-"orb of fusing",currency,"[]",p15,100,0.6665889953075785
-"maelström of chaos",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.6
-"enhance support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""corrupted""},{""key"":""quality"",""value"":""0""}]",p15,0,46.75
+"enhance support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""corrupted""},{""key"":""quality"",""value"":""0""}]",p15,0,37.5
+"ahn's heritage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.4
 "the warden's brand",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
 "instilling orb",currency,"[]",p15,18,0.8
-"meginord's girdle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"orb of fusing",currency,"[]",p15,500,0.6667754674403611
-"terminus est",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.8
-"divination distillate",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.5
-"sadima's touch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"regal orb",currency,"[]",p15,18,1.001351351351351
-"gilded harbinger scarab",scarab,"[]",p15,0,10
-"flesh and spirit",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"minions have 12% increased maximum life medium cluster jewel",cluster,"[{""key"":""ilvl"",""value"":83},{""key"":""passives"",""value"":5}]",p15,0,20
 "instilling orb",currency,"[]",p15,100,0.8
+"the academic",card,"[]",p15,0,13
 "instilling orb",currency,"[]",p15,0,0.8
-"wondertrap",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"orb of augmentation",currency,"[]",p15,500,0.04930046635576282
-"deafening essence of woe",essence,"[]",p15,18,9
-"the witch",card,"[]",p15,0,2.2
-"deafening essence of woe",essence,"[]",p15,9,9
-"repentance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,9
-"rumi's concoction",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10
-"harbinger's orb",currency,"[]",p15,9,2.875
 "lycosidae",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,7.6
-"deafening essence of contempt",essence,"[]",p15,0,8
-"araku tiki",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
-"asenath's gentle touch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,47.5
-"stacked deck",currency,"[]",p15,18,2
-"hrimnor's hymn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"lucent fossil",fossil,"[]",p15,30,1.8625
+"vaal righteous fire",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,1.6
+"shackles of the wretched",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"hyrri's bite",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"stacked deck",currency,"[]",p15,18,1.978448275862069
+"regal orb",currency,"[]",p15,30,1.001351351351351
+"meginord's girdle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"divination distillate",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.8
+"le heup of all",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,8.799999999999999
 "screaming essence of spite",essence,"[]",p15,0,1
 "rusted cartography scarab",scarab,"[]",p15,9,0.9555555555555555
+"sadima's touch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "hrimsorrow",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,4.6
+"regal orb",currency,"[]",p15,18,1.001351351351351
 "kirac's memory of survivor's guilt",atlas memory,"[]",p15,0,25
 "the watcher",card,"[]",p15,0,2
-"bronn's lithe",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.7
+"gilded harbinger scarab",scarab,"[]",p15,0,10
+"flesh and spirit",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"jagged fossil",fossil,"[]",p15,9,2.45
+"minions have 12% increased maximum life medium cluster jewel",cluster,"[{""key"":""ilvl"",""value"":83},{""key"":""passives"",""value"":5}]",p15,0,20
+"shrieking essence of contempt",essence,"[]",p15,30,2.95
+"12% increased attack damage while holding a shield large cluster jewel",cluster,"[{""key"":""ilvl"",""value"":83},{""key"":""passives"",""value"":8}]",p15,0,16
+"orb of augmentation",currency,"[]",p15,500,0.04930046635576282
+"breath of the council",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"slitherpinch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"vaal grace",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,13.75
+"rumi's concoction",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10
+"harbinger's orb",currency,"[]",p15,9,2.875
+"araku tiki",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"asenath's gentle touch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,47.5
+"bronn's lithe",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "deafening essence of dread",essence,"[]",p15,9,7.6
 "harbinger's orb",currency,"[]",p15,0,2.95
 "sacrifice at dawn",fragment,"[]",p15,30,0.3733333333333334
-"tainted jeweller's orb",currency,"[]",p15,18,1.84
-"vaal grace",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,13.75
-"jagged fossil",fossil,"[]",p15,9,2.45
+"tainted jeweller's orb",currency,"[]",p15,18,1.9
+"enkindling orb",currency,"[]",p15,18,0.5
+"daresso's salute",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.9
+"deafening essence of suffering",essence,"[]",p15,9,3.45
+"orb of fusing",currency,"[]",p15,100,0.6665889953075785
+"maelström of chaos",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.6
+"orb of fusing",currency,"[]",p15,500,0.6667754674403611
 "divine vessel",fragment,"[]",p15,30,3.3
 "enkindling orb",currency,"[]",p15,50,0.5
 "perfect fossil",fossil,"[]",p15,0,8
 "wake of destruction",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"shrieking essence of contempt",essence,"[]",p15,30,2.95
-"12% increased attack damage while holding a shield large cluster jewel",cluster,"[{""key"":""ilvl"",""value"":83},{""key"":""passives"",""value"":8}]",p15,0,16
-"edge of madness",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
-"breath of the council",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "intrinsic catalyst",currency,"[]",p15,50,1.508333333333333
-"slitherpinch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
+"edge of madness",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
 "deafening essence of anguish",essence,"[]",p15,9,3
 "healthy mind",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,29.5
+"terminus est",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.8
 "cyclopean coil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,14.8
+"wondertrap",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "dawnbreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,197.32
 "primitive chaotic resonator",resonator,"[]",p15,30,1.68
 "intrinsic catalyst",currency,"[]",p15,18,1.508333333333333
+"deafening essence of woe",essence,"[]",p15,18,8.8
+"the witch",card,"[]",p15,0,2.2
 "the return of the rat",card,"[]",p15,0,9.2
 "primitive chaotic resonator",resonator,"[]",p15,18,1.68
 "empower support",gem,"[{""key"":""lvl"",""value"":""1""},{""key"":""corrupted""},{""key"":""quality"",""value"":""0""}]",p15,0,654.9
-"sin trek",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,16
+"deafening essence of woe",essence,"[]",p15,9,8.875
+"sin trek",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,9
 "rusted expedition scarab",scarab,"[]",p15,9,1
-"sepia oil",oil,"[]",p15,9,0.5
+"sepia oil",oil,"[]",p15,9,0.5083333333333333
 "noxious catalyst",currency,"[]",p15,18,1
-"orb of scouring",currency,"[]",p15,100,0.5835784313725491
+"repentance",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,9
 "curtain call",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"kikazaru",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,6.5
+"hrimnor's hymn",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "thread of hope",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,222
+"fine delirium orb",delirium orb,"[]",p15,0,8.8
 "sepia oil",oil,"[]",p15,50,0.5
-"anomalous summon raging spirit",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,26
 "divine beauty",card,"[]",p15,0,123.75
-"speaker's wreath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"potent chaotic resonator",resonator,"[]",p15,9,1.375
-"asenath's gentle touch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,63.06666666666666
-"kitava's thirst",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"tavukai",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10
-"eber's unification",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.35
-"alberon's warpath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,9.2
-"stormcharger",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "mark of submission",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"speaker's wreath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "shaper's seed",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,8.75
-"the eternal struggle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,18.2
-"prejudice",card,"[]",p15,0,5
-"blight",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,4.641999999999999
+"the eternal struggle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,20
 "vaal lightning strike",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,1.75
-"the devouring diadem",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,339.0266666666666
+"the devouring diadem",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,420.0166666666666
 "chains of command",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,14.5
 "chaos orb",currency,"[]",p15,100,1.006787330316742
-"forbidden flesh",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,169.325
+"forbidden flesh",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,100.13
+"summon raging spirit",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""20""}]",p15,0,6.875
+"vaal orb",currency,"[]",p15,18,0.6798850574712644
+"wyrmsign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.5
+"armoursmith's delirium orb",delirium orb,"[]",p15,0,4.9
+"great old one's tentacles",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.8
+"poorjoy's asylum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.6
 "matua tupuna",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
 "geofri's sanctuary",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"essence of hysteria",essence,"[]",p15,0,29.6
-"tombfist",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
-"sadima's touch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"moonbender's wing",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"wyrmsign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.5
-"loreweave",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,66.25
-"summon raging spirit",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""20""}]",p15,0,6.5
-"widowmaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
-"vaal orb",currency,"[]",p15,18,0.6798850574712644
-"armoursmith's delirium orb",delirium orb,"[]",p15,0,6.5
-"great old one's tentacles",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.5
-"poorjoy's asylum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.6
-"the admirer",card,"[]",p15,0,3.8
+"essence of hysteria",essence,"[]",p15,0,29
+"asenath's gentle touch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,46.91666666666667
+"potent chaotic resonator",resonator,"[]",p15,9,1.375
+"kitava's thirst",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"tavukai",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,9.399999999999999
 "arcanist brand support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,7.75
+"deafening essence of rage",essence,"[]",p15,0,6
+"alberon's warpath",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,9.2
+"stormcharger",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"the admirer",card,"[]",p15,0,3.8
 "wreath of phrecia",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "call of the brotherhood",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10
 "summon raging spirit",gem,"[{""key"":""lvl"",""value"":""20""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,3
-"fractal thoughts",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.75
-"deafening essence of rage",essence,"[]",p15,0,6
 "the eternal apple",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "dense fossil",fossil,"[]",p15,18,4
 "jeweller's orb",currency,"[]",p15,100,0.1662371134020619
 "kingsguard",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
+"jeweller's orb",currency,"[]",p15,0,0.1662371134020619
+"jeweller's orb",currency,"[]",p15,30,0.1662371134020619
+"prejudice",card,"[]",p15,0,5
+"invictus solaris",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,13
+"blight",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,4.641999999999999
+"deft fossil",fossil,"[]",p15,9,2.96
+"voice of the storm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,13.8
+"deerstalker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.1
+"divine vessel",fragment,"[]",p15,18,3.3
+"sadima's touch",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"armourer's scrap",currency,"[]",p15,100,0.03205325140809012
+"armourer's scrap",currency,"[]",p15,9,0.03205325140809012
+"moonbender's wing",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"armourer's scrap",currency,"[]",p15,18,0.03205325140809012
+"loreweave",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,66.25
+"anomalous summon raging spirit",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,26
+"verdant oil",oil,"[]",p15,18,0.6799999999999999
+"harbinger's orb",currency,"[]",p15,18,2.8
+"powerful chaotic resonator",resonator,"[]",p15,0,1
+"great old one's ward",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"lightpoacher",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"widowmaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
+"armourer's scrap",currency,"[]",p15,50,0.03205325140809012
+"armourer's scrap",currency,"[]",p15,0,0.03205325140809012
+"armourer's scrap",currency,"[]",p15,30,0.03205325140809012
+"instilling orb",currency,"[]",p15,30,0.8
+"mightflay",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"the balance of terror",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,28.5
+"winterheart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,12.4
+"essence of horror",essence,"[]",p15,0,34.75
+"the darkest dream",card,"[]",p15,0,4
+"orb of fusing",currency,"[]",p15,9,0.6665889953075785
+"fractal thoughts",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.75
+"retaliation charm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"orb of scouring",currency,"[]",p15,30,0.5850490196078432
+"rusted shaper scarab",scarab,"[]",p15,18,0.9555555555555555
+"simulacrum splinter",fragment,"[]",p15,18,0.2
+"deafening essence of contempt",essence,"[]",p15,0,8
+"the anvil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
+"divergent precision",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,62
 "the chains that bind",card,"[]",p15,0,2.95
 "aetheric fossil",fossil,"[]",p15,0,3
+"summon chaos golem",gem,"[{""key"":""lvl"",""value"":""21""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,8.8
+"reverberation rod",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10
+"clear oil",oil,"[]",p15,50,0.5
+"ungil's harmony",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,12.4
+"clear oil",oil,"[]",p15,18,0.5
+"daresso's passion",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"orb of augmentation",currency,"[]",p15,18,0.05179880079946702
 "geofri's baptism",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
-"doedre's tenure",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.75
-"invictus solaris",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,13
+"darkray vectors",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"explorer's scouting report",scouting report,"[]",p15,50,1.675
+"kalisa's grace",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"orb of augmentation",currency,"[]",p15,50,0.05054963357761492
+"fundamental fossil",fossil,"[]",p15,9,3
+"vaal orb",currency,"[]",p15,0,0.6798850574712644
+"vaal orb",currency,"[]",p15,30,0.6798850574712644
+"eclipse solaris",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"maven's invitation: the hidden",invitation,"[]",p15,0,51.2
+"shrieking essence of dread",essence,"[]",p15,30,7
+"dusktoe",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"summon flame golem",gem,"[{""key"":""lvl"",""value"":""21""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,4.6
+"doedre's tenure",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.9
 "jaws of agony",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"soulthirst",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.35
+"shroud of the lightless",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,23.75
+"lesser eldritch ichor",currency,"[]",p15,30,2
+"the eldritch decay",card,"[]",p15,0,5
 "axiom perpetuum",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "the embalmer",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,25
 "aukuna's will",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
-"deft fossil",fossil,"[]",p15,9,2.96
-"deerstalker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.9
-"voice of the storm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,13.8
-"armourer's scrap",currency,"[]",p15,100,0.03205325140809012
-"divine vessel",fragment,"[]",p15,18,3.3
-"armourer's scrap",currency,"[]",p15,9,0.03205325140809012
-"armourer's scrap",currency,"[]",p15,18,0.03205325140809012
-"lightpoacher",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
-"clear oil",oil,"[]",p15,50,0.5
-"reverberation rod",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,10
-"verdant oil",oil,"[]",p15,18,0.6799999999999999
-"mightflay",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"powerful chaotic resonator",resonator,"[]",p15,0,1
-"harbinger's orb",currency,"[]",p15,18,2.8
-"the oppressor",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"great old one's ward",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.8
-"armourer's scrap",currency,"[]",p15,50,0.03205325140809012
-"essence of horror",essence,"[]",p15,0,34.6
-"armourer's scrap",currency,"[]",p15,0,0.03205325140809012
-"the darkest dream",card,"[]",p15,0,4
-"clear oil",oil,"[]",p15,18,0.5
-"daresso's passion",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"orb of fusing",currency,"[]",p15,9,0.6665889953075785
-"armourer's scrap",currency,"[]",p15,30,0.03205325140809012
-"instilling orb",currency,"[]",p15,30,0.8
-"kalisa's grace",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"the balance of terror",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,28.5
-"eclipse solaris",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"maven's invitation: the hidden",invitation,"[]",p15,0,51.2
-"summon chaos golem",gem,"[{""key"":""lvl"",""value"":""21""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,8.8
-"orb of scouring",currency,"[]",p15,50,0.5843137254901961
-"summon flame golem",gem,"[{""key"":""lvl"",""value"":""21""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,4.6
-"seven years bad luck",card,"[]",p15,0,94
-"winterheart",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,12.4
-"shroud of the lightless",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,21.8
-"rigwald's crest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.8
-"retaliation charm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"orb of scouring",currency,"[]",p15,30,0.5843137254901961
-"the eldritch decay",card,"[]",p15,0,5
-"rusted shaper scarab",scarab,"[]",p15,18,0.9555555555555555
 "stormfire",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.9
+"victario's flight",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "storm brand",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""20""}]",p15,0,10
-"shrieking essence of doubt",essence,"[]",p15,18,1.74
-"simulacrum splinter",fragment,"[]",p15,18,0.2
-"the anvil",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
+"shrieking essence of doubt",essence,"[]",p15,18,1.82
+"ancient skull",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,50.75
 "gloomfang",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,9.9
 "replica alpha's howl",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,17.2
-"lori's lantern",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.05
 "infernal mantle",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4
+"lori's lantern",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.05
 "the ephemeral bond",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
-"ungil's harmony",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,12.4
-"orb of augmentation",currency,"[]",p15,18,0.05179880079946702
-"darkray vectors",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.6
-"divergent precision",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,62
-"explorer's scouting report",scouting report,"[]",p15,50,1.675
-"fundamental fossil",fossil,"[]",p15,9,3
-"orb of augmentation",currency,"[]",p15,50,0.05054963357761492
-"vaal orb",currency,"[]",p15,0,0.6798850574712644
-"vaal orb",currency,"[]",p15,30,0.6798850574712644
+"indigo oil",oil,"[]",p15,30,1.708333333333333
+"vaal summon skeletons",gem,"[{""key"":""lvl"",""value"":""21""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,17
+"stacked deck",currency,"[]",p15,50,1.952586206896552
 "saemus' gift",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
 "rigwald's savagery",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
 "shavronne's wrappings",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,80
 "the ghastly theatre",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
 "earendel's embrace",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
-"shrieking essence of dread",essence,"[]",p15,30,7
-"dusktoe",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"soulthirst",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.2
-"atziri's reign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,4.5
-"rashkaldor's patience",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
-"lesser eldritch ichor",currency,"[]",p15,30,2
-"victario's flight",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
-"indigo oil",oil,"[]",p15,30,1.533333333333333
-"ancient skull",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,50.6
-"wheel of the stormsail",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
-"vaal summon skeletons",gem,"[{""key"":""lvl"",""value"":""21""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,17
+"summon carrion golem",gem,"[{""key"":""lvl"",""value"":""21""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""0""}]",p15,0,14
+"atziri's reign",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,4.25
+"gilded expedition scarab",scarab,"[]",p15,0,5
 "simulacrum",fragment,"[]",p15,0,29.6
+"allure",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"rashkaldor's patience",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.6
+"pinpoint support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,3.4
+"remnant of corruption",essence,"[]",p15,30,1.3
+"spellslinger support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,9.4
+"clear oil",oil,"[]",p15,9,0.5
+"clear oil",oil,"[]",p15,500,0.5
+"victario's acuity",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,7.6
+"tempered flesh",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
+"writhing invitation",invitation,"[]",p15,0,4.6
+"null and void",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"wildslash",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"replica iron commander",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,15
+"deafening essence of anger",essence,"[]",p15,9,6.175
+"ornament of the east",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"eber's unification",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1.675
+"gilded legion scarab",scarab,"[]",p15,9,4
+"polished sulphite scarab",scarab,"[]",p15,0,2.3
+"wraithlord",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"the sword king's salute",card,"[]",p15,0,3.4
+"alivia's grace",card,"[]",p15,0,1
+"orb of binding",currency,"[]",p15,18,0.15875
+"azure oil",oil,"[]",p15,18,0.79
+"summon skeletons",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":true},{""key"":""quality"",""value"":""23""}]",p15,0,4.6
+"the supreme truth",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,4.6
+"gilded sulphite scarab",scarab,"[]",p15,0,3.8
+"marylene's fallacy",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.5
+"rigwald's curse",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"rive",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"the grey spire",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.6
+"hope",card,"[]",p15,0,1
+"orb of binding",currency,"[]",p15,9,0.17
+"seven years bad luck",card,"[]",p15,0,94
+"soul strike",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"sandstorm visage",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,24
+"the oppressor",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"rigwald's crest",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5.8
+"polished blight scarab",scarab,"[]",p15,9,3.45
+"orb of binding",currency,"[]",p15,0,0.17
+"rusted bestiary scarab",scarab,"[]",p15,18,0.9555555555555555
+"doedre's damning",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,62.5
+"imperial delirium orb",delirium orb,"[]",p15,0,5
+"painseeker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2
+"deafening essence of greed",essence,"[]",p15,0,10
+"blacksmith's delirium orb",delirium orb,"[]",p15,0,4.6
+"astragali",artifacts,"[]",p15,0,1.502727272727273
+"sepia oil",oil,"[]",p15,500,0.5
+"rusted metamorph scarab",scarab,"[]",p15,18,0.9388888888888889
+"hrimsorrow",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.2
+"6% increased maximum energy shield small cluster jewel",cluster,"[{""key"":""ilvl"",""value"":72},{""key"":""passives"",""value"":3}]",p15,0,3
+"cameria's maul",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"frigid fossil",fossil,"[]",p15,30,1.725
+"orb of alteration",currency,"[]",p15,50,0.165563495149826
+"rusted metamorph scarab",scarab,"[]",p15,30,0.9388888888888889
+"the three dragons",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
+"herald of agony",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted""},{""key"":""quality"",""value"":""1-18""}]",p15,0,3.6
+"blood of the karui",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.125
+"facebreaker",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,18.4
+"timeclasp",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3.75
+"explorer's scouting report",scouting report,"[]",p15,30,1.675
+"deafening essence of rage",essence,"[]",p15,9,6.6
+"tombfist",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,5
+"black oil",oil,"[]",p15,18,9
+"valyrium",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"queen's decree",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.2
+"bloodplay",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"orb of scouring",currency,"[]",p15,9,0.5850490196078432
+"thief's torment",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,7.6
+"tempered spirit",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,8
+"doedre's tongue",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,3
+"stacked deck",currency,"[]",p15,30,1.952586206896552
+"wailing essence of torment",essence,"[]",p15,0,1
+"wings of entropy",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,1
+"goldwyrm",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p15,0,6
+"the maven's writ",fragment,"[]",p15,0,222
+"rusted sulphite scarab",scarab,"[]",p15,9,1.45
+"gilded abyss scarab",scarab,"[]",p15,9,6.845
+"immortal resolve",card,"[]",p15,0,6.8
+"orb of scouring",currency,"[]",p15,50,0.5850490196078432
+"orb of scouring",currency,"[]",p15,100,0.5843137254901961
+"witchfire brew",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p15,0,2.6
