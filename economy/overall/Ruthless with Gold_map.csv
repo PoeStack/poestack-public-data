@@ -2,282 +2,250 @@
 "primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",p15,0,1
 "primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",p20,0,1
 "primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,1
-"primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,2
+"primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,1
 "primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,1
-"primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,8
-"primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,5
-"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p10,0,1.4
-"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p15,0,1.6
-"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p20,0,1.8
-"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p5,0,1.2
+"primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,10
+"primordial blocks map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,7
+"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p10,0,1
+"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p15,0,1
+"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p20,0,1
+"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p5,0,1
 "colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p50,0,2
-"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p7,0,1.28
-"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,11
-"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,5
-"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.2844951415293622
-"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.2852875852495625
-"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,0.391830337974606
-"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.2268090368738021
+"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",p7,0,1
+"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,14
+"colosseum map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,6
+"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.2815078957284281
+"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.2849827992033316
+"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,0.3476004416365088
+"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.2138590138209911
 "caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p50,0,1
-"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.2465689912189227
-"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,63
-"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,32
+"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.246911196911197
+"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,78
+"caldera map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,37
 "haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,1
 "haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",p15,0,1
 "haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",p20,0,1
-"haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,0.993
+"haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,0.98
 "haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",p50,0,1
-"haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,0.9982
-"haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,19
-"haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,14
+"haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,0.988
+"haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,28
+"haunted mansion map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,21
 "sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,1
 "sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",p15,0,1
 "sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",p20,0,1
 "sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,1
 "sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",p50,0,1
 "sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,1
-"sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,40
-"sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,16
-"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.496
-"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5142857142857143
-"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.5428571428571429
-"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.488
-"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
-"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.4912
-"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,15
-"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,9
-"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,1
-"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,1
-"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,1
-"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,1
+"sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,45
+"sulphur vents map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,17
+"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,0.4260112257830889
+"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,0.462857142857143
+"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,0.4951515883074819
+"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,0.4162894562134107
 "atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
-"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,1
-"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,42
-"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,15
-"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2090144665461122
-"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2840074838553927
-"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.3263415615506871
-"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1404037660691654
+"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,0.4210984368398817
+"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,48
+"atoll map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,25
+"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2822853570572201
+"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.3249478946627237
+"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.4726486486486486
+"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1970795660036167
 "cage map",map,"[{""key"":""tier"",""value"":""2""}]",p50,0,1
-"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.1811498883457059
-"cage map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,83
-"cage map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,39
-"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.2911634192189014
-"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.4140238095238096
+"cage map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.2393747861785837
+"cage map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,109
+"cage map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,50
+"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.2807610842781946
+"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.3523282097649189
 "phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,0.5
-"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.1987667018284107
+"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.2088682432432433
 "phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p50,0,1
-"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.2333226090014065
-"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,77
-"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,42
+"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.2417060810810811
+"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,91
+"phantasmagoria map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,46
+"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,1
 "strand map",map,"[{""key"":""tier"",""value"":""1""}]",p10,0,1
 "strand map",map,"[{""key"":""tier"",""value"":""1""}]",p15,0,1
 "strand map",map,"[{""key"":""tier"",""value"":""1""}]",p20,0,1
 "strand map",map,"[{""key"":""tier"",""value"":""1""}]",p5,0,1
 "strand map",map,"[{""key"":""tier"",""value"":""1""}]",p50,0,1
 "strand map",map,"[{""key"":""tier"",""value"":""1""}]",p7,0,1
-"strand map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,142
-"strand map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,41
-"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p10,0,0.0773809523809524
-"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p15,0,0.1437812301425988
-"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p20,0,0.4045847303239061
-"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p5,0,0.07126093910314446
-"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p50,0,1
-"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p7,0,0.07398809523809526
-"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,134
-"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,50
-"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,0.9728571428571429
+"strand map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,122
+"strand map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,33
 "peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",p15,0,1
 "peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",p20,0,1
-"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,0.9185714285714287
+"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,1
 "peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",p50,0,1
-"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,0.9402857142857144
-"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,25
-"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,9
+"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,1
+"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,40
+"peninsula map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,14
 "spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,1
 "spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,1
 "spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,1
 "spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,1
 "spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
 "spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,1
-"spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,39
-"spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,20
-"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.1836904761904762
-"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.252489438107309
-"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.3759553456419065
-"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1413166331920242
+"spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,51
+"spider lair map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,23
+"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2324680574110233
+"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2884388370725791
+"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.5
+"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1492857142857143
 "spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p50,0,1
-"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.1422739855553544
-"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,75
-"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,38
+"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.1859908564186132
+"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,89
+"spider forest map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,44
 "port map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,1
 "port map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,1
 "port map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,1
 "port map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,1
 "port map",map,"[{""key"":""tier"",""value"":""3""}]",p50,0,1
 "port map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,1
-"port map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,72
-"port map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,23
-"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,0.9770392639474917
-"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,0.987
-"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,0.996
-"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,0.9637159517112048
-"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
-"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,0.9690452766057196
-"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,20
-"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,10
-"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,0.9801570557899673
-"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,1
-"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,1
-"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,0.8908638068448197
-"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
-"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,0.9265811064228787
-"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,16
-"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,10
+"port map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,93
+"port map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,30
+"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2838722692903847
 "frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,1
 "frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,1
 "frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,1
-"frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,1
+"frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,0.993
 "frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
-"frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,1
-"frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,15
-"frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,8
-"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2139541892706451
-"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2787394381073089
-"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.3170491906962953
-"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1982433309191864
+"frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,0.9982
+"frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,20
+"frozen cabins map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,14
+"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2584850820402151
+"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2852266280403164
+"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.3274564950610578
+"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.2116335141651599
 "crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p50,0,1
-"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.2083298673899941
-"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,100
-"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,40
-"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2459563994374122
-"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.286686083497816
-"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.48
-"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1456863767404772
+"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.2168327599734445
+"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,125
+"crimson temple map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,45
+"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.3131257617770628
+"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.4592679184177044
+"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1498465051732603
 "forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p50,0,1
-"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.1755829089466333
-"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,75
-"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,36
-"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.2193865049188244
-"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.3294048624942161
+"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.202606132908675
+"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,99
+"forking river map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,42
+"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.2815078957284281
+"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.3471490936890177
 "sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,0.4808990283058724
-"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.1808370701042286
+"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.2097217695696783
 "sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p50,0,1
-"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.1992933725173823
-"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,54
-"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,32
-"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,1
-"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,1
-"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,1
-"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,1
-"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
-"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,1
-"pier map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,23
-"pier map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,13
-"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,0.4450644362737551
-"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,0.4916490857946556
-"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,0.4933192686357245
-"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,0.4291372753480956
-"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
-"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,0.4338903882720973
-"residence map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,34
-"residence map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,22
-"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5643560377737594
-"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5696604380148685
-"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.5714285714285716
-"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.5375527426160338
-"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
-"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.5525738396624473
-"temple map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,20
-"temple map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,13
-"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p10,0,1
-"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p15,0,1
-"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p20,0,1
-"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,1
-"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,1
-"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,1
-"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,14
-"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,10
-"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.2847389703663469
+"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.2458871157958611
+"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,66
 "forbidden woods map",map,"[{""key"":""tier"",""value"":""10""}]",p10,0,1
+"sepulchre map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,37
+"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5714285714285716
 "forbidden woods map",map,"[{""key"":""tier"",""value"":""10""}]",p15,0,1
 "forbidden woods map",map,"[{""key"":""tier"",""value"":""10""}]",p20,0,1
 "forbidden woods map",map,"[{""key"":""tier"",""value"":""10""}]",p5,0,1
 "forbidden woods map",map,"[{""key"":""tier"",""value"":""10""}]",p50,0,1.5
+"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5742888325587946
 "forbidden woods map",map,"[{""key"":""tier"",""value"":""10""}]",p7,0,1
+"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.6285714285714288
+"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.5
+"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
 "forbidden woods map",map,"[{""key"":""tier"",""value"":""10""}]",totalQuantity,0,6
+"pier map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.5285714285714287
+"pier map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,36
+"pier map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,21
 "forbidden woods map",map,"[{""key"":""tier"",""value"":""10""}]",totalValidListings,0,5
+"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,0.462857142857143
+"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,0.4985714285714286
+"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,0.5142857142857146
+"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,0.3585714285714287
+"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
+"residence map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,0.4105714285714288
+"residence map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,44
+"residence map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,27
+"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5714285714285716
+"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5714285714285716
+"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.5725726758806609
+"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.5607142857142858
+"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
+"temple map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.5714285714285716
+"temple map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,31
+"temple map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,18
 "necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,1
 "necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,1
 "necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,1
 "necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,1
 "necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
 "necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,1
-"necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,8
-"necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,7
-"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.3790476190476191
-"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,0.4817980566117449
-"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.2060536337876666
+"necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,13
+"necropolis map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,10
+"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5714285714285716
+"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.2914285714285715
+"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.3557338758288128
+"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,0.4505945945945946
+"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.2774004327521437
 "plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p50,0,1
-"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.2295145150582414
-"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,56
-"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,33
-"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,1
+"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.2835242866440587
+"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,76
+"plateau map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,42
+"academy map",map,"[{""key"":""tier"",""value"":""8""}]",p10,0,1
+"academy map",map,"[{""key"":""tier"",""value"":""8""}]",p15,0,1
+"academy map",map,"[{""key"":""tier"",""value"":""8""}]",p20,0,1
+"academy map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,1
+"academy map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,1
+"academy map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,1
+"academy map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,17
+"academy map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,8
 "factory map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,1
 "factory map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,1
 "factory map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,1
 "factory map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,1
 "factory map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
 "factory map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,1
-"factory map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,10
-"factory map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,7
+"factory map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,24
+"factory map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,13
 "crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",p10,0,1
 "crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",p15,0,1
 "crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",p20,0,1
-"crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,1
+"crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,0.775
 "crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,1
-"crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,1
-"crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,12
-"crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,9
-"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p10,0,1.25
-"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p15,0,1.375
-"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p20,0,1.5
-"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p5,0,1.125
+"crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,0.885
+"crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,16
+"crimson township map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,12
+"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p10,0,1.3
+"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p15,0,1.45
+"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p20,0,1.6
+"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p5,0,1.15
 "arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p50,0,2
-"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p7,0,1.175
-"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,10
-"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,6
+"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",p7,0,1.21
+"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,13
+"arcade map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,7
 "iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,1
 "iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",p15,0,1
 "iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",p20,0,1
 "iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,1
 "iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",p50,0,1
 "iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,1
-"iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,11
-"iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,11
+"iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,14
+"iceberg map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,14
 "burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,1
 "burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,1
 "burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,1
 "burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,1
 "burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
 "burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,1
-"burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,16
-"burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,9
-"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5740028064457723
-"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5785689777454407
-"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.5840720215568428
-"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.572715688937172
+"burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,26
+"burial chambers map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,16
+"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5725726758806609
+"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.5767346298083066
+"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.5531428571428573
 "ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
-"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.5732305359406121
-"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,27
-"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,10
-"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,1
-"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,1
-"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,1
-"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
-"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,1
-"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,31
-"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,16
+"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.5714285714285716
+"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,37
+"ivory temple map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,17
+"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,0.986
+"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,0.999
+"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,1
+"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,0.9703333333333334
+"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
+"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,0.9775142857142857
+"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,27
+"precinct map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,14
 "blighted lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p10,0,1
 "blighted lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p15,0,1
 "blighted lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p20,0,1
@@ -286,135 +254,119 @@
 "blighted lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p7,0,1
 "blighted lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,5
 "blighted lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,5
-"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p10,0,0.1443660675949212
 "bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,1
 "bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,1
 "bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,1
 "bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,1
 "bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",p50,0,1
 "bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,1
-"bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,47
-"bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,15
-"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p15,0,0.2838449312974028
-"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p20,0,0.4586517818806356
-"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p5,0,0.1406469760900141
+"bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,68
+"bone crypt map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,22
+"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p10,0,0.1458749923326995
+"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p15,0,0.2952380952380953
+"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p20,0,0.492
+"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p5,0,0.1415310427968656
 "terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p50,0,1
-"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p7,0,0.1408237894313844
-"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,154
-"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,45
+"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p7,0,0.1428571428571429
+"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,156
+"terrace map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,49
 "desert map",map,"[{""key"":""tier"",""value"":""9""}]",p10,0,1
 "desert map",map,"[{""key"":""tier"",""value"":""9""}]",p15,0,1
 "desert map",map,"[{""key"":""tier"",""value"":""9""}]",p20,0,1
 "desert map",map,"[{""key"":""tier"",""value"":""9""}]",p5,0,1
 "desert map",map,"[{""key"":""tier"",""value"":""9""}]",p50,0,1
 "desert map",map,"[{""key"":""tier"",""value"":""9""}]",p7,0,1
-"desert map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,9
-"desert map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,7
+"desert map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,11
+"desert map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,8
 "coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,1
 "coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,1
 "coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,1
-"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",p10,0,1
-"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",p15,0,1
 "coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,1
-"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",p20,0,1
 "coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
 "coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,1
-"coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,45
+"coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,51
+"coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,21
+"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,0.5
+"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",p10,0,1
+"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",p15,0,1
+"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",p20,0,1
 "dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",p5,0,1
 "dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",p50,0,1
 "dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",p7,0,1
-"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,8
-"coral ruins map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,19
-"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,5
-"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.3820755475185856
-"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.4612857142857143
-"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,0.4875961132234897
-"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.3378413630456756
+"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,12
+"dark forest map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,9
+"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.3774110910186862
+"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.4628452380952381
+"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,0.4937980566117449
+"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.3441711874623269
 "coves map",map,"[{""key"":""tier"",""value"":""3""}]",p50,0,1
-"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.3514064697609003
-"coves map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,75
-"coves map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,37
+"coves map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.3516561181434601
+"coves map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,97
+"coves map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,44
 "promenade map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,1
 "promenade map",map,"[{""key"":""tier"",""value"":""6""}]",p15,0,1
 "promenade map",map,"[{""key"":""tier"",""value"":""6""}]",p20,0,1
 "promenade map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,1
 "promenade map",map,"[{""key"":""tier"",""value"":""6""}]",p50,0,1
 "promenade map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,1
-"promenade map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,11
-"promenade map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,7
-"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p10,0,1
-"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p15,0,1
-"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p20,0,1
-"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,1
-"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,1
-"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,1
-"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,11
-"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,8
-"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,0.5530402206306372
-"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,0.98
-"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,0.99
-"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,1
-"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,0.9049588105284309
-"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
-"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,0.9349752863170585
-"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,0.6995377211089902
-"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,0.7516394196574205
-"crater map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,22
-"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,0.5
+"promenade map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,14
+"promenade map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,11
+"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,0.5275103421744857
+"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,0.7116335141651601
+"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,0.481
 "shore map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
-"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,0.5040929583512237
-"crater map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,11
-"shore map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,62
-"shore map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,34
+"shore map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,0.4974
+"shore map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,71
+"shore map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,42
 "bog map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,1
 "bog map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,1
 "bog map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,1
 "bog map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,1
 "bog map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
 "bog map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,1
-"bog map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,24
-"bog map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,13
-"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,1
-"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,1
-"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,1
-"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,1
+"bog map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,31
+"bog map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,17
+"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,0.492857142857143
+"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,0.5
+"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,0.6571428571428571
+"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,0.4275046774096204
 "arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
-"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,1
-"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,53
-"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,24
-"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5
-"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5371444162793972
-"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.5742888325587946
-"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.5
-"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
-"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.5
-"silo map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,21
-"silo map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,11
-"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2395732995352768
+"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,0.4542857142857145
+"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,69
+"arachnid nest map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,36
+"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5722866497676385
+"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2708463786980897
+"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5741458195022835
+"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.6068583901663751
 "moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2906297790410328
+"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.4707596428709127
+"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
 "moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.492
-"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.2041591320072334
+"silo map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.5455422755137451
+"silo map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,34
+"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.2131312669458217
+"silo map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,14
 "moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",p50,0,1
-"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.2125550528629415
-"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,85
-"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,39
-"blighted terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p10,0,1
 "castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.1428571428571429
-"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2084990041644035
-"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.2704532560806327
-"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1409670950249475
+"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.2349879594423321
+"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,90
+"moon temple map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,39
+"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2106056491037481
+"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.2895008751282517
+"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1424304423924196
 "castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p50,0,1
-"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.142296336532078
-"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,98
-"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,45
+"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.1428571428571429
+"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,105
+"castle ruins map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,47
+"blighted terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p10,0,1
 "bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",p10,0,1
 "bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",p15,0,1
 "bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",p20,0,1
 "bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",p5,0,1
 "bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",p50,0,1
 "bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",p7,0,1
-"bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,10
-"bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,6
+"bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,12
+"bazaar map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,7
 "blighted terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p15,0,1
 "blighted terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p20,0,1
 "blighted terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p5,0,1
@@ -422,83 +374,155 @@
 "blighted terrace map",map,"[{""key"":""tier"",""value"":""1""}]",p7,0,1
 "blighted terrace map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,5
 "blighted terrace map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,5
-"museum map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.2857142857142858
+"museum map",map,"[{""key"":""tier"",""value"":""3""}]",p10,0,0.3285714285714287
 "lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p10,0,1
 "lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p15,0,1
 "lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p20,0,1
 "lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p5,0,1
 "lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p50,0,1
 "lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",p7,0,1
-"lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,151
-"lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,44
-"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.1781142495020823
-"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2557166244190959
-"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.2932589094031774
-"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1420443800671938
+"lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,121
+"lava lake map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,37
+"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2231970849176173
+"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2803876785530778
+"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.3144464209041281
+"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1423390065785504
 "alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p50,0,1
-"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.1425218782062889
-"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,70
-"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,36
-"museum map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.4294106037593265
+"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.1435622849900417
+"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,83
+"alleyways map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,44
+"museum map",map,"[{""key"":""tier"",""value"":""3""}]",p15,0,0.4953485424588087
 "museum map",map,"[{""key"":""tier"",""value"":""3""}]",p20,0,0.5
 "museum map",map,"[{""key"":""tier"",""value"":""3""}]",p5,0,0.2844951415293622
 "museum map",map,"[{""key"":""tier"",""value"":""3""}]",p50,0,1
-"museum map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.2846170559478546
+"museum map",map,"[{""key"":""tier"",""value"":""3""}]",p7,0,0.2851290965055225
 "arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p10,0,0.2133713561470217
-"museum map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,65
-"museum map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,31
+"museum map",map,"[{""key"":""tier"",""value"":""3""}]",totalQuantity,0,81
+"museum map",map,"[{""key"":""tier"",""value"":""3""}]",totalValidListings,0,37
 "vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,1
-"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2702703844528941
-"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.3073839170704779
-"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.1834813067868852
+"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p15,0,0.2855314140865473
+"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p20,0,0.3215089247377784
+"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p5,0,0.2097076552139844
 "arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p50,0,1
-"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.2115466782179013
-"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,67
-"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,33
+"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",p7,0,0.2127231153037816
+"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",totalQuantity,0,82
+"arachnid tomb map",map,"[{""key"":""tier"",""value"":""2""}]",totalValidListings,0,40
 "vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,1
 "vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,1
 "vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,1
 "vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
 "vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,1
-"vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,23
-"vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,9
-"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,0.9547619047619047
-"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p15,0,0.9886904761904762
+"vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,36
+"vaal pyramid map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,14
+"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5
+"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,1
+"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p15,0,1
 "overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p20,0,1
-"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,0.9208333333333333
+"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,1
 "overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p50,0,1
-"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,0.9344047619047618
-"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,14
-"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,7
-"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5195732995352768
-"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.561982115195043
-"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.5689548755708453
-"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.493
+"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,1
+"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,23
+"overgrown shrine map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,10
+"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5260977327137023
+"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.566481179713119
+"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.496
 "acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
-"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.4982
-"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,24
-"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,14
+"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.5
+"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,36
+"acid caverns map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,17
 "laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,1
 "laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,1
 "laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,1
 "laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,1
 "laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,1
 "laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,1
-"laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,50
-"laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,19
-"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,0.991
-"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p15,0,0.9964999999999999
-"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p20,0,1
-"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,0.8605601265822787
-"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p50,0,1
-"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,0.9238418424753869
-"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,14
-"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,12
-"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",p10,0,1
+"laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,63
+"laboratory map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,20
+"primordial pool map",map,"[{""key"":""tier"",""value"":""9""}]",p10,0,1
+"primordial pool map",map,"[{""key"":""tier"",""value"":""9""}]",p15,0,1
+"primordial pool map",map,"[{""key"":""tier"",""value"":""9""}]",p20,0,1
+"primordial pool map",map,"[{""key"":""tier"",""value"":""9""}]",p5,0,1
+"primordial pool map",map,"[{""key"":""tier"",""value"":""9""}]",p50,0,2
+"primordial pool map",map,"[{""key"":""tier"",""value"":""9""}]",p7,0,1
+"primordial pool map",map,"[{""key"":""tier"",""value"":""9""}]",totalQuantity,0,11
+"primordial pool map",map,"[{""key"":""tier"",""value"":""9""}]",totalValidListings,0,5
+"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",p10,0,0.996
 "dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",p15,0,1
 "dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",p20,0,1
-"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,1
+"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,0.988
 "dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,1
-"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,1
-"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,10
-"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,7
+"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,0.9912
+"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,15
+"dungeon map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,9
+"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,1
+"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,1
+"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,1
+"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,1
+"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
+"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,1
+"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,19
+"mineral pools map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,11
+"estuary map",map,"[{""key"":""tier"",""value"":""8""}]",p10,0,1
+"estuary map",map,"[{""key"":""tier"",""value"":""8""}]",p15,0,1
+"estuary map",map,"[{""key"":""tier"",""value"":""8""}]",p20,0,1
+"estuary map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,1
+"estuary map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,1
+"estuary map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,1
+"estuary map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,12
+"estuary map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,9
+"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p10,0,1
+"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p15,0,1
+"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p20,0,1
+"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,1
+"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,1
+"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,1
+"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,18
+"arsenal map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,13
+"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p10,0,1
+"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p15,0,1
+"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p20,0,1
+"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p5,0,1
+"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p50,0,1
+"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",p7,0,1
+"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",totalQuantity,0,138
+"mausoleum map",map,"[{""key"":""tier"",""value"":""1""}]",totalValidListings,0,39
+"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p10,0,0.5071428571428571
+"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p15,0,0.5464285714285716
+"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p20,0,0.5714285714285716
+"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p5,0,0.491
+"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p50,0,0.875
+"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",p7,0,0.4954
+"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",totalQuantity,0,22
+"courtyard map",map,"[{""key"":""tier"",""value"":""5""}]",totalValidListings,0,12
+"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p10,0,0.99
+"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p15,0,1
+"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p20,0,1
+"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p5,0,0.9441836734693878
+"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p50,0,1
+"crater map",map,"[{""key"":""tier"",""value"":""7""}]",p7,0,0.981
+"crater map",map,"[{""key"":""tier"",""value"":""7""}]",totalQuantity,0,29
+"crater map",map,"[{""key"":""tier"",""value"":""7""}]",totalValidListings,0,16
+"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p10,0,1
+"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p15,0,1
+"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p20,0,1
+"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p5,0,1
+"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p50,0,1.25
+"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",p7,0,1
+"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",totalQuantity,0,21
+"leyline map",map,"[{""key"":""tier"",""value"":""8""}]",totalValidListings,0,14
+"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p10,0,0.994
+"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p15,0,1
+"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p20,0,1
+"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p5,0,0.9072857142857144
+"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p50,0,1
+"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",p7,0,0.9844857142857143
+"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",totalQuantity,0,22
+"volcano map",map,"[{""key"":""tier"",""value"":""6""}]",totalValidListings,0,15
+"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p10,0,1
+"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p15,0,1
+"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p20,0,1
+"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p5,0,1
+"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p50,0,1
+"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",p7,0,1
+"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",totalQuantity,0,39
+"thicket map",map,"[{""key"":""tier"",""value"":""4""}]",totalValidListings,0,20
