@@ -1,122 +1,90 @@
 "timeless maraketh splinter",fragment,"[]",p10,0,0.5
 "timeless maraketh splinter",fragment,"[]",p15,0,0.5
 "timeless maraketh splinter",fragment,"[]",p20,0,0.5
-"timeless maraketh splinter",fragment,"[]",p5,0,0.2991649085794655
+"timeless maraketh splinter",fragment,"[]",p5,0,0.5
 "timeless maraketh splinter",fragment,"[]",p50,0,1
-"timeless maraketh splinter",fragment,"[]",p7,0,0.3794989451476793
-"timeless maraketh splinter",fragment,"[]",totalQuantity,0,25
+"timeless maraketh splinter",fragment,"[]",p7,0,0.5
+"timeless maraketh splinter",fragment,"[]",totalQuantity,0,26
 "timeless maraketh splinter",fragment,"[]",totalValidListings,0,11
 "splinter of xoph",fragment,"[]",p10,0,1
-"splinter of xoph",fragment,"[]",p10,9,0.2991649085794655
+"splinter of xoph",fragment,"[]",p10,9,1
 "splinter of xoph",fragment,"[]",p15,0,1
-"splinter of xoph",fragment,"[]",p15,9,0.3995824542897328
+"splinter of xoph",fragment,"[]",p15,9,1
 "splinter of xoph",fragment,"[]",p20,0,1
-"splinter of xoph",fragment,"[]",p20,9,0.5
+"splinter of xoph",fragment,"[]",p20,9,1
 "splinter of xoph",fragment,"[]",p5,0,1
-"splinter of xoph",fragment,"[]",p5,9,0.1987473628691983
+"splinter of xoph",fragment,"[]",p5,9,1
 "splinter of xoph",fragment,"[]",p50,0,1
 "splinter of xoph",fragment,"[]",p50,9,1
 "splinter of xoph",fragment,"[]",p7,0,1
-"splinter of xoph",fragment,"[]",p7,9,0.2389143811533052
-"splinter of xoph",fragment,"[]",totalQuantity,0,163
-"splinter of xoph",fragment,"[]",totalQuantity,9,163
-"splinter of xoph",fragment,"[]",totalValidListings,0,19
-"splinter of xoph",fragment,"[]",totalValidListings,9,6
-"simulacrum splinter",fragment,"[]",p10,0,1
-"simulacrum splinter",fragment,"[]",p10,9,0.1406469760900141
-"simulacrum splinter",fragment,"[]",p10,18,1
-"simulacrum splinter",fragment,"[]",p15,0,1
-"simulacrum splinter",fragment,"[]",p15,9,0.320323488045007
-"simulacrum splinter",fragment,"[]",p15,18,1
-"simulacrum splinter",fragment,"[]",p20,0,1
-"simulacrum splinter",fragment,"[]",p20,9,0.5
-"simulacrum splinter",fragment,"[]",p20,18,1
-"simulacrum splinter",fragment,"[]",p5,0,0.998
-"simulacrum splinter",fragment,"[]",p5,9,0.1194883966244726
-"simulacrum splinter",fragment,"[]",p5,18,1
-"simulacrum splinter",fragment,"[]",p50,0,1
-"simulacrum splinter",fragment,"[]",p50,9,1
-"simulacrum splinter",fragment,"[]",p50,18,1
-"simulacrum splinter",fragment,"[]",p7,0,1
-"simulacrum splinter",fragment,"[]",p7,9,0.1279518284106892
-"simulacrum splinter",fragment,"[]",p7,18,1
-"simulacrum splinter",fragment,"[]",totalQuantity,0,341
-"simulacrum splinter",fragment,"[]",totalQuantity,9,341
-"simulacrum splinter",fragment,"[]",totalQuantity,18,341
-"simulacrum splinter",fragment,"[]",totalValidListings,0,37
-"simulacrum splinter",fragment,"[]",totalValidListings,9,11
-"simulacrum splinter",fragment,"[]",totalValidListings,18,4
-"splinter of esh",fragment,"[]",p10,0,0.3565739231898928
-"splinter of esh",fragment,"[]",p15,0,0.5
-"splinter of esh",fragment,"[]",p20,0,0.5
-"splinter of esh",fragment,"[]",p5,0,0.1187737254233861
+"splinter of xoph",fragment,"[]",p7,9,1
+"splinter of xoph",fragment,"[]",totalQuantity,0,157
+"splinter of xoph",fragment,"[]",totalQuantity,9,157
+"splinter of xoph",fragment,"[]",totalValidListings,0,22
+"splinter of xoph",fragment,"[]",totalValidListings,9,4
+"splinter of esh",fragment,"[]",p10,0,1
+"splinter of esh",fragment,"[]",p15,0,1
+"splinter of esh",fragment,"[]",p20,0,1
+"splinter of esh",fragment,"[]",p5,0,0.9908
 "splinter of esh",fragment,"[]",p50,0,1
-"splinter of esh",fragment,"[]",p7,0,0.1844626310177641
-"splinter of esh",fragment,"[]",totalQuantity,0,40
-"splinter of esh",fragment,"[]",totalValidListings,0,17
+"splinter of esh",fragment,"[]",p7,0,0.99632
+"splinter of esh",fragment,"[]",totalQuantity,0,38
+"splinter of esh",fragment,"[]",totalValidListings,0,13
 "timeless templar splinter",fragment,"[]",p10,0,1
 "timeless templar splinter",fragment,"[]",p15,0,1
 "timeless templar splinter",fragment,"[]",p20,0,1
 "timeless templar splinter",fragment,"[]",p5,0,1
 "timeless templar splinter",fragment,"[]",p50,0,1
 "timeless templar splinter",fragment,"[]",p7,0,1
-"timeless templar splinter",fragment,"[]",totalQuantity,0,20
+"timeless templar splinter",fragment,"[]",totalQuantity,0,22
 "timeless templar splinter",fragment,"[]",totalValidListings,0,7
-"timeless eternal empire splinter",fragment,"[]",p10,0,1
-"timeless eternal empire splinter",fragment,"[]",p15,0,1
-"timeless eternal empire splinter",fragment,"[]",p20,0,1
-"timeless eternal empire splinter",fragment,"[]",p5,0,1
-"timeless eternal empire splinter",fragment,"[]",p50,0,1
-"timeless eternal empire splinter",fragment,"[]",p7,0,1
-"timeless eternal empire splinter",fragment,"[]",totalQuantity,0,45
-"timeless eternal empire splinter",fragment,"[]",totalValidListings,0,13
 "splinter of chayula",fragment,"[]",p10,0,1
 "splinter of chayula",fragment,"[]",p15,0,1
 "splinter of chayula",fragment,"[]",p20,0,1
 "splinter of chayula",fragment,"[]",p5,0,1
 "splinter of chayula",fragment,"[]",p50,0,1
 "splinter of chayula",fragment,"[]",p7,0,1
-"splinter of chayula",fragment,"[]",totalQuantity,0,24
-"splinter of chayula",fragment,"[]",totalValidListings,0,5
+"splinter of chayula",fragment,"[]",totalQuantity,0,25
+"splinter of chayula",fragment,"[]",totalValidListings,0,6
 "timeless karui splinter",fragment,"[]",p10,0,1
 "timeless karui splinter",fragment,"[]",p15,0,1
 "timeless karui splinter",fragment,"[]",p20,0,1
 "timeless karui splinter",fragment,"[]",p5,0,1
 "timeless karui splinter",fragment,"[]",p50,0,1
 "timeless karui splinter",fragment,"[]",p7,0,1
-"timeless karui splinter",fragment,"[]",totalQuantity,0,44
-"timeless karui splinter",fragment,"[]",totalValidListings,0,15
+"timeless karui splinter",fragment,"[]",totalQuantity,0,59
+"timeless karui splinter",fragment,"[]",totalValidListings,0,18
 "splinter of tul",fragment,"[]",p10,0,1
-"splinter of tul",fragment,"[]",p10,9,0.2589978902953587
+"splinter of tul",fragment,"[]",p10,9,1
 "splinter of tul",fragment,"[]",p15,0,1
-"splinter of tul",fragment,"[]",p15,9,0.3393319268635724
+"splinter of tul",fragment,"[]",p15,9,1
 "splinter of tul",fragment,"[]",p20,0,1
-"splinter of tul",fragment,"[]",p20,9,0.4196659634317862
+"splinter of tul",fragment,"[]",p20,9,1
 "splinter of tul",fragment,"[]",p5,0,1
-"splinter of tul",fragment,"[]",p5,9,0.1786638537271449
+"splinter of tul",fragment,"[]",p5,9,1
 "splinter of tul",fragment,"[]",p50,0,1
 "splinter of tul",fragment,"[]",p50,9,1
 "splinter of tul",fragment,"[]",p7,0,1
-"splinter of tul",fragment,"[]",p7,9,0.2107974683544304
-"splinter of tul",fragment,"[]",totalQuantity,0,149
-"splinter of tul",fragment,"[]",totalQuantity,9,149
+"splinter of tul",fragment,"[]",p7,9,1
+"splinter of tul",fragment,"[]",totalQuantity,0,141
+"splinter of tul",fragment,"[]",totalQuantity,9,141
 "splinter of tul",fragment,"[]",totalValidListings,0,14
-"splinter of tul",fragment,"[]",totalValidListings,9,5
-"voidborn reliquary key",fragment,"[]",p10,0,18
-"voidborn reliquary key",fragment,"[]",p15,0,26.5
-"voidborn reliquary key",fragment,"[]",p20,0,35
-"voidborn reliquary key",fragment,"[]",p5,0,9.5
+"splinter of tul",fragment,"[]",totalValidListings,9,3
+"voidborn reliquary key",fragment,"[]",p10,0,17.8
+"voidborn reliquary key",fragment,"[]",p15,0,26.2
+"voidborn reliquary key",fragment,"[]",p20,0,29.2
+"voidborn reliquary key",fragment,"[]",p5,0,9.400000000000002
 "voidborn reliquary key",fragment,"[]",p50,0,40
-"voidborn reliquary key",fragment,"[]",p7,0,12.9
-"voidborn reliquary key",fragment,"[]",totalQuantity,0,6
-"voidborn reliquary key",fragment,"[]",totalValidListings,0,6
+"voidborn reliquary key",fragment,"[]",p7,0,12.76
+"voidborn reliquary key",fragment,"[]",totalQuantity,0,7
+"voidborn reliquary key",fragment,"[]",totalValidListings,0,7
 "timeless vaal splinter",fragment,"[]",p10,0,0.8287798874824195
 "timeless vaal splinter",fragment,"[]",p15,0,0.9143899437412097
 "timeless vaal splinter",fragment,"[]",p20,0,1
 "timeless vaal splinter",fragment,"[]",p5,0,0.6643899437412097
 "timeless vaal splinter",fragment,"[]",p50,0,1
 "timeless vaal splinter",fragment,"[]",p7,0,0.7301459212376937
-"timeless vaal splinter",fragment,"[]",totalQuantity,0,25
+"timeless vaal splinter",fragment,"[]",totalQuantity,0,27
 "timeless vaal splinter",fragment,"[]",totalValidListings,0,11
 "splinter of uul-netol",fragment,"[]",p10,0,1
 "splinter of uul-netol",fragment,"[]",p15,0,1
@@ -124,13 +92,45 @@
 "splinter of uul-netol",fragment,"[]",p5,0,1
 "splinter of uul-netol",fragment,"[]",p50,0,1
 "splinter of uul-netol",fragment,"[]",p7,0,1
-"splinter of uul-netol",fragment,"[]",totalQuantity,0,35
-"splinter of uul-netol",fragment,"[]",totalValidListings,0,8
+"splinter of uul-netol",fragment,"[]",totalQuantity,0,36
+"splinter of uul-netol",fragment,"[]",totalValidListings,0,9
 "offering to the goddess",fragment,"[]",p10,0,1
 "offering to the goddess",fragment,"[]",p15,0,1
 "offering to the goddess",fragment,"[]",p20,0,1
-"offering to the goddess",fragment,"[]",p5,0,0.9868
+"offering to the goddess",fragment,"[]",p5,0,1
 "offering to the goddess",fragment,"[]",p50,0,1
-"offering to the goddess",fragment,"[]",p7,0,0.99912
-"offering to the goddess",fragment,"[]",totalQuantity,0,37
-"offering to the goddess",fragment,"[]",totalValidListings,0,29
+"offering to the goddess",fragment,"[]",p7,0,1
+"offering to the goddess",fragment,"[]",totalQuantity,0,53
+"offering to the goddess",fragment,"[]",totalValidListings,0,36
+"simulacrum splinter",fragment,"[]",p10,0,1
+"simulacrum splinter",fragment,"[]",p10,9,0.4640646976090014
+"simulacrum splinter",fragment,"[]",p10,18,1
+"simulacrum splinter",fragment,"[]",p15,0,1
+"simulacrum splinter",fragment,"[]",p15,9,0.52
+"simulacrum splinter",fragment,"[]",p15,18,1
+"simulacrum splinter",fragment,"[]",p20,0,1
+"simulacrum splinter",fragment,"[]",p20,9,0.5457142857142857
+"simulacrum splinter",fragment,"[]",p20,18,1
+"simulacrum splinter",fragment,"[]",p5,0,0.991
+"simulacrum splinter",fragment,"[]",p5,9,0.3023558368495077
+"simulacrum splinter",fragment,"[]",p5,18,1
+"simulacrum splinter",fragment,"[]",p50,0,1
+"simulacrum splinter",fragment,"[]",p50,9,1
+"simulacrum splinter",fragment,"[]",p50,18,1
+"simulacrum splinter",fragment,"[]",p7,0,0.9994
+"simulacrum splinter",fragment,"[]",p7,9,0.3670393811533053
+"simulacrum splinter",fragment,"[]",p7,18,1
+"simulacrum splinter",fragment,"[]",totalQuantity,0,411
+"simulacrum splinter",fragment,"[]",totalQuantity,9,411
+"simulacrum splinter",fragment,"[]",totalQuantity,18,411
+"simulacrum splinter",fragment,"[]",totalValidListings,0,43
+"simulacrum splinter",fragment,"[]",totalValidListings,9,10
+"simulacrum splinter",fragment,"[]",totalValidListings,18,4
+"timeless eternal empire splinter",fragment,"[]",p10,0,1
+"timeless eternal empire splinter",fragment,"[]",p15,0,1
+"timeless eternal empire splinter",fragment,"[]",p20,0,1
+"timeless eternal empire splinter",fragment,"[]",p5,0,1
+"timeless eternal empire splinter",fragment,"[]",p50,0,1
+"timeless eternal empire splinter",fragment,"[]",p7,0,1
+"timeless eternal empire splinter",fragment,"[]",totalQuantity,0,43
+"timeless eternal empire splinter",fragment,"[]",totalValidListings,0,14
