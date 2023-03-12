@@ -1,19 +1,19 @@
-"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,1.9
+"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,2
 "perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,2
 "perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1.45
-"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,4.5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1.63
-"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,13
-"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,10
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,1.4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1.5
+"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1.7
+"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,14
+"perception contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,11
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1.4
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,2
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,2
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",p5,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,13
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,13
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,15
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,15
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":67}]",p10,0,0.7
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":67}]",p15,0,0.8
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":67}]",p20,0,0.9
@@ -38,230 +38,214 @@
 "perception contract",contract,"[{""key"":""ilvl"",""value"":75}]",p7,0,2.28
 "perception contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,6
 "perception contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,5
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p10,0,0.7
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p15,0,0.8
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p20,0,0.9
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p5,0,0.6
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p50,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p7,0,0.64
+"deception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p10,0,0.8333333333333334
+"deception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p15,0,1.222222222222222
+"deception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p20,0,1.611111111111111
+"deception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p5,0,0.4444444444444444
+"deception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p50,0,19
+"deception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p7,0,0.6000000000000001
+"deception contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p10,0,0.75
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p15,0,0.875
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p20,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p5,0,0.625
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p50,0,1.4
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",p7,0,0.675
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",totalQuantity,0,28
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",totalValidListings,0,5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":67}]",totalValidListings,0,6
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",p20,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,18
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,9
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,20
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,10
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",p10,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",p15,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",p20,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",p50,0,3
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",p50,0,4
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",totalQuantity,0,5
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",totalValidListings,0,5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",totalQuantity,0,6
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":63}]",totalValidListings,0,6
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,2
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,2
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,3
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1.95
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,9
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,8
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,2
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,108
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,40
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,109
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,41
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,1.4
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,5
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,5.5
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,1.5
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,223
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,223
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,57
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,162
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,162
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,44
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,4
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,1.1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,2
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,2
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,2
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,3
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,1.02
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,5
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,85
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,36
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,1.8
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,1.188
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,94
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,43
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,2
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,3
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1.26
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,54
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,19
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,1.4
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,1.6
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,1.600000000000001
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,1.8
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1.4
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,5
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1.96
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,65
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,29
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,1.45
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,1.3
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,2
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,1.45
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,2
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,1.6
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,1.2
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,1.15
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,5
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,5
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,1.28
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,186
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,186
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,42
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,5
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,1.1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,1.21
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,211
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,211
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,40
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,4
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,1.4
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,2
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,2
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,4.5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,69
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,22
-"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,2.5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,73
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,25
+"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,2
+"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,2.5
+"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1.5
 "perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,5
 "perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,40
-"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,26
+"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,49
+"perception contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,31
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,55
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,21
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,4.2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,64
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,26
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,6.5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,2
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,4.8
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,2
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,6.000000000000001
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,7.25
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,2.4
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,8
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,3.6
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,5.75
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,5
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,10
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,11.76063829787234
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,3.84
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,344
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,344
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,46
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,7
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,1.75
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,1.8
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,2
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,2.2
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,2
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,2.6
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,1.4
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,5
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,10
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,1.56
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,299
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,299
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,56
-"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,9
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,6.05
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,324
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,324
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,53
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,4
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,1.4
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,2
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,2.4
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,2.800000000000001
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,5.375
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,10
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,117
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,38
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,1.9
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,2
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,2.800000000000001
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,5.75
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,1.03
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,59
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,30
-"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,2.100000000000001
-"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,3
-"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,3.133333333333334
-"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1.05
-"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,8.147058823529413
-"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,1.87
-"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,125
-"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,42
-"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,7
-"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,7.4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,10.2
-"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,6.4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,16
-"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,6.96
-"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,29
-"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,15
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,2.2
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,3
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,3.4
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,2
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,5
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,104
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,45
+"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,2.4
+"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,7.5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,104
+"agility contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,40
+"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,3.200000000000001
+"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,6.199999999999999
+"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,7
+"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,2
+"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,15
+"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,2
+"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,41
+"deception contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,25
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,2.85
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,3
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,1.95
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,6.5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,2
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,70
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,33
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,83
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,40
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",p10,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",p20,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,1.5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,9
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,12
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,8
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,1.2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",p5,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,9
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,8
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,8
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,7
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,1.2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,2.5
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,68
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,22
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,74
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,26
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,1.4
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,3.5
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,27
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,16
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,30
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,18
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",p10,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,1.2
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",p20,0,1.6
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,1.35
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",p20,0,1.8
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",p5,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,2
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,20
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,9
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,23
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,10
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,1.6
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,1.2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,57
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,19
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,64
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,22
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,1.7
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,2
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,2
@@ -270,21 +254,21 @@
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,1.49
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,10
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,8
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,2
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,1.100000000000001
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,6.888235294117647
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,8.626470588235293
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,3
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,2.094117647058824
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,10.36470588235294
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,5.15
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,5
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,15.7
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,1.5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,5.845294117647059
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,187
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,179
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,187
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,51
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,52
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,4
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,1
@@ -292,280 +276,240 @@
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,3
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,17
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,16
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,2
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,9,8.6
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,3
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,9,8.9
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,4.066666666666667
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,9,9.2
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1.04
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,9,8.3
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,8.5
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,9,12.5
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,1.696
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,9,8.42
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,116
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,9,128
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,42
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,9,4
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,20
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,18
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,1.800000000000001
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,3.885714285714286
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,4.571428571428571
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,61
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,28
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,70
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,35
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,2
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,19
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,15
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,24
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,18
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,1.2
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,2
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,16
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,13
-"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,1.664000000000001
-"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,5
-"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,34
-"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,7
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,5.300000000000001
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,13
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,23
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,18
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,4.53888888888889
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,18,6.75
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,30,9.65
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,7
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,14.5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,8
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,6.780555555555555
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,18,6.875
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,30,11.225
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,9.200000000000003
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,15
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,10
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,9.022222222222224
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,18,7
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,30,12.8
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,11.5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,3
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,2.297222222222222
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,18,6.625
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,30,8.075
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,15
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,16
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,18,13.5
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,30,23.5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,12.1
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,4.600000000000001
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,3.193888888888889
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,18,6.675
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,30,8.705
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,249
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,249
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,198
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,198
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,18,364
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,30,445
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,54
-"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,7
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,41
+"deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,4
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,18,6
 "deception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,30,4
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,3
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,3.075
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,4.04
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,2
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,9
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,2
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,146
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,42
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,2.8
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,3.857894736842105
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,4.102631578947368
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,4.347368421052631
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,3.613157894736842
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,5.454545454545455
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,3.711052631578947
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,139
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,183
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,39
-"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,4
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,3
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,4
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,4.5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,2.2
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,3
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,3.7
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1.1
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,8
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,1.94
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,107
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,43
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":86}]",p10,0,4.4
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":86}]",p15,0,4.6
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":86}]",p20,0,4.8
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":86}]",p5,0,4.2
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":86}]",p50,0,8
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":86}]",p7,0,4.28
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalQuantity,0,8
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalValidListings,0,5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,1.7
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,3.55
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,4.2
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,10
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,1.2
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,65
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,31
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,2.066666666666667
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,9,4.6
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,3
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,9,6.399999999999999
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,1
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,74
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,38
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,2
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,9,3.7
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,2.475
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,9,5.05
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,3
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,9,8.2
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,9,6.4
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,9,2.8
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,9,2.35
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,7.5
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,9,10
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,1.57
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,9,3.52
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,175
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,9,175
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,52
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,9,5
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,1.4
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,2.1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,3.800000000000001
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,10
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,75
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,35
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,1.71
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,9,2.89
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,164
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,9,162
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,54
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,9,4
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",p10,0,5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",p15,0,5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",p20,0,5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",p5,0,5
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",p50,0,5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",p50,0,8
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",p7,0,5
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalQuantity,0,5
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalValidListings,0,5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,3
-"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,2
-"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,9
-"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,2.4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,8
-"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,6
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalQuantity,0,7
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalValidListings,0,7
+"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,6.600000000000001
+"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,20
+"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,9
+"deception contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,7
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,5
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,3
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,17
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,11
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,18
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,10
 "agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,1.5
-"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,15
-"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,12
+"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,0.8
+"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,0.9866666666666668
+"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,19
+"agility contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,15
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,17
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,14
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,21
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,15
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",p5,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",p50,0,2
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",p50,0,4
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,7
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,6
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,10
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,8
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,2.5
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,12
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,7
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,16
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,10
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",p5,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,3
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,19
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,10
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,20
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,11
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",p5,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",p50,0,3
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",p50,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,5
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,7
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,7
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,3
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,19
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,17
-"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,5
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,20
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,18
+"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,2.899999999999999
 "deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,9,6.75
-"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,6.925
+"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,5
 "deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,9,6.875
-"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,8.600000000000001
+"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,8.2
 "deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,9,7
-"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,4.850000000000001
+"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1.15
 "deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,9,6.625
 "deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,10.5
 "deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,9,12.5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,2
 "deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,9,6.675
-"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,193
-"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,9,193
-"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,40
+"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,148
+"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,9,195
+"deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,44
 "deception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,9,6
-"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,6.9
-"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,10
-"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,10
-"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,5.600000000000001
-"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,15
-"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,6.44
-"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,119
-"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,29
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1.6
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,1.9
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1.1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,1.65
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,2
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p5,0,1.3
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p50,0,2
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1.42
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,9
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,7
-"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,2.8
-"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,3.4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,4.2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,2.4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,2.56
-"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,10
-"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,9
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p5,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p50,0,2.5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,13
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,12
+"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,2.9
+"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,3.7
+"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,4.6
+"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,2.45
+"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,6.5
+"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,2.63
+"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,13
+"perception contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,10
 "agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,3
 "agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,10
-"agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,9
+"agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,12
+"agility contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,11
+"agility contract",contract,"[{""key"":""ilvl"",""value"":59}]",p10,0,1.8
+"agility contract",contract,"[{""key"":""ilvl"",""value"":59}]",p15,0,2.2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":59}]",p20,0,2.6
+"agility contract",contract,"[{""key"":""ilvl"",""value"":59}]",p5,0,1.4
+"agility contract",contract,"[{""key"":""ilvl"",""value"":59}]",p50,0,3
+"agility contract",contract,"[{""key"":""ilvl"",""value"":59}]",p7,0,1.56
+"agility contract",contract,"[{""key"":""ilvl"",""value"":59}]",totalQuantity,0,5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":59}]",totalValidListings,0,5
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,13
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,9
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,16
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,11
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":61}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":61}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":61}]",p20,0,1
@@ -588,29 +532,29 @@
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,3
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,14
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,11
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,15
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,13
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,2
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,2.5
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,10
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,8
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,1.75
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,1.875
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,2
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,1.625
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,5.5
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,1.675
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,8
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,6
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,14
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,10
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,1.8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,1.95
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,2.600000000000001
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,1.65
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,6
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,1.71
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,9
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,7
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":53}]",p10,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":53}]",p15,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":53}]",p20,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":53}]",p5,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":53}]",p50,0,1.5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":53}]",p50,0,2.5
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":53}]",p7,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":53}]",totalQuantity,0,6
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":53}]",totalValidListings,0,6
@@ -620,144 +564,144 @@
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":68}]",p5,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":68}]",p50,0,5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":68}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalQuantity,0,20
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,11
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalQuantity,0,23
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,14
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",p10,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",p15,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",p20,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",p15,0,1.05
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",p20,0,1.4
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",p5,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",p50,0,3
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",p50,0,2.5
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",p7,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalQuantity,0,31
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,9
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",p10,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,8
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":49}]",p10,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":49}]",p15,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":49}]",p20,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":49}]",p5,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":49}]",p50,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":49}]",p7,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":49}]",totalQuantity,0,5
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":49}]",totalValidListings,0,5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",p10,0,0.9333333333333333
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",p15,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",p20,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",p5,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",p5,0,0.6333333333333333
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",p50,0,5
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",p7,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,6
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,6
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,3
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,5
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1.8
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",p7,0,0.7533333333333334
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,10
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,10
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,1.3
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,1.45
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,1.8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,1.15
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,1.21
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,7
+"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1.9
 "perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,2
 "perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",p5,0,1.4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",p5,0,1.45
 "perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",p50,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1.56
-"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,9
-"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,9
-"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,4.4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,3.2
-"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,7
-"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,3.68
-"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,14
-"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,9
+"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1.63
+"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,10
+"perception contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,10
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,3
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,4
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,2
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,10
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,2.4
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,7
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,6
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,2
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,2
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,2.4
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,1.1
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,2.2
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,1.3
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,5
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,1.54
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,43
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,23
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,1.82
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,36
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,27
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,3.5
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,14
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,10
-"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,1.8
-"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,2.2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,2.6
-"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,1.4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,1.56
-"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,11
-"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,9
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,0.7333333333333334
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,0.8933333333333335
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,18
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,13
+"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,1.9
+"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,2.35
+"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,2.8
+"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,1.45
+"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,4.5
+"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,1.63
+"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,12
+"perception contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,10
 "agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,2
 "agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,13
+"agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,15
 "agility contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,13
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,1.2
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",p50,0,3
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,8
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,7
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,13
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,11
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,1.05
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,1.4
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,1.5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,2
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,2.5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,3
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,10
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,8
-"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1.7
-"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,2.05
-"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,2.4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p5,0,1.35
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,12
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,11
+"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1.2
+"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,1.8
+"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,2
+"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p5,0,0.7333333333333334
 "perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,1.49
-"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,10
-"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,8
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,5
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,40
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,16
-"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p10,0,0.8
-"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p15,0,0.95
-"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p20,0,1.2
-"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p5,0,0.65
+"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,0.8933333333333335
+"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,16
+"perception contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,13
+"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p10,0,0.8500000000000001
+"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p15,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p20,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p5,0,0.675
 "agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p50,0,2
-"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p7,0,0.71
-"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",totalQuantity,0,13
-"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",totalValidListings,0,7
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p10,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p20,0,1.2
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p5,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,3
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,22
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,7
+"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",p7,0,0.745
+"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",totalQuantity,0,14
+"agility contract",contract,"[{""key"":""ilvl"",""value"":67}]",totalValidListings,0,8
+"deception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,3.64
+"deception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,3.96
+"deception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,4.279999999999999
+"deception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,3.32
+"deception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,3.448
+"deception contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,15
+"deception contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,5
 "agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,1.2
 "agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3
+"agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3.5
 "agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,11
-"agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,9
-"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,1.7
-"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,2.05
-"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,2.4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,1.35
+"agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,15
+"agility contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,12
+"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,1.9
+"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,2.35
+"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,2.8
+"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,1.45
 "perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,1.49
-"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,10
-"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,8
+"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,1.63
+"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,14
+"perception contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,10
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,1
@@ -766,14 +710,6 @@
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,12
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,11
-"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,2
-"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,2
-"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,3.600000000000001
-"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,1.65
-"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,5.5
-"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,2
-"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,59
-"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,34
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,1.4
@@ -783,13 +719,13 @@
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,7
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,7
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",p10,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",p15,0,1.1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",p20,0,1.8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",p15,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",p20,0,1.4
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",p50,0,3
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",p50,0,4
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,8
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,13
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,12
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,1.05
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,1.4
@@ -798,14 +734,14 @@
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,12
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,8
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1.5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1.7
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,2
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,2
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",p5,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,1.05
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,21
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,16
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3.25
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,1.19
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,24
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,18
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":47}]",p10,0,2.4
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":47}]",p15,0,2.6
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":47}]",p20,0,2.8
@@ -816,52 +752,52 @@
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":47}]",totalValidListings,0,5
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,1.4
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,3
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,3.833333333333333
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,10
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,7
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,15
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,12
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,11
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,9
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,2
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,49
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,26
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,14
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,11
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,2
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,2
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,3
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,1.833333333333333
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,4
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,2
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,38
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,13
-"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p10,0,9
-"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p15,0,10.4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p20,0,11.2
-"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p5,0,7
-"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p50,0,16
-"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p7,0,7.800000000000001
-"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalQuantity,0,15
-"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalValidListings,0,9
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p10,0,2.2
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p15,0,2.8
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p20,0,3
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p5,0,1.6
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p50,0,5
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p7,0,1.84
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",totalQuantity,0,8
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",totalValidListings,0,7
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,43
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,19
+"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p10,0,5.5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p15,0,8.25
+"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p20,0,10.4
+"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p5,0,2.775
+"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p50,0,15.5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p7,0,3.862777777777778
+"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalQuantity,0,19
+"deception contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalValidListings,0,12
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":53}]",p10,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":53}]",p15,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":53}]",p20,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":53}]",p5,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":53}]",p50,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":53}]",p7,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":53}]",totalQuantity,0,5
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":53}]",totalValidListings,0,5
+"perception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p10,0,4.6
+"perception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p15,0,5.4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p20,0,6.2
+"perception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p5,0,3.8
+"perception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p50,0,10
+"perception contract",contract,"[{""key"":""ilvl"",""value"":86}]",p7,0,4.12
+"perception contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalQuantity,0,7
+"perception contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalValidListings,0,5
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":67}]",p10,0,0.8181818181818182
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":67}]",p15,0,0.9545454545454545
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":67}]",p20,0,1.2
@@ -874,81 +810,89 @@
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",p15,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",p20,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",p5,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",p50,0,3
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",p50,0,5
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",totalQuantity,0,6
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",totalValidListings,0,6
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",totalQuantity,0,5
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":49}]",totalValidListings,0,5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,1.4
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,2
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,3
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,13
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,11
-"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,1.4
-"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,4
-"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,55
-"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,23
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,20
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,15
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,1.6
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3.5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,4.5
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,13
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,11
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,16
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,14
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,1.7
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,2.1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,2.8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,1.35
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,4.944444444444445
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,1.49
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,19
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,8
 "agility contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,1.4
 "agility contract",contract,"[{""key"":""ilvl"",""value"":76}]",p5,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,3
 "agility contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,10
+"agility contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,11
 "agility contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,7
 "agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",p20,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,2
 "agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,13
-"agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,7
+"agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,16
+"agility contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,9
 "agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,3
+"agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,2
 "agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,10
-"agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,7
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p10,0,2.2
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p15,0,2.8
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p20,0,3.066666666666667
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p5,0,1.6
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p50,0,5
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p7,0,1.84
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalQuantity,0,33
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,7
+"agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,11
+"agility contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,8
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p10,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p15,0,1.1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p20,0,1.8
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p5,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p50,0,4.166666666666667
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",p7,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalQuantity,0,35
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,8
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,6
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,5
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,2
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,20
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,13
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,25
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,17
 "agility contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,2.5
 "agility contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,18
+"agility contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,19
 "agility contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,14
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":62}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":62}]",p15,0,1
@@ -958,109 +902,101 @@
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":62}]",p7,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":62}]",totalQuantity,0,6
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":62}]",totalValidListings,0,6
-"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,3.5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,3.75
-"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p5,0,3.25
-"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,3.35
-"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,8
-"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,6
+"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,2.8
+"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p5,0,2.4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,2.56
+"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,10
+"perception contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,9
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,1.25
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",p5,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,18
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,13
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,21
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,16
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,2
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,26
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,19
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,28
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,20
 "agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",p15,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",p20,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",p50,0,3
-"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,16
-"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,11
+"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",p5,0,0.7333333333333334
+"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",p50,0,5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",p7,0,0.8933333333333335
+"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,18
+"agility contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,13
 "agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,2.5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,3.5
 "agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,18
-"agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,12
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p10,0,2.4
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,3
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p20,0,3
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p5,0,1.7
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,4
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p7,0,1.98
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,12
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,8
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,2.3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,9,4.3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,9,4.45
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,9,4.6
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,9,4.15
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,9,10.45454545454545
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,9,4.21
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,181
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,9,181
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,44
-"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,9,4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,3.6
-"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,3.9
-"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,4.2
-"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,3.3
-"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,3.42
-"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,8
-"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,7
+"agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,22
+"agility contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,16
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p10,0,1.1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,1.65
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p20,0,2.2
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p5,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,3
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",p7,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,17
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,12
+"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,3.8
+"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,4.2
+"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,4.6
+"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,3.4
+"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,10
+"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,3.56
+"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,10
+"deception contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,9
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,1
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,1.4
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,3
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,5
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,6
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,8
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,7
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":86}]",p10,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":86}]",p15,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":86}]",p20,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":86}]",p5,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":86}]",p50,0,2
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":86}]",p7,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalQuantity,0,5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalValidListings,0,5
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",p10,0,3
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",p15,0,3
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",p20,0,3
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",p5,0,3
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",p50,0,3.130434782608696
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",p50,0,4.065217391304348
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",p7,0,3
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalQuantity,0,28
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalQuantity,0,29
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,6
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,1.05
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,1.4
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,1.2
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,1.6
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,4
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,5
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,9
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,8
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,10
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,9
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,1.6
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1.9
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,2
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1.3
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,2
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1.42
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,7
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,8
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,7
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,1
@@ -1068,96 +1004,120 @@
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,3
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,16
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,7
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,1.7
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,2.55
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,19
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,9
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":59}]",p10,0,4.4
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":59}]",p15,0,4.6
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":59}]",p20,0,4.8
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":59}]",p5,0,4.2
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":59}]",p50,0,8
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":59}]",p7,0,4.28
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":59}]",totalQuantity,0,5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":59}]",totalValidListings,0,5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":58}]",p10,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":58}]",p15,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":58}]",p20,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":58}]",p5,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":58}]",p50,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":58}]",p7,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":58}]",totalQuantity,0,5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":58}]",totalValidListings,0,5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":62}]",p10,0,1.8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":62}]",p15,0,2.2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":62}]",p20,0,2.6
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":62}]",p5,0,1.4
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":62}]",p50,0,5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":62}]",p7,0,1.56
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":62}]",totalQuantity,0,6
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":62}]",totalValidListings,0,5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,2
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,2.85
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,3
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,6
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1.19
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,40
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,18
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1.95
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,2
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,31
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,20
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",p10,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,1.5
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,3
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,10
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,15
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,12
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",p10,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",p15,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",p20,0,1.2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",p15,0,1.2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",p20,0,1.6
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",p5,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",p50,0,2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",p50,0,3
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalQuantity,0,39
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,7
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalQuantity,0,40
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":68}]",totalValidListings,0,9
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,1.2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,1.2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,1.6
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,3
 "lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,7
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,7
-"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,2.2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,2.8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,9
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,9
+"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,1
+"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,2
 "perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1.6
-"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1.84
-"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,7
-"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,7
-"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,2.7
-"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,3.073333333333333
-"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,3.586666666666667
-"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,2.35
+"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1
+"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1
+"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,13
+"perception contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,11
+"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,2
+"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,2.5
+"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,1.5
 "perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,2.49
-"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,22
-"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,8
-"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,2.2
-"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,2.8
-"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,3.4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1.6
-"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1.84
-"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,7
-"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,5
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,2.4
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,2.6
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,2.8
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,2.2
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,5
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,2.28
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,5
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,1.6
-"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1.9
-"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,2.2
-"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1.3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1.42
-"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,9
-"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,7
+"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,1.7
+"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,25
+"perception contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,11
+"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,0.9055555555555556
+"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1
+"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,1
+"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,0.4805555555555555
+"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,6
+"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,0.6505555555555557
+"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,13
+"deception contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,10
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p10,0,2.5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p15,0,2.75
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p20,0,3
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p5,0,2.25
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p50,0,6.5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",p7,0,2.35
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalQuantity,0,6
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":73}]",totalValidListings,0,6
+"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,1.8
+"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,2.2
+"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,2.6
+"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1.4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1.56
+"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,11
+"perception contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,9
 "perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,3
 "perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,3
 "perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,2.7
+"perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,2.8
 "perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,5
 "perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,3
-"perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,28
-"perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,18
+"perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,33
+"perception contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,19
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",p10,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",p15,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",p20,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",p5,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",p50,0,2.5
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,22
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,12
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,29
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,18
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":72}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":72}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":72}]",p20,0,1
@@ -1170,121 +1130,113 @@
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":76}]",p5,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,1.5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,2
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,20
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,16
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p10,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p15,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p20,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p5,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p50,0,3
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p7,0,1
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",totalQuantity,0,5
-"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",totalValidListings,0,5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,15
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",p10,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,1.2
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",p15,0,1.2
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",p20,0,1.6
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",p5,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,3
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",p50,0,3.5
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",p7,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,8
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,7
-"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,2
-"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,2.5
-"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,3
-"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p5,0,1.5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalQuantity,0,11
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":79}]",totalValidListings,0,9
+"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,1.2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,1.6
+"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p5,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p50,0,5
-"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1.7
-"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,6
-"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,6
-"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,4.6
-"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,5.4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,6.2
-"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p5,0,3.8
-"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,12
-"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,4.12
-"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,6
-"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,5
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,1.4
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,1.6
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,1.8
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,1.2
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,4.375
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,1.28
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,13
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,9
+"agility contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,9
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,0.8
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,1
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,1
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,0.5666666666666667
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,3.1875
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,0.66
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,16
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,8
+"agility contract",contract,"[{""key"":""ilvl"",""value"":86}]",p10,0,5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":86}]",p15,0,5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":86}]",p20,0,5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":86}]",p5,0,5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":86}]",p50,0,10
+"agility contract",contract,"[{""key"":""ilvl"",""value"":86}]",p7,0,5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalQuantity,0,6
+"agility contract",contract,"[{""key"":""ilvl"",""value"":86}]",totalValidListings,0,5
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,1.05
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,1.399999999999999
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,2
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,4.083333333333334
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,5
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,65
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,28
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,73
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,37
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",p20,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",p5,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,1.5
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",p50,0,3
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,17
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,16
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalQuantity,0,22
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":78}]",totalValidListings,0,20
 "agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,1.800000000000001
 "agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,1
 "agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,4
 "agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,1
-"agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,88
-"agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,21
+"agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,92
+"agility contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,25
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,2
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,2.291666666666667
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,3
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,2
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,2.9375
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,3.583333333333333
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,3
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,3.583333333333333
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,2
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,1.645833333333333
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,7.5
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,5
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,10
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,2
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,1.904166666666667
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,238
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,238
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,51
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,140
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,222
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,50
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,6
-"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,5.2
-"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,5.8
-"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,6.4
-"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,4.6
-"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,10
-"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,4.84
-"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,5
-"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,4
-"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,5
-"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,2.05
+"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,4
+"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,4
+"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,4
+"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,4
+"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,8.5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,4
+"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,6
+"deception contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,6
+"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,2.3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,3.45
+"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,4.6
+"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,2
 "perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,10
-"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,2.87
-"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,74
-"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,42
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,2.51
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,1.666666666666667
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,2.765
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,2
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,3.02
+"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,2
+"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,78
+"perception contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,44
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,1.375
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,2.3
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,2.95
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,3
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,3.6
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,2.255
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,1.65
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,5
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,4.516666666666667
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,7.583333333333334
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,2.357
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,163
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,154
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,41
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,1.91
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,189
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,209
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,46
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,4
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,1
@@ -1292,24 +1244,32 @@
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,8
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,7
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,10
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,9
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":67}]",p10,0,1.1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":67}]",p15,0,1.4
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":67}]",p20,0,1.7
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":67}]",p5,0,0.8
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":67}]",p50,0,12
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":67}]",p7,0,0.92
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":67}]",totalQuantity,0,13
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":67}]",totalValidListings,0,5
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",p10,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,1.4
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",p15,0,1.2
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",p20,0,1.6
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",p50,0,3
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,8
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,7
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,1.4
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,1.6
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,1.8
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1.2
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalQuantity,0,11
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":70}]",totalValidListings,0,9
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,1.2
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,2
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1.28
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,7
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,9
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,7
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":74}]",p10,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":74}]",p15,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":74}]",p20,0,1
@@ -1318,30 +1278,30 @@
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":74}]",p7,0,1
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalQuantity,0,13
 "demolition contract",contract,"[{""key"":""ilvl"",""value"":74}]",totalValidListings,0,11
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,1
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,38
-"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,13
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,3
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1.9
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,7
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,2
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,109
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,39
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,10
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,1.15
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,131
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,46
+"perception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p10,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p15,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p20,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p5,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p50,0,5
+"perception contract",contract,"[{""key"":""ilvl"",""value"":72}]",p7,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,6
+"perception contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,5
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,3
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,1
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,39
-"engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,12
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,40
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,13
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":47}]",p10,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":47}]",p15,0,1
 "engineering contract",contract,"[{""key"":""ilvl"",""value"":47}]",p20,0,1
@@ -1354,10 +1314,10 @@
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",p15,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",p20,0,1
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",p5,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,1.5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",p50,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",p7,0,1
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,10
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,10
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalQuantity,0,12
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":77}]",totalValidListings,0,11
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":59}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":59}]",p15,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":59}]",p20,0,1
@@ -1367,20 +1327,20 @@
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":59}]",totalQuantity,0,6
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":59}]",totalValidListings,0,5
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,4
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,4.3
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,4.5
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,2.4
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,4.5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,4.9
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,2
 "trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,10
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,3.36
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,49
-"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,25
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,2.760000000000001
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,66
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,35
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,1.2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",p5,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,2
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,1
-"brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,12
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,13
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,7
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":75}]",p10,0,2
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,2
@@ -1398,11 +1358,195 @@
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":72}]",p7,0,1
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalQuantity,0,7
 "brute force contract",contract,"[{""key"":""ilvl"",""value"":72}]",totalValidListings,0,6
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,2.2
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,2.8
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,3
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1.6
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p10,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p15,0,1.1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p20,0,1.8
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p5,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p50,0,4
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",p7,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",totalQuantity,0,9
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":48}]",totalValidListings,0,8
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,9,4.3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,9,4.45
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,9,4.6
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,2
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,9,4.15
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,5
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,9,10.45454545454545
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,2.22
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,9,4.21
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,127
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,9,181
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,47
+"perception contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,9,4
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,2.5
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,40
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,14
+"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,7
+"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,10
+"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,15
+"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,141
+"deception contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,41
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,0,1.9
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p10,9,8.6
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,0,2.75
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p15,9,8.9
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,0,4.333333333333333
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p20,9,9.2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p5,9,8.3
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,0,9
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p50,9,12.5
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,0,1.12
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",p7,9,8.42
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,0,118
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalQuantity,9,128
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,0,46
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":84}]",totalValidListings,9,4
+"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,1.4
+"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,3.5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,63
+"agility contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,28
+"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,3
+"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,6.5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,78
+"agility contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,44
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p10,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p15,0,1.15
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p20,0,2.2
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p5,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p50,0,5
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",p7,0,1
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalQuantity,0,47
+"trap disarmament contract",contract,"[{""key"":""ilvl"",""value"":82}]",totalValidListings,0,22
+"deception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p10,0,1.666666666666667
+"deception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p15,0,2.333333333333333
+"deception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p20,0,3
+"deception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p5,0,1
+"deception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p50,0,7.5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":71}]",p7,0,1.266666666666667
+"deception contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalQuantity,0,6
+"deception contract",contract,"[{""key"":""ilvl"",""value"":71}]",totalValidListings,0,6
+"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,3.6
+"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,4.9
+"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,2.65
+"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,12.5
+"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,2.91
+"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,20
+"deception contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,14
+"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p10,0,0.9333333333333333
+"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p15,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p20,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p5,0,0.6333333333333333
+"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p50,0,7.5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",p7,0,0.7533333333333334
+"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalQuantity,0,37
+"agility contract",contract,"[{""key"":""ilvl"",""value"":69}]",totalValidListings,0,10
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p10,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p15,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p20,0,1.4
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p5,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p50,0,2
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",p7,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalQuantity,0,56
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":81}]",totalValidListings,0,33
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p10,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p15,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p20,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p5,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p50,0,2
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",p7,0,1
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",totalQuantity,0,6
+"lockpicking contract",contract,"[{""key"":""ilvl"",""value"":64}]",totalValidListings,0,6
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p10,0,1
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p15,0,1.7
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p20,0,2.6
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p5,0,1
 "counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p50,0,4
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1.84
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,10
-"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,7
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",p7,0,1
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalQuantity,0,13
+"counter-thaumaturgy contract",contract,"[{""key"":""ilvl"",""value"":80}]",totalValidListings,0,10
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p10,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p15,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p20,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p5,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p50,0,3
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",p7,0,1
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalQuantity,0,25
+"demolition contract",contract,"[{""key"":""ilvl"",""value"":75}]",totalValidListings,0,10
+"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p10,0,4.6
+"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p15,0,5.4
+"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p20,0,6.2
+"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p5,0,3.8
+"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p50,0,12
+"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",p7,0,4.12
+"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalQuantity,0,6
+"deception contract",contract,"[{""key"":""ilvl"",""value"":76}]",totalValidListings,0,5
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,3
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,3.857894736842105
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,4
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,4.102631578947368
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,4.25
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,4.347368421052631
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,2
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,3.613157894736842
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,10
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,5.454545454545455
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,2.8
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,3.711052631578947
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,157
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,183
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,41
+"perception contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,4
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,1.8
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,2
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,2.600000000000001
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,5
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,1
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,74
+"brute force contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,39
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p10,0,2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p15,0,2
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p20,0,2.200000000000001
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p5,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p50,0,8
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",p7,0,1
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalQuantity,0,88
+"engineering contract",contract,"[{""key"":""ilvl"",""value"":85}]",totalValidListings,0,42
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,0,1.5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p10,9,1.4
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,0,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p15,9,1.6
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,0,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p20,9,1.8
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p5,9,1.2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,0,5
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p50,9,2
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,0,1
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",p7,9,1.28
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,0,229
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalQuantity,9,229
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,0,51
+"agility contract",contract,"[{""key"":""ilvl"",""value"":83}]",totalValidListings,9,5
