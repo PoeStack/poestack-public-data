@@ -1,3 +1,35 @@
+"immortal resolve",card,"[]",p10,0,6.2
+"immortal resolve",card,"[]",p15,0,6.8
+"immortal resolve",card,"[]",p20,0,7.4
+"immortal resolve",card,"[]",p5,0,5.6
+"immortal resolve",card,"[]",p50,0,10
+"immortal resolve",card,"[]",p7,0,5.84
+"immortal resolve",card,"[]",totalQuantity,0,11
+"immortal resolve",card,"[]",totalValidListings,0,5
+"hope",card,"[]",p10,0,1
+"hope",card,"[]",p15,0,1
+"hope",card,"[]",p20,0,1
+"hope",card,"[]",p5,0,1
+"hope",card,"[]",p50,0,5
+"hope",card,"[]",p7,0,1
+"hope",card,"[]",totalQuantity,0,14
+"hope",card,"[]",totalValidListings,0,5
+"the eldritch decay",card,"[]",p10,0,5
+"the eldritch decay",card,"[]",p15,0,5
+"the eldritch decay",card,"[]",p20,0,5
+"the eldritch decay",card,"[]",p5,0,5
+"the eldritch decay",card,"[]",p50,0,6
+"the eldritch decay",card,"[]",p7,0,5
+"the eldritch decay",card,"[]",totalQuantity,0,9
+"the eldritch decay",card,"[]",totalValidListings,0,5
+"the chains that bind",card,"[]",p10,0,2.8
+"the chains that bind",card,"[]",p15,0,2.95
+"the chains that bind",card,"[]",p20,0,3
+"the chains that bind",card,"[]",p5,0,2.65
+"the chains that bind",card,"[]",p50,0,4
+"the chains that bind",card,"[]",p7,0,2.71
+"the chains that bind",card,"[]",totalQuantity,0,164
+"the chains that bind",card,"[]",totalValidListings,0,7
 "magnum opus",card,"[]",p10,0,9.5
 "magnum opus",card,"[]",p15,0,11.75
 "magnum opus",card,"[]",p20,0,14
@@ -6,30 +38,46 @@
 "magnum opus",card,"[]",p7,0,8.15
 "magnum opus",card,"[]",totalQuantity,0,8
 "magnum opus",card,"[]",totalValidListings,0,6
-"divine beauty",card,"[]",p10,0,122
-"divine beauty",card,"[]",p15,0,123
-"divine beauty",card,"[]",p20,0,124
-"divine beauty",card,"[]",p5,0,121
-"divine beauty",card,"[]",p50,0,125
-"divine beauty",card,"[]",p7,0,121.4
-"divine beauty",card,"[]",totalQuantity,0,7
-"divine beauty",card,"[]",totalValidListings,0,5
+"the darkest dream",card,"[]",p10,0,4
+"the darkest dream",card,"[]",p15,0,4
+"the darkest dream",card,"[]",p20,0,4
+"the darkest dream",card,"[]",p5,0,4
+"the darkest dream",card,"[]",p50,0,5
+"the darkest dream",card,"[]",p7,0,4
+"the darkest dream",card,"[]",totalQuantity,0,13
+"the darkest dream",card,"[]",totalValidListings,0,5
+"the academic",card,"[]",p10,0,12
+"the academic",card,"[]",p15,0,13
+"the academic",card,"[]",p20,0,14
+"the academic",card,"[]",p5,0,11
+"the academic",card,"[]",p50,0,18
+"the academic",card,"[]",p7,0,11.4
+"the academic",card,"[]",totalQuantity,0,9
+"the academic",card,"[]",totalValidListings,0,5
 "the watcher",card,"[]",p10,0,2
 "the watcher",card,"[]",p15,0,2
 "the watcher",card,"[]",p20,0,2
 "the watcher",card,"[]",p5,0,2
 "the watcher",card,"[]",p50,0,5
 "the watcher",card,"[]",p7,0,2
-"the watcher",card,"[]",totalQuantity,0,10
-"the watcher",card,"[]",totalValidListings,0,5
-"the witch",card,"[]",p10,0,1.8
-"the witch",card,"[]",p15,0,2.2
-"the witch",card,"[]",p20,0,2.6
-"the witch",card,"[]",p5,0,1.4
-"the witch",card,"[]",p50,0,5
-"the witch",card,"[]",p7,0,1.56
-"the witch",card,"[]",totalQuantity,0,28
-"the witch",card,"[]",totalValidListings,0,5
+"the watcher",card,"[]",totalQuantity,0,70
+"the watcher",card,"[]",totalValidListings,0,6
+"the admirer",card,"[]",p10,0,3.2
+"the admirer",card,"[]",p15,0,3.8
+"the admirer",card,"[]",p20,0,4.4
+"the admirer",card,"[]",p5,0,2.6
+"the admirer",card,"[]",p50,0,5
+"the admirer",card,"[]",p7,0,2.84
+"the admirer",card,"[]",totalQuantity,0,18
+"the admirer",card,"[]",totalValidListings,0,5
+"brush, paint and palette",card,"[]",p10,0,6.2
+"brush, paint and palette",card,"[]",p15,0,6.8
+"brush, paint and palette",card,"[]",p20,0,7.4
+"brush, paint and palette",card,"[]",p5,0,5.6
+"brush, paint and palette",card,"[]",p50,0,8
+"brush, paint and palette",card,"[]",p7,0,5.84
+"brush, paint and palette",card,"[]",totalQuantity,0,9
+"brush, paint and palette",card,"[]",totalValidListings,0,5
 "the hunger",card,"[]",p10,0,219.85
 "the hunger",card,"[]",p15,0,220.425
 "the hunger",card,"[]",p20,0,221
@@ -46,6 +94,30 @@
 "the return of the rat",card,"[]",p7,0,6.96
 "the return of the rat",card,"[]",totalQuantity,0,16
 "the return of the rat",card,"[]",totalValidListings,0,5
+"council of cats",card,"[]",p10,0,4.4
+"council of cats",card,"[]",p15,0,4.6
+"council of cats",card,"[]",p20,0,4.8
+"council of cats",card,"[]",p5,0,4.2
+"council of cats",card,"[]",p50,0,5
+"council of cats",card,"[]",p7,0,4.28
+"council of cats",card,"[]",totalQuantity,0,8
+"council of cats",card,"[]",totalValidListings,0,5
+"seven years bad luck",card,"[]",p10,0,91
+"seven years bad luck",card,"[]",p15,0,94
+"seven years bad luck",card,"[]",p20,0,97
+"seven years bad luck",card,"[]",p5,0,88
+"seven years bad luck",card,"[]",p50,0,222
+"seven years bad luck",card,"[]",p7,0,89.2
+"seven years bad luck",card,"[]",totalQuantity,0,7
+"seven years bad luck",card,"[]",totalValidListings,0,5
+"assassin's favour",card,"[]",p10,0,1
+"assassin's favour",card,"[]",p15,0,1
+"assassin's favour",card,"[]",p20,0,1
+"assassin's favour",card,"[]",p5,0,1
+"assassin's favour",card,"[]",p50,0,2
+"assassin's favour",card,"[]",p7,0,1
+"assassin's favour",card,"[]",totalQuantity,0,203
+"assassin's favour",card,"[]",totalValidListings,0,5
 "eternal bonds",card,"[]",p10,0,30
 "eternal bonds",card,"[]",p15,0,30
 "eternal bonds",card,"[]",p20,0,30
@@ -54,11 +126,51 @@
 "eternal bonds",card,"[]",p7,0,30
 "eternal bonds",card,"[]",totalQuantity,0,9
 "eternal bonds",card,"[]",totalValidListings,0,6
-"the patient",card,"[]",p10,0,11.4
-"the patient",card,"[]",p15,0,12.05
-"the patient",card,"[]",p20,0,12.4
-"the patient",card,"[]",p5,0,10.7
+"the patient",card,"[]",p10,0,9
+"the patient",card,"[]",p15,0,10.4
+"the patient",card,"[]",p20,0,11.2
+"the patient",card,"[]",p5,0,7
 "the patient",card,"[]",p50,0,14
-"the patient",card,"[]",p7,0,10.98
-"the patient",card,"[]",totalQuantity,0,12
-"the patient",card,"[]",totalValidListings,0,8
+"the patient",card,"[]",p7,0,7.800000000000001
+"the patient",card,"[]",totalQuantity,0,13
+"the patient",card,"[]",totalValidListings,0,9
+"alivia's grace",card,"[]",p10,0,1
+"alivia's grace",card,"[]",p15,0,1
+"alivia's grace",card,"[]",p20,0,1
+"alivia's grace",card,"[]",p5,0,1
+"alivia's grace",card,"[]",p50,0,5
+"alivia's grace",card,"[]",p7,0,1
+"alivia's grace",card,"[]",totalQuantity,0,23
+"alivia's grace",card,"[]",totalValidListings,0,5
+"prejudice",card,"[]",p10,0,5
+"prejudice",card,"[]",p15,0,5
+"prejudice",card,"[]",p20,0,5
+"prejudice",card,"[]",p5,0,5
+"prejudice",card,"[]",p50,0,7
+"prejudice",card,"[]",p7,0,5
+"prejudice",card,"[]",totalQuantity,0,10
+"prejudice",card,"[]",totalValidListings,0,5
+"divine beauty",card,"[]",p10,0,122.5
+"divine beauty",card,"[]",p15,0,123.75
+"divine beauty",card,"[]",p20,0,125
+"divine beauty",card,"[]",p5,0,121.25
+"divine beauty",card,"[]",p50,0,130
+"divine beauty",card,"[]",p7,0,121.75
+"divine beauty",card,"[]",totalQuantity,0,12
+"divine beauty",card,"[]",totalValidListings,0,6
+"the sword king's salute",card,"[]",p10,0,2.6
+"the sword king's salute",card,"[]",p15,0,3.4
+"the sword king's salute",card,"[]",p20,0,4.2
+"the sword king's salute",card,"[]",p5,0,1.8
+"the sword king's salute",card,"[]",p50,0,5
+"the sword king's salute",card,"[]",p7,0,2.12
+"the sword king's salute",card,"[]",totalQuantity,0,220
+"the sword king's salute",card,"[]",totalValidListings,0,5
+"the witch",card,"[]",p10,0,1.8
+"the witch",card,"[]",p15,0,2.2
+"the witch",card,"[]",p20,0,2.6
+"the witch",card,"[]",p5,0,1.4
+"the witch",card,"[]",p50,0,5
+"the witch",card,"[]",p7,0,1.56
+"the witch",card,"[]",totalQuantity,0,28
+"the witch",card,"[]",totalValidListings,0,5
