@@ -1,17 +1,13 @@
-"brutality support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "life gain on hit support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "karui ward",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p10,0,1.4
 "arrow nova support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.75
-"swiftbrand support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "blasphemy support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
-"void manipulation support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
+"swiftbrand support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "hextouch support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "bonechill support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
-"physical to lightning support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "burning damage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "innervate support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
 "earthbreaker support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
-"advanced traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "minion speed support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "high-impact mine support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
@@ -20,4 +16,8 @@
 "flammability",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "increased critical damage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.7
 "purity of fire",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
+"brutality support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
+"void manipulation support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,0.5
+"advanced traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
+"physical to lightning support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p10,0,1
 "string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p10,0,0.8
