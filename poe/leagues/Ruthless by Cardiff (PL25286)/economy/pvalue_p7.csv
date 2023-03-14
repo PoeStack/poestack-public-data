@@ -1,85 +1,80 @@
-"fortify support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "eternal blessing support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"spectral shield throw",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"chance to bleed support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"charged traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "corrupting fever",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"pierce support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "seismic cry",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "cast on death support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"added cold damage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"lightning penetration support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"spectral shield throw",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "blasphemy support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"innervate support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"punishment",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"arcane cloak",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"second wind support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"power charge on critical support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"unleash support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"onslaught support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.675
-"point blank support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"hextouch support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"pierce support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"added cold damage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "trinity support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"behead support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"burning damage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"pestilent strike",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5700000000000001
-"feeding frenzy support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"faster attacks support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"signal prey",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "cold to fire support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"void manipulation support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "cluster traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "purity of fire",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "melee splash support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "endurance charge on melee stun support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "volatile dead",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"orb of storms",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "animate guardian",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "increased critical damage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"cast on melee kill support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"physical to lightning support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"charged traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"minion life support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"faster casting support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"summon holy relic",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"ballista totem support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"spell cascade support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"freezing pulse",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"despair",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"trap support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"minefield support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"reap",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"perforate",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "urgent orders support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"perforate",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "infused channelling support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "meat shield support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "brutality support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"tectonic slam",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.37
 "volley support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "charged mines support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "explosive trap",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "immolate support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.64
 "artillery ballista",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"spell totem support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"nightblade support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"arrogance support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"purity of lightning",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"energy leech support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"high-impact mine support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p7,0,0.71
+"arcane cloak",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"second wind support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"innervate support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"power charge on critical support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"overcharge support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"punishment",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"unleash support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"point blank support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"behead support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"faster attacks support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"hextouch support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"burning damage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"pestilent strike",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5700000000000001
+"feeding frenzy support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"signal prey",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"cast on melee kill support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"minion life support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"flammability",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"summon holy relic",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"minefield support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"ballista totem support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"spell cascade support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"freezing pulse",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"despair",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"trap support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"reap",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"tectonic slam",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.37
 "mana leech support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "life gain on hit support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "bonechill support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"burning arrow",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "earthquake",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"spell totem support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"flammability",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"nightblade support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "vulnerability",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"arrogance support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"shockwave",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "chain support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "sunder",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"fork support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "withering touch support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "ancestral protector",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"shockwave",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "blade trap",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "earthbreaker support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"purity of lightning",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"overcharge support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "arrow nova support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"energy leech support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "shockwave totem",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "culling strike support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "barrage support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
@@ -88,17 +83,24 @@
 "double strike",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "mark on hit support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.675
 "chance to poison support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"chance to bleed support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "increased area of effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
 "advanced traps support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"high-impact mine support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"burning arrow",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "frost shield",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "swiftbrand support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "creeping frost",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "minion speed support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
-"blood and sand",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
-"hex bloom support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "ancestral call support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"void manipulation support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "increased critical strikes support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
 "karui ward",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":false},{""key"":""foilVariation"",""value"":0}]",p7,0,1.35
-"string of servitude",unique,"[{""key"":""sixLink"",""value"":false},{""key"":""corrupted"",""value"":true},{""key"":""foilVariation"",""value"":0}]",p7,0,0.71
+"lightning penetration support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"hex bloom support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"blind support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"concentrated effect support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"faster casting support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"fork support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"physical to lightning support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
+"blood and sand",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,1
+"onslaught support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.675
+"fortify support",gem,"[{""key"":""lvl"",""value"":""1-18""},{""key"":""corrupted"",""value"":false},{""key"":""quality"",""value"":""0""}]",p7,0,0.5
